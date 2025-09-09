@@ -114,6 +114,7 @@ UDIFY Model:
 Data available since: UD v2.10
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: agriculture, grammar, general, tourism
 Lemmas: annotated manually in Paninian Grammar Framework
 UPOS: annotated manually in Paninian Grammar Framework, automatic converted to UD
