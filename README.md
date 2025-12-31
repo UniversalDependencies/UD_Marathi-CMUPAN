@@ -30,14 +30,14 @@ Data available since: UD v2.18
 License: CC BY-SA 4.0
 Includes text: yes
 Parallel: no
-Genre: agriculture grammar general tourism
-Lemmas: converted from automatic
-UPOS: converted from automatic
-XPOS: converted from automatic
-Features: converted from automatic
-Relations: converted from automatic
+Genre: news grammar-examples nonfiction
+Lemmas: automatic with corrections
+UPOS: automatic with corrections
+XPOS: automatic with corrections
+Features: automatic with corrections
+Relations: automatic with corrections
 Contributors: Kushare, Pranav; Talamo, Luigi; Verkerk, Annemarie; Vaz, Helena
 Contributing: here
-Contact: luigi.talamo@uni-saarland.de
+Contact: annemarie.verkerk@uni-saarland.de
 ===============================================================================
 </pre>
