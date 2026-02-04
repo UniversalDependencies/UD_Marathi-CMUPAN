@@ -14,7 +14,7 @@
 11	स्रोतांबरोबर	स्रोत	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	16	obl	_	Translit=srotambarobara|LTranslit=srota
 12	शेतात	शेत	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	13	obl	_	Translit=shetata|LTranslit=sheta
 13	पसरवल्यास	पसरव	VERB	_	VerbForm=Conv	16	advcl	_	Translit=pasaravalyasa|LTranslit=pasarava
-14	अधिक	अधिक	DET	_	_	15	det	_	Translit=adhika|LTranslit=adhika
+14	अधिक	अधिक	DET	_	PronType=Ind	15	det	_	Translit=adhika|LTranslit=adhika
 15	उत्पन्न	उत्पन्न	NOUN	_	_	16	compound	_	Translit=utpanna|LTranslit=utpanna
 16	देते	देणे	VERB	_	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=dete|LTranslit=dene
 17	.	.	PUNCT	_	_	16	punct	_	Translit=.|LTranslit=.
@@ -67,7 +67,7 @@
 2	जमीनींमध्ये	जमीन	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	8	obl	_	Translit=jaminimmadhye|LTranslit=jamina
 3	सोडिअमचे	सोडिअम	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	nmod	_	Translit=sodiamache|LTranslit=sodiama
 4	प्रमाण	प्रमाण	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	Translit=pramana|LTranslit=pramana
-5	अधिक	अधिक	DET	_	_	6	xcomp	_	Translit=adhika|LTranslit=adhika
+5	अधिक	अधिक	DET	_	PronType=Ind	6	xcomp	_	Translit=adhika|LTranslit=adhika
 6	असल्याचे	असणे	VERB	_	Gender=Masc|Number=Sing|VerbForm=Conv	7	nmod	_	Translit=asalyache|LTranslit=asane
 7	निदर्शनास	निदर्शन	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obl	_	Translit=nidarshanasa|LTranslit=nidarshana
 8	आले	येणे	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=ale|LTranslit=yene
@@ -118,7 +118,7 @@
 3	जमीनीत	जमीन	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	amod	_	Translit=jaminita|LTranslit=jamina
 4	पीक	पीक	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	obj	_	Translit=pika|LTranslit=pika
 5	घेतल्यास	घेणे	VERB	_	VerbForm=Conv	8	advcl	_	Translit=ghetalyasa|LTranslit=ghene
-6	अधिक	अधिक	DET	_	_	7	det	_	Translit=adhika|LTranslit=adhika
+6	अधिक	अधिक	DET	_	PronType=Ind	7	det	_	Translit=adhika|LTranslit=adhika
 7	खर्चिक	खर्चिक	ADJ	_	_	8	compound	_	Translit=kharchika|LTranslit=kharchika
 8	होते	असणे	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=hote|LTranslit=asane
 9	.	.	PUNCT	_	_	8	punct	_	Translit=.|LTranslit=.
@@ -225,7 +225,7 @@
 1	बार्ली	बार्ली	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	19	obj	_	Translit=barli|LTranslit=barli
 2	स्वतंत्रपणे	स्वतंत्रपणा	ADV	_	_	18	obl	_	Translit=svatamtrapane|LTranslit=svatamtrapana
 3	किंवा	किंवा	SCONJ	_	_	7	cc	_	Translit=kimva|LTranslit=kimva
-4	इतर	इतर	DET	_	_	5	amod	_	Translit=itara|LTranslit=itara
+4	इतर	इतर	DET	_	PronType=Ind	5	amod	_	Translit=itara|LTranslit=itara
 5	गहू	गहू	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	Translit=gahu|LTranslit=gahu
 6	,	,	PUNCT	_	_	7	punct	_	Translit=,|LTranslit=,
 7	चणे	चणा	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	conj	_	Translit=chane|LTranslit=chana
@@ -354,7 +354,7 @@
 1	लोमयुक्त	लोमयुक्त	ADJ	_	_	2	amod	_	Translit=lomayukta|LTranslit=lomayukta
 2	मातीमध्ये	माती	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	13	obl	_	Translit=matimadhye|LTranslit=mati
 3	बार्ली	बार्ली	PROPN	_	_	13	obj	_	Translit=barli|LTranslit=barli
-4	हे	हे	DET	_	Case=Nom|Gender=Neut|Number=Sing	3	det	_	Translit=he|LTranslit=he
+4	हे	हे	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	3	det	_	Translit=he|LTranslit=he
 5	पीक	पीक	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	amod	_	Translit=pika|LTranslit=pika
 6	खरीपातील	खरीप	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	12	nmod	_	Translit=kharipatila|LTranslit=kharipa
 7	मूग	मूग	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	compound	_	Translit=muga|LTranslit=muga
@@ -390,7 +390,7 @@
 7	माती	माती	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	obl	_	Translit=mati|LTranslit=mati
 8	असलेल्या	असणे	VERB	_	_	9	amod	_	Translit=asalelya|LTranslit=asane
 9	जमिनीतून	जमिन	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	16	obl	_	Translit=jaminituna|LTranslit=jamina
-10	फक्त	फक्त	DET	_	_	14	obl	_	Translit=phakta|LTranslit=phakta
+10	फक्त	फक्त	DET	_	PronType=Ind	14	obl	_	Translit=phakta|LTranslit=phakta
 11	,	,	PUNCT	_	_	12	punct	_	Translit=,|LTranslit=,
 12	पोषकद्रव्य	पोषकद्रव्य	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	13	obj	_	Translit=poshakadravya|LTranslit=poshakadravya
 13	काढून	काढ	VERB	_	_	14	advcl	_	Translit=kadhuna|LTranslit=kadha
@@ -446,7 +446,7 @@
 2	फेरपालटाच्या	फेरपालट	NOUN	_	Case=Acc	3	nmod	_	Translit=pherapalatachya|LTranslit=pherapalata
 3	काहींमध्ये	काहींमध्ये	NOUN	_	_	9	obl	_	Translit=kahimmadhye|LTranslit=kahimmadhye
 4	(	(	PUNCT	_	_	6	punct	_	Translit=(|LTranslit=(
-5	काही	काही	DET	_	_	6	det	_	Translit=kahi|LTranslit=kahi
+5	काही	काही	DET	_	PronType=Ind	6	det	_	Translit=kahi|LTranslit=kahi
 6	पिकांमध्ये	पिकांमध्ये	NOUN	_	_	3	nmod	_	Translit=pikammadhye|LTranslit=pikammadhye
 7	)	)	PUNCT	_	_	6	punct	_	Translit=)|LTranslit=)
 8	असे	असे	ADV	_	_	9	obj	_	Translit=ase|LTranslit=ase
@@ -502,7 +502,7 @@
 1	सामान्यपणे	सामान्यपणे	ADV	_	_	12	advmod	_	Translit=samanyapane|LTranslit=samanyapane
 2	जवाच्या	जव	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	nmod	_	Translit=javachya|LTranslit=java
 3	पिकाला	पिक	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	Translit=pikala|LTranslit=pika
-4	अधिक	अधिक	DET	_	_	6	det	_	Translit=adhika|LTranslit=adhika
+4	अधिक	अधिक	DET	_	PronType=Ind	6	det	_	Translit=adhika|LTranslit=adhika
 5	चांगल्या	चांगला	ADJ	_	Gender=Neut	6	amod	_	Translit=chamgalya|LTranslit=chamgala
 6	उत्पन्नासाठी	उत्पन्न	NOUN	_	Case=Acc|Number=Sing	12	obl	_	Translit=utpannasathi|LTranslit=utpanna
 7	२	२	NUM	_	NumType=Card	9	nummod	_	Translit=2|LTranslit=2
@@ -640,13 +640,13 @@
 2	शाकाहारी	शाकाहारी	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	3	amod	_	Translit=shakahari|LTranslit=shakahari
 3	आहारामध्ये	आहार	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	Translit=aharamadhye|LTranslit=ahara
 4	प्रथिने	प्रथिन	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	7	nmod	_	Translit=prathine|LTranslit=prathina
-5	हे	हे	DET	_	Case=Nom|Gender=Neut|Number=Sing	4	det	_	Translit=he|LTranslit=he
+5	हे	हे	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	4	det	_	Translit=he|LTranslit=he
 6	महत्त्वाचे	महत्त्व	ADJ	_	Gender=Neut|Number=Sing	7	nmod	_	Translit=mahattvache|LTranslit=mahattva
 7	स्रोत	स्रोत	NOUN	_	Case=Nom|Number=Sing	8	nsubj	_	Translit=srota|LTranslit=srota
 8	असल्या	असणे	VERB	_	VerbForm=Conv	9	amod	_	Translit=asalya|LTranslit=asane
 9	कारणाने	कारण	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	13	nmod	_	Translit=karanane|LTranslit=karana
 10	ह्या	ही	PRON	_	PronType=Dem	13	nsubj	_	Translit=hya|LTranslit=hi
-11	सर्वाधिक	सर्वाधिक	DET	_	_	12	amod	_	Translit=sarvadhika|LTranslit=sarvadhika
+11	सर्वाधिक	सर्वाधिक	DET	_	PronType=Ind	12	amod	_	Translit=sarvadhika|LTranslit=sarvadhika
 12	महत्त्वाच्या	महत्त्व	ADJ	_	Gender=Neut|Number=Sing	13	nmod	_	Translit=mahattvachya|LTranslit=mahattva
 13	डाळी	डाळ	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	0	root	_	Translit=dali|LTranslit=dala
 14	आहेत	असणे	AUX	_	Number=Plur|Person=3|Tense=Pres	13	cop	_	Translit=aheta|LTranslit=asane
@@ -686,7 +686,7 @@
 9	व	व	SCONJ	_	_	10	cc	_	Translit=va|LTranslit=va
 10	हवाई	हवाई	PROPN	_	_	3	conj	_	Translit=havai|LTranslit=havai
 11	ह्यांसारख्या	हे	ADP	_	Gender=Neut|Number=Plur	10	case	_	Translit=hyamsarakhya|LTranslit=he
-12	काही	काही	DET	_	_	13	det	_	Translit=kahi|LTranslit=kahi
+12	काही	काही	DET	_	PronType=Ind	13	det	_	Translit=kahi|LTranslit=kahi
 13	ठिकाणी	ठिकाण	NOUN	_	Case=Acc|Number=Sing	19	obj	_	Translit=thikani|LTranslit=thikana
 14	तूरडाळी	तूरडाळी	NOUN	_	Case=Nom|Number=Sing	16	nmod	_	Translit=turadali|LTranslit=turadali
 15	ह्या	ही	ADP	_	_	14	case	_	Translit=hya|LTranslit=hi
@@ -734,7 +734,7 @@
 2	खतासाठी	खत	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	nmod	_	Translit=khatasathi|LTranslit=khata
 3	तूरडाळी	तूरडाळी	NOUN	_	Case=Nom|Number=Sing	6	nmod	_	Translit=turadali|LTranslit=turadali
 4	ह्या	ही	PRON	_	PronType=Rel	6	det	_	Translit=hya|LTranslit=hi
-5	काही	काही	DET	_	_	6	det	_	Translit=kahi|LTranslit=kahi
+5	काही	काही	DET	_	PronType=Ind	6	det	_	Translit=kahi|LTranslit=kahi
 6	क्षेत्रांमध्ये	क्षेत्र	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	9	nmod	_	Translit=kshetrammadhye|LTranslit=kshetra
 7	एक	एक	NUM	_	NumType=Card	9	nummod	_	Translit=eka|LTranslit=eka
 8	महत्त्वाचे	महत्त्व	ADJ	_	Gender=Neut|Number=Sing	9	amod	_	Translit=mahattvache|LTranslit=mahattva
@@ -803,7 +803,7 @@
 10	आहे	असणे	AUX	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	Translit=ahe|LTranslit=asane
 11	,	,	PUNCT	_	_	19	punct	_	Translit=,|LTranslit=,
 12	ज्याच्या	जे	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	18	nmod	_	Translit=jyachya|LTranslit=je
-13	संपूर्ण	संपूर्ण	DET	_	_	14	amod	_	Translit=sampurna|LTranslit=sampurna
+13	संपूर्ण	संपूर्ण	DET	_	PronType=Ind	14	amod	_	Translit=sampurna|LTranslit=sampurna
 14	जीनसंचाचे	जीनसंचाचे	NOUN	_	_	18	nmod	_	Translit=jinasamchache|LTranslit=jinasamchache
 15	(	(	PUNCT	_	_	16	punct	_	Translit=(|LTranslit=(
 16	जीनोमचे	जीनोमचे	NOUN	_	_	14	nmod	_	Translit=jinomache|LTranslit=jinomache
@@ -817,7 +817,7 @@
 # text = तूरडाळींमध्ये जास्त प्रमाणात प्रथिनेचा आणि महत्त्वाचा अॅमिनो अॅसिड्स मेथिओनाइन , लायसिन व ट्रिप्टोफॅन ह्यांचा समावेश असतो .
 # translit = turadalimmadhye jasta pramanata prathinecha ani mahattvacha a.cmino a.csidsa methionaina , layasina va triptopha.cna hyamcha samavesha asato .
 1	तूरडाळींमध्ये	तूरडाळींमध्ये	NOUN	_	Case=Nom|Number=Sing	16	obl	_	Translit=turadalimmadhye|LTranslit=turadalimmadhye
-2	जास्त	जास्त	DET	_	_	3	amod	_	Translit=jasta|LTranslit=jasta
+2	जास्त	जास्त	DET	_	PronType=Ind	3	amod	_	Translit=jasta|LTranslit=jasta
 3	प्रमाणात	प्रमाण	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	16	obl	_	Translit=pramanata|LTranslit=pramana
 4	प्रथिनेचा	प्रथिन	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	15	nmod	_	Translit=prathinecha|LTranslit=prathina
 5	आणि	आणि	SCONJ	_	_	6	cc	_	Translit=ani|LTranslit=ani
@@ -875,7 +875,7 @@
 17	आणि	आणि	SCONJ	_	_	23	cc	_	Translit=ani|LTranslit=ani
 18	अल्पशः	अल्पशः	ADV	_	_	23	advmod	_	Translit=alpashah|LTranslit=alpashah
 19	अधिक	अधिक	PART	_	_	20	advmod	_	Translit=adhika|LTranslit=adhika
-20	जास्त	जास्त	DET	_	_	21	amod	_	Translit=jasta|LTranslit=jasta
+20	जास्त	जास्त	DET	_	PronType=Ind	21	amod	_	Translit=jasta|LTranslit=jasta
 21	चरबीचे	चरबी	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	22	nmod	_	Translit=charabiche|LTranslit=charabi
 22	प्रमाण	प्रमाण	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	23	nsubj	_	Translit=pramana|LTranslit=pramana
 23	असते	असणे	VERB	_	Aspect=Hab|Gender=Neut|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	Translit=asate|LTranslit=asane
@@ -952,8 +952,8 @@
 17	भारतातील	भारत	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	24	nmod	_	Translit=bharatatila|LTranslit=bharata
 18	व	व	SCONJ	_	_	19	cc	_	Translit=va|LTranslit=va
 19	पाकिस्तानातील	पाकिस्तान	PROPN	_	Case=Acc|Number=Sing	17	conj	_	Translit=pakistanatila|LTranslit=pakistana
-20	सर्वात	सर्व	DET	_	Number=Sing	21	advmod	_	Translit=sarvata|LTranslit=sarva
-21	जास्त	जास्त	DET	_	_	22	det	_	Translit=jasta|LTranslit=jasta
+20	सर्वात	सर्व	DET	_	Number=Sing|PronType=Ind	21	advmod	_	Translit=sarvata|LTranslit=sarva
+21	जास्त	जास्त	DET	_	PronType=Ind	22	det	_	Translit=jasta|LTranslit=jasta
 22	किंमत	किंमत	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	23	obl	_	Translit=kimmata|LTranslit=kimmata
 23	असलेल्या	असणे	VERB	_	_	24	amod	_	Translit=asalelya|LTranslit=asane
 24	डाळींपैक	डाळींपैक	NOUN	_	Case=Nom|Number=Sing	5	conj	_	Translit=dalimpaika|LTranslit=dalimpaika
@@ -994,7 +994,7 @@
 # translit = bharatiya apravasimdvare itara ushnakatibamdhiya pradeshamta kalya chanyachihi lagavada suru jhali ahe .
 1	भारतीय	भारतीय	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	amod	_	Translit=bharatiya|LTranslit=bharatiya
 2	आप्रवासींद्वारे	आप्रवासींद्वारे	NOUN	_	Case=Nom|Number=Sing	10	obl	_	Translit=apravasimdvare|LTranslit=apravasimdvare
-3	इतर	इतर	DET	_	Case=Nom|Gender=Neut|Number=Sing	5	amod	_	Translit=itara|LTranslit=itara
+3	इतर	इतर	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	5	amod	_	Translit=itara|LTranslit=itara
 4	उष्णकटिबंधीय	उष्णकटिबंधीय	ADJ	_	Case=Nom|Number=Sing	5	amod	_	Translit=ushnakatibamdhiya|LTranslit=ushnakatibamdhiya
 5	प्रदेशांत	प्रदेश	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	10	obl	_	Translit=pradeshamta|LTranslit=pradesha
 6	काळ्या	काळा	ADJ	_	Gender=Masc	7	amod	_	Translit=kalya|LTranslit=kala
@@ -1010,14 +1010,14 @@
 # translit = gavarachya ani itara semdriya pikamchya vadhatya maganila adhara denyasathi aneka vanijyika utpadakamni apali pike gavarachya utpadanata rupamtarita keli aheta .
 1	गवाराच्या	गवाराच्या	NOUN	_	_	7	nmod	_	Translit=gavarachya|LTranslit=gavarachya
 2	आणि	आणि	SCONJ	_	_	5	cc	_	Translit=ani|LTranslit=ani
-3	इतर	इतर	DET	_	Case=Nom|Gender=Neut|Number=Sing	5	amod	_	Translit=itara|LTranslit=itara
+3	इतर	इतर	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	5	amod	_	Translit=itara|LTranslit=itara
 4	सेंद्रिय	सेंद्रिय	ADJ	_	_	5	amod	_	Translit=semdriya|LTranslit=semdriya
 5	पिकांच्या	पिक	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	7	nmod	_	Translit=pikamchya|LTranslit=pika
 6	वाढत्या	वाढ	VERB	_	Aspect=Perf|Gender=Fem|Number=Plur|Person=3|Tense=Past	7	amod	_	Translit=vadhatya|LTranslit=vadha
 7	मागणीला	मागणी	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	Translit=maganila|LTranslit=magani
 8	आधार	आधार	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	compound	_	Translit=adhara|LTranslit=adhara
 9	देण्यासाठी	देणे	VERB	_	Gender=Neut|Number=Sing|VerbForm=Conv	18	advcl	_	Translit=denyasathi|LTranslit=dene
-10	अनेक	अनेक	DET	_	_	12	det	_	Translit=aneka|LTranslit=aneka
+10	अनेक	अनेक	DET	_	PronType=Ind	12	det	_	Translit=aneka|LTranslit=aneka
 11	वाणिज्यिक	वाणिज्यिक	ADJ	_	Case=Nom|Number=Sing	12	amod	_	Translit=vanijyika|LTranslit=vanijyika
 12	उत्पादकांनी	उत्पादक	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	18	nsubj	_	Translit=utpadakamni|LTranslit=utpadaka
 13	आपली	आपला	PRON	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Prs	14	nmod	_	Translit=apali|LTranslit=apala
@@ -1034,7 +1034,7 @@
 # translit = yashasvi sheti phakta jaminichya bhautika rasayanika ani jaivashastriya gunadharmamchya j~nanavara avalambuna hota nahi / karata yeta nahi .
 1	यशस्वी	यशस्वी	ADJ	_	_	2	amod	_	Translit=yashasvi|LTranslit=yashasvi
 2	शेती	शेती	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	Translit=sheti|LTranslit=sheti
-3	फक्त	फक्त	DET	_	_	12	advmod	_	Translit=phakta|LTranslit=phakta
+3	फक्त	फक्त	DET	_	PronType=Ind	12	advmod	_	Translit=phakta|LTranslit=phakta
 4	जमिनीच्या	जमीन	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	nmod	_	Translit=jaminichya|LTranslit=jamina
 5	भौतिक	भौतिक	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	6	amod	_	Translit=bhautika|LTranslit=bhautika
 6	रासायनिक	रासायनिक	ADJ	_	_	9	amod	_	Translit=rasayanika|LTranslit=rasayanika
@@ -1074,7 +1074,7 @@
 4	धूप	धूप	NOUN	_	Number=Sing	5	nsubj	_	Translit=dhupa|LTranslit=dhupa
 5	होण्याचे	n_kr	VERB	_	VerbForm=Conv	6	nmod	_	Translit=honyache|LTranslit=n_kr
 6	धोके	धोका	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	Translit=dhoke|LTranslit=dhoka
-7	कमी	कमी	DET	_	_	8	compound	_	Translit=kami|LTranslit=kami
+7	कमी	कमी	DET	_	PronType=Ind	8	compound	_	Translit=kami|LTranslit=kami
 8	होतात	h	VERB	_	Tense=Pres|VerbForm=Fin	0	root	_	Translit=hotata|LTranslit=h
 9	.	.	PUNCT	_	_	8	punct	_	Translit=.|LTranslit=.
 
@@ -1100,7 +1100,7 @@
 # text = या सर्व चारही घटकांचा एकमेकांशी जवळचा संबंध असतो .
 # translit = ya sarva charahi ghatakamcha ekamekamshi javalacha sambamdha asato .
 1	या	या	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	4	det	_	Translit=ya|LTranslit=ya
-2	सर्व	सर्व	DET	_	Case=Nom|Number=Sing	4	det	_	Translit=sarva|LTranslit=sarva
+2	सर्व	सर्व	DET	_	Case=Nom|Number=Sing|PronType=Ind	4	det	_	Translit=sarva|LTranslit=sarva
 3	चारही	चार	NUM	_	NumType=Card	4	nummod	_	Translit=charahi|LTranslit=chara
 4	घटकांचा	घटक	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	7	nmod	_	Translit=ghatakamcha|LTranslit=ghataka
 5	एकमेकांशी	एकमेकांशी	ADV	_	_	6	advmod	_	Translit=ekamekamshi|LTranslit=ekamekamshi
@@ -1146,7 +1146,7 @@
 4	मृदेमध्ये	मृदा	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	Translit=mrridemadhye|LTranslit=mrrida
 5	घडून	घड	VERB	_	_	8	acl	_	Translit=ghaduna|LTranslit=ghada
 6	येणाऱ्या	येणे	AUX	_	_	8	amod	_	Translit=yenarya|LTranslit=yene
-7	सर्व	सर्व	DET	_	Case=Nom|Number=Sing	8	det	_	Translit=sarva|LTranslit=sarva
+7	सर्व	सर्व	DET	_	Case=Nom|Number=Sing|PronType=Ind	8	det	_	Translit=sarva|LTranslit=sarva
 8	प्रक्रियांमधील	प्रक्रिया	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	11	nmod	_	Translit=prakriyammadhila|LTranslit=prakriya
 9	सर्वात	सर्व	PART	_	_	10	advmod	_	Translit=sarvata|LTranslit=sarva
 10	महत्वाची	महत्व	ADJ	_	Gender=Fem|Number=Sing	11	amod	_	Translit=mahatvachi|LTranslit=mahatva
@@ -1189,7 +1189,7 @@
 12	मृदेची	मृदा	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	13	nmod	_	Translit=mrridechi|LTranslit=mrrida
 13	उपयुक्तता	उपयुक्तता	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	19	nsubj	_	Translit=upayuktata|LTranslit=upayuktata
 14	ही	ही	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	13	dep	_	Translit=hi|LTranslit=hi
-15	बहुतांशी	बहुतांशी	DET	_	_	16	amod	_	Translit=bahutamshi|LTranslit=bahutamshi
+15	बहुतांशी	बहुतांशी	DET	_	PronType=Ind	16	amod	_	Translit=bahutamshi|LTranslit=bahutamshi
 16	मृदेच्या	मृदा	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	17	nmod	_	Translit=mrridechya|LTranslit=mrrida
 17	प्रतिक्रियेवर	प्रतिक्रिया	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	19	obl	_	Translit=pratikriyevara|LTranslit=pratikriya
 18	अवलंबून	अवलंब	VERB	_	VerbForm=Fin	19	compound	_	Translit=avalambuna|LTranslit=avalamba
@@ -1211,7 +1211,7 @@
 # sent_id = 8648
 # text = बहुतेक शेतजमिनींच्या सामूची व्याप्ती सुमारे ५ ते ८.५च्या दरम्यान असते .
 # translit = bahuteka shetajaminimchya samuchi vyapti sumare 5 te 8.5chya daramyana asate .
-1	बहुतेक	बहुतेक	DET	_	_	2	det	_	Translit=bahuteka|LTranslit=bahuteka
+1	बहुतेक	बहुतेक	DET	_	PronType=Ind	2	det	_	Translit=bahuteka|LTranslit=bahuteka
 2	शेतजमिनींच्या	शेतजमीन	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	3	nmod	_	Translit=shetajaminimchya|LTranslit=shetajamina
 3	सामूची	सामू	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	nmod	_	Translit=samuchi|LTranslit=samu
 4	व्याप्ती	व्याप्ती	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	Translit=vyapti|LTranslit=vyapti
@@ -1424,7 +1424,7 @@
 # text = भुईमूग पुरेसे सुकल्यानंतर , त्याची मळणी करून उरलेल्या झुडपापासून शेंगा वेगळ्या काढल्या जातात .
 # translit = bhuimuga purese sukalyanamtara , tyachi malani karuna uralelya jhudapapasuna shemga vegalya kadhalya jatata .
 1	भुईमूग	भुईमूग	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	nmod	_	Translit=bhuimuga|LTranslit=bhuimuga
-2	पुरेसे	पुरेसा	DET	_	Case=Nom|Gender=Masc|Number=Plur	3	obj	_	Translit=purese|LTranslit=puresa
+2	पुरेसे	पुरेसा	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	3	obj	_	Translit=purese|LTranslit=puresa
 3	सुकल्यानंतर	सुक	VERB	_	VerbForm=Conv	12	obl	_	Translit=sukalyanamtara|LTranslit=suka
 4	,	,	PUNCT	_	_	3	punct	_	Translit=,|LTranslit=,
 5	त्याची	तो	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	6	nmod	_	Translit=tyachi|LTranslit=to
@@ -1441,7 +1441,7 @@
 # sent_id = 8660
 # text = अनेक चीनी खाद्यपदार्थात उकडून वापरलेले ते , लोकप्रिय झाले .
 # translit = aneka chini khadyapadarthata ukaduna vaparalele te , lokapriya jhale .
-1	अनेक	अनेक	DET	_	_	3	det	_	Translit=aneka|LTranslit=aneka
+1	अनेक	अनेक	DET	_	PronType=Ind	3	det	_	Translit=aneka|LTranslit=aneka
 2	चीनी	चीनी	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	3	amod	_	Translit=chini|LTranslit=chini
 3	खाद्यपदार्थात	खाद्यपदार्थ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	Translit=khadyapadarthata|LTranslit=khadyapadartha
 4	उकडून	उकड	VERB	_	_	5	advcl	_	Translit=ukaduna|LTranslit=ukada
@@ -1474,7 +1474,7 @@
 2	रेड	रेड	PROPN	_	_	7	nmod	_	Translit=reda|LTranslit=reda
 3	आणि	आणि	SCONJ	_	_	4	cc	_	Translit=ani|LTranslit=ani
 4	व्हाईट	व्हाईट	PROPN	_	_	2	conj	_	Translit=vhaita|LTranslit=vhaita
-5	हे	हा	DET	_	Case=Nom|Gender=Masc|Number=Plur	2	det	_	Translit=he|LTranslit=ha
+5	हे	हा	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	2	det	_	Translit=he|LTranslit=ha
 6	दोन	दोन	NUM	_	NumType=Card	7	nummod	_	Translit=dona|LTranslit=dona
 7	संघ	संघ	NOUN	_	Gender=Masc	0	root	_	Translit=samgha|LTranslit=samgha
 8	ही	ही	PRON	_	Case=Nom|Gender=Fem|PronType=Rel	7	dep	_	Translit=hi|LTranslit=hi
@@ -1510,7 +1510,7 @@
 # sent_id = 8664
 # text = अनेक वापरांसाठी विविध लागवडदारांमध्ये अंतर्गत बदल करता येतात .
 # translit = aneka vaparamsathi vividha lagavadadarammadhye amtargata badala karata yetata .
-1	अनेक	अनेक	DET	_	_	2	det	_	Translit=aneka|LTranslit=aneka
+1	अनेक	अनेक	DET	_	PronType=Ind	2	det	_	Translit=aneka|LTranslit=aneka
 2	वापरांसाठी	वापर	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	7	obl	_	Translit=vaparamsathi|LTranslit=vapara
 3	विविध	विविध	ADJ	_	_	4	amod	_	Translit=vividha|LTranslit=vividha
 4	लागवडदारांमध्ये	लागवडदार	NOUN	_	Case=Acc|Number=Sing	7	obl	_	Translit=lagavadadarammadhye|LTranslit=lagavadadara
@@ -1552,10 +1552,10 @@
 # sent_id = 8667
 # text = प्रत्येक प्रकारच्या भुईमूगाच्या अनेक प्रजाती आहेत .
 # translit = pratyeka prakarachya bhuimugachya aneka prajati aheta .
-1	प्रत्येक	प्रत्येक	DET	_	_	2	det	_	Translit=pratyeka|LTranslit=pratyeka
+1	प्रत्येक	प्रत्येक	DET	_	PronType=Ind	2	det	_	Translit=pratyeka|LTranslit=pratyeka
 2	प्रकारच्या	प्रकार	NOUN	_	Case=Acc|Number=Sing	3	nmod	_	Translit=prakarachya|LTranslit=prakara
 3	भुईमूगाच्या	भुईमूगाच्या	NOUN	_	_	5	nmod	_	Translit=bhuimugachya|LTranslit=bhuimugachya
-4	अनेक	अनेक	DET	_	_	5	det	_	Translit=aneka|LTranslit=aneka
+4	अनेक	अनेक	DET	_	PronType=Ind	5	det	_	Translit=aneka|LTranslit=aneka
 5	प्रजाती	प्रजाती	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	0	root	_	Translit=prajati|LTranslit=prajati
 6	आहेत	असणे	AUX	_	Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	Translit=aheta|LTranslit=asane
 7	.	.	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
@@ -1594,7 +1594,7 @@
 # sent_id = 8670
 # text = प्रत्येक वर्षी , शेंगदाण्यांचे नवीन लागवडदार निर्माण होतात आणि नावारूपाला येतात .
 # translit = pratyeka varshi , shemgadanyamche navina lagavadadara nirmana hotata ani navarupala yetata .
-1	प्रत्येक	प्रत्येक	DET	_	_	2	det	_	Translit=pratyeka|LTranslit=pratyeka
+1	प्रत्येक	प्रत्येक	DET	_	PronType=Ind	2	det	_	Translit=pratyeka|LTranslit=pratyeka
 2	वर्षी	वर्ष	NOUN	_	_	8	obl	_	Translit=varshi|LTranslit=varsha
 3	,	,	PUNCT	_	_	2	punct	_	Translit=,|LTranslit=,
 4	शेंगदाण्यांचे	शेंगदाणा	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	6	nmod	_	Translit=shemgadanyamche|LTranslit=shemgadana
@@ -1629,13 +1629,13 @@
 # text = भुईमूगाच्या इतर प्रकारांपेक्षा स्पॅनिश भुईमूगात तेलाचे प्रमाण अधिक असते आणि आता अमेरिकेत न्यु मेक्सिको , ओक्लाहोम आणि टेक्सासमध्ये प्राथमिक तत्वावर वाढविले जाते .
 # translit = bhuimugachya itara prakarampeksha spa.cnisha bhuimugata telache pramana adhika asate ani ata ameriketa nyu meksiko , oklahoma ani teksasamadhye prathamika tatvavara vadhavile jate .
 1	भुईमूगाच्या	भुईमूग	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	nmod	_	Translit=bhuimugachya|LTranslit=bhuimuga
-2	इतर	इतर	DET	_	_	3	amod	_	Translit=itara|LTranslit=itara
+2	इतर	इतर	DET	_	PronType=Ind	3	amod	_	Translit=itara|LTranslit=itara
 3	प्रकारांपेक्षा	प्रकार	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	9	obl	_	Translit=prakarampeksha|LTranslit=prakara
 4	स्पॅनिश	स्पॅनिश	PROPN	_	_	5	amod	_	Translit=spa.cnisha|LTranslit=spa.cnisha
 5	भुईमूगात	भुईमूग	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	obl	_	Translit=bhuimugata|LTranslit=bhuimuga
 6	तेलाचे	तेल	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	nmod	_	Translit=telache|LTranslit=tela
 7	प्रमाण	प्रमाण	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	Translit=pramana|LTranslit=pramana
-8	अधिक	अधिक	DET	_	_	9	xcomp	_	Translit=adhika|LTranslit=adhika
+8	अधिक	अधिक	DET	_	PronType=Ind	9	xcomp	_	Translit=adhika|LTranslit=adhika
 9	असते	असणे	VERB	_	Aspect=Hab|Gender=Neut|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=asate|LTranslit=asane
 10	आणि	आणि	SCONJ	_	_	21	cc	_	Translit=ani|LTranslit=ani
 11	आता	आता	ADV	_	_	21	obl	_	Translit=ata|LTranslit=ata
@@ -1656,13 +1656,13 @@
 # text = भुईमूगाच्या इतर प्रकारांपेक्षा स्पॅनिश भुईमूगात तेलाचे प्रमाण अधिक असते आणि आता अमेरिकेत न्यु मेक्सिको , ओक्लाहोम आणि टेक्सासमध्ये प्राथमिक तत्वावर वाढविले जाते .
 # translit = bhuimugachya itara prakarampeksha spa.cnisha bhuimugata telache pramana adhika asate ani ata ameriketa nyu meksiko , oklahoma ani teksasamadhye prathamika tatvavara vadhavile jate .
 1	भुईमूगाच्या	भुईमूग	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	nmod	_	Translit=bhuimugachya|LTranslit=bhuimuga
-2	इतर	इतर	DET	_	_	3	amod	_	Translit=itara|LTranslit=itara
+2	इतर	इतर	DET	_	PronType=Ind	3	amod	_	Translit=itara|LTranslit=itara
 3	प्रकारांपेक्षा	प्रकार	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	9	obl	_	Translit=prakarampeksha|LTranslit=prakara
 4	स्पॅनिश	स्पॅनिश	PROPN	_	_	5	amod	_	Translit=spa.cnisha|LTranslit=spa.cnisha
 5	भुईमूगात	भुईमूग	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	obl	_	Translit=bhuimugata|LTranslit=bhuimuga
 6	तेलाचे	तेल	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	nmod	_	Translit=telache|LTranslit=tela
 7	प्रमाण	प्रमाण	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	Translit=pramana|LTranslit=pramana
-8	अधिक	अधिक	DET	_	_	9	xcomp	_	Translit=adhika|LTranslit=adhika
+8	अधिक	अधिक	DET	_	PronType=Ind	9	xcomp	_	Translit=adhika|LTranslit=adhika
 9	असते	असणे	VERB	_	Aspect=Hab|Gender=Neut|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=asate|LTranslit=asane
 10	आणि	आणि	SCONJ	_	_	21	cc	_	Translit=ani|LTranslit=ani
 11	आता	आता	ADV	_	_	21	obl	_	Translit=ata|LTranslit=ata
@@ -1818,7 +1818,7 @@
 3	ह्या	हा	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	Translit=hya|LTranslit=ha
 4	मुख्यमूळाला	मुख्यमूळ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Translit=mukhyamulala|LTranslit=mukhyamula
 5	फुटलेल्या	फुट	VERB	_	_	7	acl	_	Translit=phutalelya|LTranslit=phuta
-6	इतर	इतर	DET	_	Case=Nom|Gender=Neut|Number=Sing	7	amod	_	Translit=itara|LTranslit=itara
+6	इतर	इतर	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	7	amod	_	Translit=itara|LTranslit=itara
 7	मूळांच्या	मूळ	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	8	nmod	_	Translit=mulamchya|LTranslit=mula
 8	जवळ	जवळ	ADP	_	_	12	obl	_	Translit=javala|LTranslit=javala
 9	आणि	आणि	SCONJ	_	_	11	cc	_	Translit=ani|LTranslit=ani
@@ -1837,9 +1837,9 @@
 6	बुंध्यालगत	बुंधा	ADJ	_	Gender=Masc|Number=Sing	7	obl	_	Translit=bumdhyalagata|LTranslit=bumdha
 7	येतात	येणे	VERB	_	Aspect=Hab|Gender=Fem|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=yetata|LTranslit=yene
 8	आणि	आणि	SCONJ	_	_	14	cc	_	Translit=ani|LTranslit=ani
-9	फारच	फारच	DET	_	_	14	advmod	_	Translit=pharacha|LTranslit=pharacha
-10	थोड्या	थोडा	DET	_	Case=Nom|Gender=Fem|Number=Plur	12	det	_	Translit=thodya|LTranslit=thoda
-11	काही	काही	DET	_	Case=Nom|Gender=Fem	12	det	_	Translit=kahi|LTranslit=kahi
+9	फारच	फारच	DET	_	PronType=Ind	14	advmod	_	Translit=pharacha|LTranslit=pharacha
+10	थोड्या	थोडा	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Ind	12	det	_	Translit=thodya|LTranslit=thoda
+11	काही	काही	DET	_	Case=Nom|Gender=Fem|PronType=Ind	12	det	_	Translit=kahi|LTranslit=kahi
 12	इंच	इंच	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	14	obl	_	Translit=imcha|LTranslit=imcha
 13	दूर	दूर	ADV	_	_	14	obl	_	Translit=dura|LTranslit=dura
 14	आढळतात	आढळ	VERB	_	Aspect=Hab|Gender=Masc|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	Translit=adhalatata|LTranslit=adhala
@@ -2049,8 +2049,8 @@
 5	व्यवसाय	व्यवसाय	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	compound	_	Translit=vyavasaya|LTranslit=vyavasaya
 6	असल्यामुळे	असणे	VERB	_	Gender=Masc|Number=Sing|VerbForm=Conv	11	advcl	_	Translit=asalyamule|LTranslit=asane
 7	त्याला	तो	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	11	iobj	_	Translit=tyala|LTranslit=to
-8	जास्तीत	जास्तीत	DET	_	_	9	advmod	_	Translit=jastita|LTranslit=jastita
-9	जास्त	जास्त	DET	_	_	10	amod	_	Translit=jasta|LTranslit=jasta
+8	जास्तीत	जास्तीत	DET	_	PronType=Ind	9	advmod	_	Translit=jastita|LTranslit=jastita
+9	जास्त	जास्त	DET	_	PronType=Ind	10	amod	_	Translit=jasta|LTranslit=jasta
 10	वेळ	वेळ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	11	obj	_	Translit=vela|LTranslit=vela
 11	देता	देणे	VERB	_	VerbForm=Fin	0	root	_	Translit=deta|LTranslit=dene
 12	येतो	येणे	AUX	_	Aspect=Hab|Gender=Masc|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	Translit=yeto|LTranslit=yene
@@ -2081,7 +2081,7 @@
 9	सहावीतून	सहावा	ADJ	_	NumType=Ord	11	obl	_	Translit=sahavituna|LTranslit=sahava
 10	सातवीत	सातवा	ADJ	_	NumType=Ord	11	obl	_	Translit=satavita|LTranslit=satava
 11	जाणारी	जाणे	VERB	_	Case=Nom|Gender=Neut|Number=Plur	16	amod	_	Translit=janari|LTranslit=jane
-12	सगळीच	सगळी	DET	_	_	16	amod	_	Translit=sagalicha|LTranslit=sagali
+12	सगळीच	सगळी	DET	_	PronType=Ind	16	amod	_	Translit=sagalicha|LTranslit=sagali
 13	शे	शे	NUM	_	Case=Nom|Number=Sing|NumType=Card	16	nummod	_	Translit=she|LTranslit=she
 14	-	-	PUNCT	_	_	13	punct	_	Translit=-|LTranslit=-
 15	दोनशे	दोनशे	NUM	_	NumType=Card	16	nummod	_	Translit=donashe|LTranslit=donashe
@@ -2089,9 +2089,9 @@
 17	नव्वद	नव्वद	NUM	_	NumType=Card	23	xcomp	_	Translit=navvada|LTranslit=navvada
 18	किंवा	किंवा	SCONJ	_	_	21	cc	_	Translit=kimva|LTranslit=kimva
 19	त्यापेक्षा	ते	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	21	nmod	_	Translit=tyapeksha|LTranslit=te
-20	जास्त	जास्त	DET	_	_	21	det	_	Translit=jasta|LTranslit=jasta
+20	जास्त	जास्त	DET	_	PronType=Ind	21	det	_	Translit=jasta|LTranslit=jasta
 21	टक्‍क्‍यांची	टक्‍क्‍यांची	NOUN	_	Case=Nom|Number=Sing	17	conj	_	Translit=tak{}k{}yamchi|LTranslit=tak{}k{}yamchi
-22	थोडीच	थोडी	DET	_	_	17	conj	_	Translit=thodicha|LTranslit=thodi
+22	थोडीच	थोडी	DET	_	PronType=Ind	17	conj	_	Translit=thodicha|LTranslit=thodi
 23	असतात	असणे	VERB	_	Aspect=Hab|Gender=Neut|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	Translit=asatata|LTranslit=asane
 24	,	,	PUNCT	_	_	29	punct	_	Translit=,|LTranslit=,
 25	पन्नास	पन्नास	NUM	_	NumType=Card	29	nsubj	_	Translit=pannasa|LTranslit=pannasa
@@ -2181,13 +2181,13 @@
 # sent_id = 8707
 # text = खचाखच भरलेल्या त्या बसमध्ये माझ्या मागे काही बायका चढलेल्या होत्या .
 # translit = khachakhacha bharalelya tya basamadhye majhya mage kahi bayaka chadhalelya hotya .
-1	खचाखच	खचाखच	DET	_	_	2	advmod	_	Translit=khachakhacha|LTranslit=khachakhacha
+1	खचाखच	खचाखच	DET	_	PronType=Ind	2	advmod	_	Translit=khachakhacha|LTranslit=khachakhacha
 2	भरलेल्या	भर	VERB	_	Case=Nom|Gender=Fem|Number=Plur	4	acl	_	Translit=bharalelya|LTranslit=bhara
 3	त्या	ती	PRON	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	4	det	_	Translit=tya|LTranslit=ti
 4	बसमध्ये	बसमध्ये	NOUN	_	Case=Nom|Number=Sing	9	obl	_	Translit=basamadhye|LTranslit=basamadhye
 5	माझ्या	मी	PRON	_	PronType=Prs	6	nmod	_	Translit=majhya|LTranslit=mi
 6	मागे	माग	ADP	_	_	9	obl	_	Translit=mage|LTranslit=maga
-7	काही	काही	DET	_	_	8	det	_	Translit=kahi|LTranslit=kahi
+7	काही	काही	DET	_	PronType=Ind	8	det	_	Translit=kahi|LTranslit=kahi
 8	बायका	बायको	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	9	obj	_	Translit=bayaka|LTranslit=bayako
 9	चढलेल्या	चढ	VERB	_	Case=Nom|Gender=Fem|Number=Plur	0	root	_	Translit=chadhalelya|LTranslit=chadha
 10	होत्या	असणे	AUX	_	Aspect=Perf|Gender=Fem|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	aux:pass	_	Translit=hotya|LTranslit=asane
@@ -2207,7 +2207,7 @@
 # sent_id = 8709
 # text = थोड्या वेळात गाडीने स्वारगेट बस स्टॉपकडे वळण घेतले आणि माझ्या मागील एका बाईने वळणावर उडी मारली .
 # translit = thodya velata gadine svarageta basa staॉpakade valana ghetale ani majhya magila eka baine valanavara udi marali .
-1	थोड्या	थोडा	DET	_	Gender=Fem	2	det	_	Translit=thodya|LTranslit=thoda
+1	थोड्या	थोडा	DET	_	Gender=Fem|PronType=Ind	2	det	_	Translit=thodya|LTranslit=thoda
 2	वेळात	वेळा	NOUN	_	Case=Acc|Number=Sing	8	obl	_	Translit=velata|LTranslit=vela
 3	गाडीने	गाडी	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	nsubj	_	Translit=gadine|LTranslit=gadi
 4	स्वारगेट	स्वारगेट	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	6	compound	_	Translit=svarageta|LTranslit=svarageta
@@ -2229,11 +2229,11 @@
 # text = मला काही कळण्याच्या आतच हे सर्व घडले .
 # translit = mala kahi kalanyachya atacha he sarva ghadale .
 1	मला	मी	PRON	_	Case=Acc|Number=Sing|PronType=Prs	3	nsubj	_	Translit=mala|LTranslit=mi
-2	काही	काही	DET	_	_	3	obj	_	Translit=kahi|LTranslit=kahi
+2	काही	काही	DET	_	PronType=Ind	3	obj	_	Translit=kahi|LTranslit=kahi
 3	कळण्याच्या	कळणा	VERB	_	Gender=Masc|Number=Sing|VerbForm=Conv	7	advcl	_	Translit=kalanyachya|LTranslit=kalana
 4	आतच	आत	ADP	_	_	3	mark	_	Translit=atacha|LTranslit=ata
 5	हे	हे	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	det	_	Translit=he|LTranslit=he
-6	सर्व	सर्व	DET	_	Case=Nom|Number=Sing	7	nsubj	_	Translit=sarva|LTranslit=sarva
+6	सर्व	सर्व	DET	_	Case=Nom|Number=Sing|PronType=Ind	7	nsubj	_	Translit=sarva|LTranslit=sarva
 7	घडले	घड	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=ghadale|LTranslit=ghada
 8	.	.	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
 
@@ -2281,10 +2281,10 @@
 # text = हे सर्व होईपर्यंत जवळजवळ अर्धा ते पाऊण तास गेला .
 # translit = he sarva hoiparyamta javalajavala ardha te pauna tasa gela .
 1	हे	हे	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	2	det	_	Translit=he|LTranslit=he
-2	सर्व	सर्व	DET	_	Case=Nom|Number=Sing	9	nsubj	_	Translit=sarva|LTranslit=sarva
+2	सर्व	सर्व	DET	_	Case=Nom|Number=Sing|PronType=Ind	9	nsubj	_	Translit=sarva|LTranslit=sarva
 3	होईपर्यंत	होणे	VERB	_	_	9	obl	_	Translit=hoiparyamta|LTranslit=hone
 4	जवळजवळ	जवळजवळ	ADV	_	_	9	advmod	_	Translit=javalajavala|LTranslit=javalajavala
-5	अर्धा	अर्धा	DET	_	_	8	nmod	_	Translit=ardha|LTranslit=ardha
+5	अर्धा	अर्धा	DET	_	PronType=Ind	8	nmod	_	Translit=ardha|LTranslit=ardha
 6	ते	ते	SCONJ	_	_	5	case	_	Translit=te|LTranslit=te
 7	पाऊण	पाऊण	NUM	_	NumType=Card	8	nmod	_	Translit=pauna|LTranslit=pauna
 8	तास	तास	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	obl	_	Translit=tasa|LTranslit=tasa
@@ -2303,7 +2303,7 @@
 # sent_id = 8716
 # text = सर्व प्रवासी आमचीच वाट पाहत होते .
 # translit = sarva pravasi amachicha vata pahata hote .
-1	सर्व	सर्व	DET	_	Case=Nom|Number=Sing	2	det	_	Translit=sarva|LTranslit=sarva
+1	सर्व	सर्व	DET	_	Case=Nom|Number=Sing|PronType=Ind	2	det	_	Translit=sarva|LTranslit=sarva
 2	प्रवासी	प्रवासी	NOUN	_	_	6	nsubj	_	Translit=pravasi|LTranslit=pravasi
 3	आमचीच	आमची	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Prs	4	compound	_	Translit=amachicha|LTranslit=amachi
 4	वाट	वाट	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	compound	_	Translit=vata|LTranslit=vata
@@ -2336,7 +2336,7 @@
 5	मानावेत	मान	VERB	_	VerbForm=Fin	0	root	_	Translit=manaveta|LTranslit=mana
 6	किंवा	किंवा	SCONJ	_	_	11	cc	_	Translit=kimva|LTranslit=kimva
 7	त्याला	तो	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	9	iobj	_	Translit=tyala|LTranslit=to
-8	काहीतरी	काहीतरी	DET	_	Case=Nom|Number=Sing	9	advmod	_	Translit=kahitari|LTranslit=kahitari
+8	काहीतरी	काहीतरी	DET	_	Case=Nom|Number=Sing|PronType=Ind	9	advmod	_	Translit=kahitari|LTranslit=kahitari
 9	देण्याचे	देणे	VERB	_	Gender=Neut|Number=Sing|VerbForm=Conv	10	nmod	_	Translit=denyache|LTranslit=dene
 10	मला	मी	PRON	_	Case=Acc|Number=Sing|PronType=Prs	11	obj	_	Translit=mala|LTranslit=mi
 11	सुचले	सुच	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Fin	5	conj	_	Translit=suchale|LTranslit=sucha
@@ -2512,7 +2512,7 @@
 # sent_id = 8732
 # text = आणखी दोन प्रवेशद्वारं ओलांडून आम्ही डोंगरमाथ्यावर आलो .
 # translit = anakhi dona praveshadvaram olamduna amhi domgaramathyavara alo .
-1	आणखी	आणखी	DET	_	_	3	amod	_	Translit=anakhi|LTranslit=anakhi
+1	आणखी	आणखी	DET	_	PronType=Ind	3	amod	_	Translit=anakhi|LTranslit=anakhi
 2	दोन	दोन	NUM	_	NumType=Card	3	nummod	_	Translit=dona|LTranslit=dona
 3	प्रवेशद्वारं	प्रवेशद्वार	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	7	nsubj	_	Translit=praveshadvaram|LTranslit=praveshadvara
 4	ओलांडून	ओलांड	VERB	_	_	7	advcl	_	Translit=olamduna|LTranslit=olamda
@@ -2545,7 +2545,7 @@
 # sent_id = 8735
 # text = थोड्याच अंतरावर एक दगडी बांधीव तलाव उताराच्या बाजूला धरणाप्रमाणं बांधलेला आहे .
 # translit = thodyacha amtaravara eka dagadi bamdhiva talava utarachya bajula dharanapramanam bamdhalela ahe .
-1	थोड्याच	थोड्या	DET	_	_	2	det	_	Translit=thodyacha|LTranslit=thodya
+1	थोड्याच	थोड्या	DET	_	PronType=Ind	2	det	_	Translit=thodyacha|LTranslit=thodya
 2	अंतरावर	अंतर	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	10	obl	_	Translit=amtaravara|LTranslit=amtara
 3	एक	एक	NUM	_	NumType=Card	6	nummod	_	Translit=eka|LTranslit=eka
 4	दगडी	दगडी	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	5	obl	_	Translit=dagadi|LTranslit=dagadi
@@ -2561,7 +2561,7 @@
 # sent_id = 8736
 # text = सगळं कसं नियोजनपूर्वक , विचारपूर्वक ! दर १२ वर्षांनी " दुधी ' रंगाच्या पाण्याची गंगा इथं अवतरते .
 # translit = sagalam kasam niyojanapurvaka , vicharapurvaka ! dara 12 varshamni " dudhi ' ramgachya panyachi gamga itham avatarate .
-1	सगळं	सगळा	DET	_	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	Translit=sagalam|LTranslit=sagala
+1	सगळं	सगळा	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	3	nsubj	_	Translit=sagalam|LTranslit=sagala
 2	कसं	कसे	PRON	_	PronType=Int	3	obl	_	Translit=kasam|LTranslit=kase
 3	नियोजनपूर्वक	नियोजनपूर्वक	ADJ	_	Case=Nom|Number=Sing	17	xcomp	_	Translit=niyojanapurvaka|LTranslit=niyojanapurvaka
 4	,	,	PUNCT	_	_	5	punct	_	Translit=,|LTranslit=,
@@ -2651,7 +2651,7 @@
 # translit = daॉktaramni nemake tevadhecha pahile .
 1	डॉक्टरांनी	डॉक्टर	PROPN	_	Case=Acc|Gender=Masc|Number=Plur	4	nsubj	_	Translit=daॉktaramni|LTranslit=daॉktara
 2	नेमके	नेमका	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	4	obj	_	Translit=nemake|LTranslit=nemaka
-3	तेवढेच	तेवढे	DET	_	_	4	obl	_	Translit=tevadhecha|LTranslit=tevadhe
+3	तेवढेच	तेवढे	DET	_	PronType=Ind	4	obl	_	Translit=tevadhecha|LTranslit=tevadhe
 4	पाहिले	पाह	VERB	_	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=pahile|LTranslit=paha
 5	.	.	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
 
@@ -2706,8 +2706,8 @@
 5	नशा	नशा	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	conj	_	Translit=nasha|LTranslit=nasha
 6	यामुळे	यामुळे	PRON	_	PronType=Dem	12	obl	_	Translit=yamule|LTranslit=yamule
 7	डॉक्टर	डॉक्टर	PROPN	_	Gender=Masc|Number=Plur	12	nsubj	_	Translit=daॉktara|LTranslit=daॉktara
-8	जरा	जरा	DET	_	_	9	det	_	Translit=jara|LTranslit=jara
-9	अधिकच	अधिक	DET	_	_	10	det	_	Translit=adhikacha|LTranslit=adhika
+8	जरा	जरा	DET	_	PronType=Ind	9	det	_	Translit=jara|LTranslit=jara
+9	अधिकच	अधिक	DET	_	PronType=Ind	10	det	_	Translit=adhikacha|LTranslit=adhika
 10	एक्साईट	एक्साईट	ADJ	_	_	11	compound	_	Translit=eksaita|LTranslit=eksaita
 11	होऊन	होणे	VERB	_	VerbForm=Conv	12	advcl	_	Translit=houna|LTranslit=hone
 12	बसले	बस	VERB	_	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=basale|LTranslit=basa
@@ -2731,7 +2731,7 @@
 4	एकटेच	एकटा	ADV	_	_	6	advmod	_	Translit=ekatecha|LTranslit=ekata
 5	तरातरा	तरातरा	ADV	_	_	6	obj	_	Translit=taratara|LTranslit=taratara
 6	चालत	चाल	VERB	_	_	9	advcl	_	Translit=chalata|LTranslit=chala
-7	बरेच	बरे	DET	_	_	8	amod	_	Translit=barecha|LTranslit=bare
+7	बरेच	बरे	DET	_	PronType=Ind	8	amod	_	Translit=barecha|LTranslit=bare
 8	अंतर	अंतर	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	9	obj	_	Translit=amtara|LTranslit=amtara
 9	निघून	निघ	VERB	_	VerbForm=Fin	2	conj	_	Translit=nighuna|LTranslit=nigha
 10	गेले	जाणे	VERB	_	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	xcomp	_	Translit=gele|LTranslit=jane
@@ -2777,7 +2777,7 @@
 6	असू	असणे	AUX	_	Aspect=Hab|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	5	aux	_	Translit=asu|LTranslit=asane
 7	तिथे	तिथे	PRON	_	PronType=Dem	13	obl	_	Translit=tithe|LTranslit=tithe
 8	तिथे	तिथे	PRON	_	PronType=Dem	11	nmod	_	Translit=tithe|LTranslit=tithe
-9	बहुतेक	बहुतेक	DET	_	_	11	det	_	Translit=bahuteka|LTranslit=bahuteka
+9	बहुतेक	बहुतेक	DET	_	PronType=Ind	11	det	_	Translit=bahuteka|LTranslit=bahuteka
 10	स्वेच्छा	स्वेच्छा	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	11	compound	_	Translit=svechcha|LTranslit=svechcha
 11	भोजनाचीच	भोजन	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	12	nmod	_	Translit=bhojanachicha|LTranslit=bhojana
 12	पद्धत	पद्धत	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	Translit=paddhata|LTranslit=paddhata
@@ -2936,7 +2936,7 @@
 # text = आज अनेक लोक आपल्या छोट्या मुलांना , तसेच घरातील वयोवृद्धांना स्नानासाठी दूरवरून खांद्यावर घेऊन आले होते .
 # translit = aja aneka loka apalya chotya mulamna , tasecha gharatila vayovrriddhamna snanasathi duravaruna khamdyavara gheuna ale hote .
 1	आज	आज	NOUN	_	_	15	obl	_	Translit=aja|LTranslit=aja
-2	अनेक	अनेक	DET	_	_	3	det	_	Translit=aneka|LTranslit=aneka
+2	अनेक	अनेक	DET	_	PronType=Ind	3	det	_	Translit=aneka|LTranslit=aneka
 3	लोक	लोक	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	15	nsubj	_	Translit=loka|LTranslit=loka
 4	आपल्या	आपला	PRON	_	Case=Acc|Number=Plur|PronType=Prs	6	nmod	_	Translit=apalya|LTranslit=apala
 5	छोट्या	छोटा	ADJ	_	_	6	amod	_	Translit=chotya|LTranslit=chota
@@ -2972,7 +2972,7 @@
 14	होते	असणे	AUX	_	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	13	aux	_	Translit=hote|LTranslit=asane
 15	आणि	आणि	SCONJ	_	_	24	cc	_	Translit=ani|LTranslit=ani
 16	त्यांच्यातील	तो	PRON	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Prs	18	nmod	_	Translit=tyamchyatila|LTranslit=to
-17	प्रत्येक	प्रत्येक	DET	_	_	18	det	_	Translit=pratyeka|LTranslit=pratyeka
+17	प्रत्येक	प्रत्येक	DET	_	PronType=Ind	18	det	_	Translit=pratyeka|LTranslit=pratyeka
 18	जण	जण	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	24	nsubj	_	Translit=jana|LTranslit=jana
 19	उच्चस्वरात	उच्चस्वर	NOUN	_	Gender=Masc|Number=Sing	24	obl	_	Translit=uchchasvarata|LTranslit=uchchasvara
 20	स्तोत्र	स्तोत्र	NOUN	_	_	23	nmod	_	Translit=stotra|LTranslit=stotra
@@ -2991,7 +2991,7 @@
 3	बुश	बुश	PROPN	_	_	4	nmod	_	Translit=busha|LTranslit=busha
 4	प्रशासनाने	प्रशासन	PROPN	_	Case=Acc|Number=Sing	5	nsubj:pass	_	Translit=prashasanane|LTranslit=prashasana
 5	घेतलेल्या	घेणे	VERB	_	_	7	acl	_	Translit=ghetalelya|LTranslit=ghene
-6	काही	काही	DET	_	_	7	det	_	Translit=kahi|LTranslit=kahi
+6	काही	काही	DET	_	PronType=Ind	7	det	_	Translit=kahi|LTranslit=kahi
 7	निर्णयांमुळे	निर्णय	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	19	obl	_	Translit=nirnayammule|LTranslit=nirnaya
 8	त्या	तो	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	Translit=tya|LTranslit=to
 9	देशात	देश	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	12	obl	_	Translit=deshata|LTranslit=desha
@@ -3116,7 +3116,7 @@
 # text = भारतातील काही मंदिरांची पाहणी करून ते आराखडा तयार करणार आहेत .
 # translit = bharatatila kahi mamdiramchi pahani karuna te arakhada tayara karanara aheta .
 1	भारतातील	भारत	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	3	nmod	_	Translit=bharatatila|LTranslit=bharata
-2	काही	काही	DET	_	_	3	det	_	Translit=kahi|LTranslit=kahi
+2	काही	काही	DET	_	PronType=Ind	3	det	_	Translit=kahi|LTranslit=kahi
 3	मंदिरांची	मंदिर	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	4	nmod	_	Translit=mamdiramchi|LTranslit=mamdira
 4	पाहणी	पाहणी	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	compound	_	Translit=pahani|LTranslit=pahani
 5	करून	करणे	VERB	_	VerbForm=Conv	9	advcl	_	Translit=karuna|LTranslit=karane
@@ -3232,7 +3232,7 @@
 # text = समोर सगळे सगेसोयरे होते .
 # translit = samora sagale sagesoyare hote .
 1	समोर	समोर	ADV	_	_	4	advmod	_	Translit=samora|LTranslit=samora
-2	सगळे	सगळा	DET	_	Case=Nom|Gender=Masc|Number=Plur	3	amod	_	Translit=sagale|LTranslit=sagala
+2	सगळे	सगळा	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	3	amod	_	Translit=sagale|LTranslit=sagala
 3	सगेसोयरे	सगेसोयरा	NOUN	_	Gender=Masc|Number=Plur	4	nsubj	_	Translit=sagesoyare|LTranslit=sagesoyara
 4	होते	असणे	VERB	_	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=hote|LTranslit=asane
 5	.	.	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
@@ -3317,7 +3317,7 @@
 # sent_id = 8782
 # text = फक्त पक्षाध्यक्ष सोनिया गांधी याच नेत्या आहेत .
 # translit = phakta pakshadhyaksha soniya gamdhi yacha netya aheta .
-1	फक्त	फक्त	DET	_	_	6	nmod	_	Translit=phakta|LTranslit=phakta
+1	फक्त	फक्त	DET	_	PronType=Ind	6	nmod	_	Translit=phakta|LTranslit=phakta
 2	पक्षाध्यक्ष	पक्षाध्यक्ष	NOUN	_	_	4	nmod	_	Translit=pakshadhyaksha|LTranslit=pakshadhyaksha
 3	सोनिया	सोनिया	PROPN	_	_	4	compound	_	Translit=soniya|LTranslit=soniya
 4	गांधी	गांधी	PROPN	_	_	6	nsubj	_	Translit=gamdhi|LTranslit=gamdhi
@@ -3422,7 +3422,7 @@
 3	महिलांना	महिला	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	1	conj	_	Translit=mahilamna|LTranslit=mahila
 4	या	या	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	Translit=ya|LTranslit=ya
 5	निवडणुकीत	निवडणुक	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	Translit=nivadanukita|LTranslit=nivadanuka
-6	अधिक	अधिक	DET	_	_	7	det	_	Translit=adhika|LTranslit=adhika
+6	अधिक	अधिक	DET	_	PronType=Ind	7	det	_	Translit=adhika|LTranslit=adhika
 7	संधी	संधी	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	obj	_	Translit=samdhi|LTranslit=samdhi
 8	देणार	देणे	VERB	_	VerbForm=Fin	0	root	_	Translit=denara|LTranslit=dene
 9	आहोत	असणे	AUX	_	Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	compound	_	Translit=ahota|LTranslit=asane
@@ -3506,7 +3506,7 @@
 # sent_id = 8796
 # text = एवढे पथ्य पाळा म्हणजे झाले .
 # translit = evadhe pathya pala mhanaje jhale .
-1	एवढे	एवढे	DET	_	_	5	obl	_	Translit=evadhe|LTranslit=evadhe
+1	एवढे	एवढे	DET	_	PronType=Ind	5	obl	_	Translit=evadhe|LTranslit=evadhe
 2	पथ्य	पथ्य	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	Translit=pathya|LTranslit=pathya
 3	पाळा	पाळ	VERB	_	Mood=Ind|Number=Plur|Person=2|VerbForm=Fin	5	obl	_	Translit=pala|LTranslit=pala
 4	म्हणजे	म्हणजे	SCONJ	_	_	3	dep	_	Translit=mhanaje|LTranslit=mhanaje
@@ -3740,7 +3740,7 @@
 # sent_id = 8813
 # text = फक्त बाबांच्या बाबतीत मी पाहिले आहे की त्यांनी बाबांनी सांगितलेले पटायचे .
 # translit = phakta babamchya babatita mi pahile ahe ki tyamni babamni samgitalele patayache .
-1	फक्त	फक्त	DET	_	_	2	amod	_	Translit=phakta|LTranslit=phakta
+1	फक्त	फक्त	DET	_	PronType=Ind	2	amod	_	Translit=phakta|LTranslit=phakta
 2	बाबांच्या	बाबा	PROPN	_	Case=Acc|Gender=Masc|Number=Plur	5	obl	_	Translit=babamchya|LTranslit=baba
 3	बाबतीत	बाबतीत	NOUN	_	_	2	case	_	Translit=babatita|LTranslit=babatita
 4	मी	मी	PRON	_	Case=Nom|Number=Sing|PronType=Prs	5	nsubj	_	Translit=mi|LTranslit=mi
@@ -3768,7 +3768,7 @@
 3	तरी	तरी	PART	_	_	9	obl	_	Translit=tari|LTranslit=tari
 4	डॉक्टरांनी	डॉक्टर	PROPN	_	Case=Acc|Number=Sing	9	nsubj	_	Translit=daॉktaramni|LTranslit=daॉktara
 5	बाबांचा	बाबा	PROPN	_	Case=Acc|Gender=Masc|Number=Plur	7	nmod	_	Translit=babamcha|LTranslit=baba
-6	एखादा	एखादा	DET	_	_	7	amod	_	Translit=ekhada|LTranslit=ekhada
+6	एखादा	एखादा	DET	_	PronType=Ind	7	amod	_	Translit=ekhada|LTranslit=ekhada
 7	मुद्दा	मुद्दा	NOUN	_	_	8	obj	_	Translit=mudda|LTranslit=mudda
 8	खोडून	खोड	VERB	_	VerbForm=Conv	9	advcl	_	Translit=khoduna|LTranslit=khoda
 9	काढला	काढ	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=kadhala|LTranslit=kadha
@@ -3782,7 +3782,7 @@
 2	बाबांच्या	बाबा	PROPN	_	Case=Acc|Gender=Masc|Number=Plur	8	obl	_	Translit=babamchya|LTranslit=baba
 3	बाबतीत	बाबतीत	NOUN	_	_	2	case	_	Translit=babatita|LTranslit=babatita
 4	डॉक्टरांचे	डॉक्टर	PROPN	_	Case=Acc|Number=Sing	6	nmod	_	Translit=daॉktaramche|LTranslit=daॉktara
-5	सर्व	सर्व	DET	_	Case=Nom|Number=Sing	6	det	_	Translit=sarva|LTranslit=sarva
+5	सर्व	सर्व	DET	_	Case=Nom|Number=Sing|PronType=Ind	6	det	_	Translit=sarva|LTranslit=sarva
 6	नियम	नियम	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	Translit=niyama|LTranslit=niyama
 7	शिथिल	शिथिल	ADJ	_	_	8	compound	_	Translit=shithila|LTranslit=shithila
 8	होत	होणे	VERB	_	Aspect=Hab|Gender=Masc|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=hota|LTranslit=hone
@@ -3793,9 +3793,9 @@
 # translit = svatah babahi ekhadya goshtiche purna j~nana asalyashivaya kimva mahiti asalyashivaya kadhihi bolayache nahita .
 1	स्वतः	स्वतः	ADV	_	_	12	advmod	_	Translit=svatah|LTranslit=svatah
 2	बाबाही	बाबा	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	12	nsubj	_	Translit=babahi|LTranslit=baba
-3	एखाद्या	एखाद्या	DET	_	_	4	det	_	Translit=ekhadya|LTranslit=ekhadya
+3	एखाद्या	एखाद्या	DET	_	PronType=Ind	4	det	_	Translit=ekhadya|LTranslit=ekhadya
 4	गोष्टीचे	गोष्ट	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	nmod	_	Translit=goshtiche|LTranslit=goshta
-5	पूर्ण	पूर्ण	DET	_	_	6	amod	_	Translit=purna|LTranslit=purna
+5	पूर्ण	पूर्ण	DET	_	PronType=Ind	6	amod	_	Translit=purna|LTranslit=purna
 6	ज्ञान	ज्ञान	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	obj	_	Translit=j~nana|LTranslit=j~nana
 7	असल्याशिवाय	असणे	VERB	_	Gender=Masc|Number=Sing	12	obl	_	Translit=asalyashivaya|LTranslit=asane
 8	किंवा	किंवा	SCONJ	_	_	10	cc	_	Translit=kimva|LTranslit=kimva
@@ -3816,7 +3816,7 @@
 5	जीवनाचा	जीवन	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	nmod	_	Translit=jivanacha|LTranslit=jivana
 6	सिनेमा	सिनेमा	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	obj	_	Translit=sinema|LTranslit=sinema
 7	करू	करणे	VERB	_	VerbForm=Fin	0	root	_	Translit=karu|LTranslit=karane
-8	नकोस	नको	AUX	_	Number=Sing|Person=2|VerbForm=Fin	7	aux	_	Translit=nakosa|LTranslit=nako
+8	नकोस	नको	AUX	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	7	aux	_	Translit=nakosa|LTranslit=nako
 9	.	.	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 8819
@@ -3857,7 +3857,7 @@
 # sent_id = 8822
 # text = काही वेळेला स्टुडिओच्या आवारात मला टेहळणीवर उभी करून , एखाद्या आडोशाला जाऊन सिगारेटचे झुरके मारायचे .
 # translit = kahi velela studiochya avarata mala tehalanivara ubhi karuna , ekhadya adoshala jauna sigaretache jhurake marayache .
-1	काही	काही	DET	_	_	2	det	_	Translit=kahi|LTranslit=kahi
+1	काही	काही	DET	_	PronType=Ind	2	det	_	Translit=kahi|LTranslit=kahi
 2	वेळेला	वेळ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	15	obl	_	Translit=velela|LTranslit=vela
 3	स्टुडिओच्या	स्टुडिओ	NOUN	_	Case=Acc|Number=Sing	4	nmod	_	Translit=studiochya|LTranslit=studio
 4	आवारात	आवार	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obl	_	Translit=avarata|LTranslit=avara
@@ -3866,7 +3866,7 @@
 7	उभी	उभा	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	8	compound	_	Translit=ubhi|LTranslit=ubha
 8	करून	करणे	VERB	_	VerbForm=Conv	15	advcl	_	Translit=karuna|LTranslit=karane
 9	,	,	PUNCT	_	_	12	punct	_	Translit=,|LTranslit=,
-10	एखाद्या	एखाद्या	DET	_	_	11	det	_	Translit=ekhadya|LTranslit=ekhadya
+10	एखाद्या	एखाद्या	DET	_	PronType=Ind	11	det	_	Translit=ekhadya|LTranslit=ekhadya
 11	आडोशाला	आडोसा	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	12	obl	_	Translit=adoshala|LTranslit=adosa
 12	जाऊन	जाणे	VERB	_	VerbForm=Conv	15	advcl	_	Translit=jauna|LTranslit=jane
 13	सिगारेटचे	सिगारेटचे	NOUN	_	Case=Nom|Number=Sing	14	nmod	_	Translit=sigaretache|LTranslit=sigaretache
@@ -3995,7 +3995,7 @@
 8	माझ्या	मी	PRON	_	PronType=Prs	9	nmod	_	Translit=majhya|LTranslit=mi
 9	कोल्हापूरच्या	कोल्हापूरच्या	PROPN	_	Case=Nom|Number=Sing	10	nmod	_	Translit=kolhapurachya|LTranslit=kolhapurachya
 10	फेऱ्या	फेऱ्या	NOUN	_	Case=Nom|Number=Sing	12	nsubj	_	Translit=pherya|LTranslit=pherya
-11	कमी	कमी	DET	_	_	12	compound	_	Translit=kami|LTranslit=kami
+11	कमी	कमी	DET	_	PronType=Ind	12	compound	_	Translit=kami|LTranslit=kami
 12	झाल्या	होणे	VERB	_	Aspect=Perf|Gender=Fem|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	Translit=jhalya|LTranslit=hone
 13	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
 
@@ -4043,7 +4043,7 @@
 4	आयुष्यात	आयुष्य	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obl	_	Translit=ayushyata|LTranslit=ayushya
 5	येतील	येणे	VERB	_	Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	11	advcl	_	Translit=yetila|LTranslit=yene
 6	ही	ही	PRON	_	PronType=Dem	5	dep	_	Translit=hi|LTranslit=hi
-7	नुसती	नुसता	DET	_	Case=Nom|Gender=Fem|Number=Sing	8	amod	_	Translit=nusati|LTranslit=nusata
+7	नुसती	नुसता	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	8	amod	_	Translit=nusati|LTranslit=nusata
 8	इच्छा	इच्छा	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	compound	_	Translit=ichcha|LTranslit=ichcha
 9	करणेही	करणे	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Fin	11	nsubj	_	Translit=karanehi|LTranslit=karane
 10	वेडेपणाचे	वेडा	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	11	obj	_	Translit=vedepanache|LTranslit=veda
@@ -4079,7 +4079,7 @@
 1	डॉक्टरांच्याशिवाय	डॉक्टर	PROPN	_	Case=Acc|Number=Sing	7	obl	_	Translit=daॉktaramchyashivaya|LTranslit=daॉktara
 2	आता	आता	ADV	_	_	7	obl	_	Translit=ata|LTranslit=ata
 3	दुसरे	दुसरा	ADJ	_	NumType=Ord	5	amod	_	Translit=dusare|LTranslit=dusara
-4	काही	काही	DET	_	_	5	det	_	Translit=kahi|LTranslit=kahi
+4	काही	काही	DET	_	PronType=Ind	5	det	_	Translit=kahi|LTranslit=kahi
 5	मला	मी	PRON	_	Case=Acc|Number=Sing|PronType=Prs	7	obj	_	Translit=mala|LTranslit=mi
 6	सुचत	सुच	VERB	_	VerbForm=Fin	7	compound	_	Translit=suchata|LTranslit=sucha
 7	नव्हते	नव्हे	PART	_	_	0	root	_	Translit=navhate|LTranslit=navhe
@@ -4180,7 +4180,7 @@
 # text = त्यामुळे प्रत्येक तालुकाध्यक्षांनी दक्षता घ्यावी .
 # translit = tyamule pratyeka talukadhyakshamni dakshata ghyavi .
 1	त्यामुळे	त्यामुळे	SCONJ	_	_	5	obl	_	Translit=tyamule|LTranslit=tyamule
-2	प्रत्येक	प्रत्येक	DET	_	_	3	det	_	Translit=pratyeka|LTranslit=pratyeka
+2	प्रत्येक	प्रत्येक	DET	_	PronType=Ind	3	det	_	Translit=pratyeka|LTranslit=pratyeka
 3	तालुकाध्यक्षांनी	तालुकाध्यक्ष	NOUN	_	Case=Acc|Number=Sing	5	nsubj	_	Translit=talukadhyakshamni|LTranslit=talukadhyaksha
 4	दक्षता	दक्षता	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	obj	_	Translit=dakshata|LTranslit=dakshata
 5	घ्यावी	घे	VERB	_	Gender=Fem|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Translit=ghyavi|LTranslit=ghe
@@ -4284,7 +4284,7 @@
 # text = तो काही प्रमाणात यशस्वीही ठरला .
 # translit = to kahi pramanata yashasvihi tharala .
 1	तो	तो	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	5	nsubj	_	Translit=to|LTranslit=to
-2	काही	काही	DET	_	_	3	det	_	Translit=kahi|LTranslit=kahi
+2	काही	काही	DET	_	PronType=Ind	3	det	_	Translit=kahi|LTranslit=kahi
 3	प्रमाणात	प्रमाण	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obl	_	Translit=pramanata|LTranslit=pramana
 4	यशस्वीही	यशस्वी	NOUN	_	_	5	xcomp	_	Translit=yashasvihi|LTranslit=yashasvi
 5	ठरला	ठर	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=tharala|LTranslit=thara
@@ -4363,7 +4363,7 @@
 9	,	,	PUNCT	_	_	16	punct	_	Translit=,|LTranslit=,
 10	या	या	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	11	det	_	Translit=ya|LTranslit=ya
 11	वेळी	वेळा	NOUN	_	Case=Acc|Number=Sing	16	obl	_	Translit=veli|LTranslit=vela
-12	फक्‍त	फक्‍त	DET	_	Case=Nom|Number=Sing	13	compound	_	Translit=phak{}ta|LTranslit=phak{}ta
+12	फक्‍त	फक्‍त	DET	_	Case=Nom|Number=Sing|PronType=Ind	13	compound	_	Translit=phak{}ta|LTranslit=phak{}ta
 13	कार्यकर्त्यांच्या	कार्यकर्ता	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	14	nmod	_	Translit=karyakartyamchya|LTranslit=karyakarta
 14	उपस्थितीला	उपस्थिती	NOUN	_	_	16	obl	_	Translit=upasthitila|LTranslit=upasthiti
 15	प्राधान्य	प्राधान्य	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	16	compound	_	Translit=pradhanya|LTranslit=pradhanya
@@ -4377,7 +4377,7 @@
 # translit = mahapalika nivadanukita kahi vibhaga adhyakshamna ; tasecha padadhikaryamchya natevaikamna umedavari denyata ali hoti .
 1	महापालिका	महापालिका	NOUN	_	Case=Acc|Number=Sing	2	compound	_	Translit=mahapalika|LTranslit=mahapalika
 2	निवडणुकीत	निवडणूक	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	obl	_	Translit=nivadanukita|LTranslit=nivadanuka
-3	काही	काही	DET	_	_	5	det	_	Translit=kahi|LTranslit=kahi
+3	काही	काही	DET	_	PronType=Ind	5	det	_	Translit=kahi|LTranslit=kahi
 4	विभाग	विभाग	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	compound	_	Translit=vibhaga|LTranslit=vibhaga
 5	अध्यक्षांना	अध्यक्ष	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	11	iobj	_	Translit=adhyakshamna|LTranslit=adhyaksha
 6	;	;	PUNCT	_	_	9	punct	_	Translit=;|LTranslit=;
@@ -4472,7 +4472,7 @@
 7	व्यसनाला	व्यसन	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	Translit=vyasanala|LTranslit=vyasana
 8	कंटाळून	कंटाळ	VERB	_	VerbForm=Conv	12	advcl	_	Translit=kamtaluna|LTranslit=kamtala
 9	ती	ती	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Prs	12	nsubj	_	Translit=ti|LTranslit=ti
-10	इतकी	इतकी	DET	_	Case=Nom|Gender=Fem|Number=Sing	12	xcomp	_	Translit=itaki|LTranslit=itaki
+10	इतकी	इतकी	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	12	xcomp	_	Translit=itaki|LTranslit=itaki
 11	निराश	निराश	NOUN	_	_	12	compound	_	Translit=nirasha|LTranslit=nirasha
 12	झाली	होणे	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=jhali|LTranslit=hone
 13	,	,	PUNCT	_	_	12	punct	_	Translit=,|LTranslit=,
@@ -4591,7 +4591,7 @@
 # sent_id = 8869
 # text = अनेकदा हा राग मुलांवर काढला जातो .
 # translit = anekada ha raga mulamvara kadhala jato .
-1	अनेकदा	अनेकदा	DET	_	_	5	obl	_	Translit=anekada|LTranslit=anekada
+1	अनेकदा	अनेकदा	DET	_	PronType=Ind	5	obl	_	Translit=anekada|LTranslit=anekada
 2	हा	हा	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	Translit=ha|LTranslit=ha
 3	राग	राग	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	obj	_	Translit=raga|LTranslit=raga
 4	मुलांवर	मूल	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	5	obl	_	Translit=mulamvara|LTranslit=mula
@@ -4656,10 +4656,10 @@
 # sent_id = 8875
 # text = बऱ्याच वेळा घरातले इतर लोक पतीच्या व्यसनाबद्दल पत्नीलाच दोष देतात .
 # translit = baryacha vela gharatale itara loka patichya vyasanabaddala patnilacha dosha detata .
-1	बऱ्याच	बऱ्याच	DET	_	_	2	amod	_	Translit=baryacha|LTranslit=baryacha
+1	बऱ्याच	बऱ्याच	DET	_	PronType=Ind	2	amod	_	Translit=baryacha|LTranslit=baryacha
 2	वेळा	वेळ	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	10	obl	_	Translit=vela|LTranslit=vela
 3	घरातले	घर	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	nmod	_	Translit=gharatale|LTranslit=ghara
-4	इतर	इतर	DET	_	Case=Nom|Gender=Masc|Number=Plur	5	amod	_	Translit=itara|LTranslit=itara
+4	इतर	इतर	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	5	amod	_	Translit=itara|LTranslit=itara
 5	लोक	लोक	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	Translit=loka|LTranslit=loka
 6	पतीच्या	पत	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	nmod	_	Translit=patichya|LTranslit=pata
 7	व्यसनाबद्दल	व्यसन	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	10	obl	_	Translit=vyasanabaddala|LTranslit=vyasana
@@ -4687,7 +4687,7 @@
 # text = हे सर्व दडपण घेऊन या " सहचरी ' जगत असतात .
 # translit = he sarva dadapana gheuna ya " sahachari ' jagata asatata .
 1	हे	हे	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	3	det	_	Translit=he|LTranslit=he
-2	सर्व	सर्व	DET	_	Case=Nom|Number=Sing	3	det	_	Translit=sarva|LTranslit=sarva
+2	सर्व	सर्व	DET	_	Case=Nom|Number=Sing|PronType=Ind	3	det	_	Translit=sarva|LTranslit=sarva
 3	दडपण	दडपण	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	obj	_	Translit=dadapana|LTranslit=dadapana
 4	घेऊन	घेणे	VERB	_	VerbForm=Conv	10	advcl	_	Translit=gheuna|LTranslit=ghene
 5	या	या	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	Translit=ya|LTranslit=ya
@@ -4727,7 +4727,7 @@
 9	गटात	गट	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	10	obl	_	Translit=gatata|LTranslit=gata
 10	येऊन	येणे	VERB	_	VerbForm=Conv	14	advcl	_	Translit=yeuna|LTranslit=yene
 11	मी	मी	PRON	_	Case=Nom|Number=Sing|PronType=Prs	14	nsubj	_	Translit=mi|LTranslit=mi
-12	सगळ्या	सगळा	DET	_	Case=Nom|Gender=Fem|Number=Plur	13	amod	_	Translit=sagalya|LTranslit=sagala
+12	सगळ्या	सगळा	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Ind	13	amod	_	Translit=sagalya|LTranslit=sagala
 13	मैत्रिणींना	मैत्रीण	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	14	obj	_	Translit=maitrinimna|LTranslit=maitrina
 14	भेटले	भेट	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	15	acl:relcl	_	Translit=bhetale|LTranslit=bheta
 15	तेव्हा	तेव्हा	SCONJ	_	_	18	obl	_	Translit=tevha|LTranslit=tevha
@@ -4754,7 +4754,7 @@
 8	मैत्रिणींना	मैत्रीण	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	9	obj	_	Translit=maitrinimna|LTranslit=maitrina
 9	भेटल्यावर	भेट	VERB	_	_	13	advcl	_	Translit=bhetalyavara|LTranslit=bheta
 10	मला	मी	PRON	_	Case=Acc|Number=Sing|PronType=Prs	13	nsubj	_	Translit=mala|LTranslit=mi
-11	खूप	खूप	DET	_	_	12	det	_	Translit=khupa|LTranslit=khupa
+11	खूप	खूप	DET	_	PronType=Ind	12	det	_	Translit=khupa|LTranslit=khupa
 12	धीर	धीर	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	13	compound	_	Translit=dhira|LTranslit=dhira
 13	आला	येणे	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=ala|LTranslit=yene
 14	.	.	PUNCT	_	_	13	punct	_	Translit=.|LTranslit=.
@@ -4778,7 +4778,7 @@
 # text = माझ्या सगळ्या प्रश्‍नांवर उत्तरे मिळाली .
 # translit = majhya sagalya prash{}namvara uttare milali .
 1	माझ्या	मी	PRON	_	PronType=Prs	3	nmod	_	Translit=majhya|LTranslit=mi
-2	सगळ्या	सगळा	DET	_	Gender=Masc	3	amod	_	Translit=sagalya|LTranslit=sagala
+2	सगळ्या	सगळा	DET	_	Gender=Masc|PronType=Ind	3	amod	_	Translit=sagalya|LTranslit=sagala
 3	प्रश्‍नांवर	प्रश्‍न	NOUN	_	Case=Acc|Number=Sing	5	nsubj	_	Translit=prash{}namvara|LTranslit=prash{}na
 4	उत्तरे	उत्तर	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	5	obj	_	Translit=uttare|LTranslit=uttara
 5	मिळाली	मिळ	VERB	_	Aspect=Perf|Gender=Neut|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=milali|LTranslit=mila
@@ -4804,7 +4804,7 @@
 15	तो	तो	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	19	nsubj	_	Translit=to|LTranslit=to
 16	म्हणजे	म्हणजे	SCONJ	_	_	19	dep	_	Translit=mhanaje|LTranslit=mhanaje
 17	माझे	मी	PRON	_	PronType=Prs	19	nmod	_	Translit=majhe|LTranslit=mi
-18	संपूर्ण	संपूर्ण	DET	_	_	19	amod	_	Translit=sampurna|LTranslit=sampurna
+18	संपूर्ण	संपूर्ण	DET	_	PronType=Ind	19	amod	_	Translit=sampurna|LTranslit=sampurna
 19	आयुष्य	आयुष्य	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	11	conj	_	Translit=ayushya|LTranslit=ayushya
 20	नाही	असणे	AUX	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	Translit=nahi|LTranslit=asane
 21	.	.	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
@@ -4859,7 +4859,7 @@
 # sent_id = 8886
 # text = फक्त व्यसन वाईट असते हे मला इथे समजले .
 # translit = phakta vyasana vaita asate he mala ithe samajale .
-1	फक्त	फक्त	DET	_	_	4	obl	_	Translit=phakta|LTranslit=phakta
+1	फक्त	फक्त	DET	_	PronType=Ind	4	obl	_	Translit=phakta|LTranslit=phakta
 2	व्यसन	व्यसन	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	compound	_	Translit=vyasana|LTranslit=vyasana
 3	वाईट	वाईट	ADJ	_	_	4	compound	_	Translit=vaita|LTranslit=vaita
 4	असते	असणे	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Person=3|Tense=Past	6	acl	_	Translit=asate|LTranslit=asane
@@ -4906,7 +4906,7 @@
 1	"सहचरी'मधल्या	सहचरीमधल्या	PROPN	_	Case=Nom|Number=Sing	2	nmod	_	Translit="sahachari'madhalya|LTranslit=sahacharimadhalya
 2	मैत्रिणींचा	मैत्रीण	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	3	nmod	_	Translit=maitrinimcha|LTranslit=maitrina
 3	मला	मी	PRON	_	Case=Acc|Number=Sing|PronType=Prs	6	nsubj	_	Translit=mala|LTranslit=mi
-4	खूप	खूप	DET	_	_	5	amod	_	Translit=khupa|LTranslit=khupa
+4	खूप	खूप	DET	_	PronType=Ind	5	amod	_	Translit=khupa|LTranslit=khupa
 5	आधार	आधार	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	xcomp	_	Translit=adhara|LTranslit=adhara
 6	वाटतो	वाट	VERB	_	Aspect=Hab|Gender=Masc|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=vatato|LTranslit=vata
 7	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
@@ -5066,7 +5066,7 @@
 3	व्यवहारासंदर्भात	व्यवहार	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	15	obl	_	Translit=vyavaharasamdarbhata|LTranslit=vyavahara
 4	संदीप	संदीप	PROPN	_	Case=Nom|Number=Sing	5	compound	_	Translit=samdipa|LTranslit=samdipa
 5	शुक्‍ला	शुक्‍ला	PROPN	_	Case=Nom|Number=Sing	11	nsubj	_	Translit=shuk{}la|LTranslit=shuk{}la
-6	हे	हे	DET	_	Case=Nom|Gender=Neut|Number=Sing	5	det	_	Translit=he|LTranslit=he
+6	हे	हे	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	5	det	_	Translit=he|LTranslit=he
 7	हसिना	हसिना	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	8	compound	_	Translit=hasina|LTranslit=hasina
 8	पारकर	पारकर	PROPN	_	Case=Nom|Number=Sing	10	nmod	_	Translit=parakara|LTranslit=parakara
 9	यांच्या	हा	ADP	_	Number=Plur	8	case	_	Translit=yamchya|LTranslit=ha
@@ -5191,7 +5191,7 @@
 # text = त्यामुळे बऱ्याच ठिकाणी गोंधळाची परिस्थिती निर्माण झाली .
 # translit = tyamule baryacha thikani gomdhalachi paristhiti nirmana jhali .
 1	त्यामुळे	त्यामुळे	SCONJ	_	_	7	obl	_	Translit=tyamule|LTranslit=tyamule
-2	बऱ्याच	बऱ्याच	DET	_	_	3	det	_	Translit=baryacha|LTranslit=baryacha
+2	बऱ्याच	बऱ्याच	DET	_	PronType=Ind	3	det	_	Translit=baryacha|LTranslit=baryacha
 3	ठिकाणी	ठिकाण	NOUN	_	Case=Acc|Number=Sing	7	obl	_	Translit=thikani|LTranslit=thikana
 4	गोंधळाची	गोंधळ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	nmod	_	Translit=gomdhalachi|LTranslit=gomdhala
 5	परिस्थिती	परिस्थिती	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	nsubj	_	Translit=paristhiti|LTranslit=paristhiti
@@ -5311,7 +5311,7 @@
 8	युनिटमध्ये	युनिट	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	14	obl	_	Translit=yunitamadhye|LTranslit=yunita
 9	अतिरिक्त	अतिरिक्त	ADJ	_	_	10	amod	_	Translit=atirikta|LTranslit=atirikta
 10	उत्पादनासाठी	उत्पादन	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	14	obl	_	Translit=utpadanasathi|LTranslit=utpadana
-11	आणखी	आणखी	DET	_	_	13	det	_	Translit=anakhi|LTranslit=anakhi
+11	आणखी	आणखी	DET	_	PronType=Ind	13	det	_	Translit=anakhi|LTranslit=anakhi
 12	आर्थिक	आर्थिक	ADJ	_	_	13	amod	_	Translit=arthika|LTranslit=arthika
 13	गुंतवणूक	गुंतवणूक	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	14	compound	_	Translit=gumtavanuka|LTranslit=gumtavanuka
 14	करण्यात	करणे	VERB	_	VerbForm=Fin	36	obj	_	Translit=karanyata|LTranslit=karane
@@ -5363,7 +5363,7 @@
 # translit = ata kamagaramche kahihi dene shillaka nahi , ashi uttare giranimalakamni sarakara va "biayaephaara'la pathavili aheta .
 1	आता	आता	ADV	_	_	14	obl	_	Translit=ata|LTranslit=ata
 2	कामगारांचे	कामगार	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	3	nmod	_	Translit=kamagaramche|LTranslit=kamagara
-3	काहीही	काहीही	DET	_	Case=Nom|Number=Sing	4	obj	_	Translit=kahihi|LTranslit=kahihi
+3	काहीही	काहीही	DET	_	Case=Nom|Number=Sing|PronType=Ind	4	obj	_	Translit=kahihi|LTranslit=kahihi
 4	देणे	देणे	VERB	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	Translit=dene|LTranslit=dene
 5	शिल्लक	शिल्लक	ADJ	_	_	6	compound	_	Translit=shillaka|LTranslit=shillaka
 6	नाही	असणे	VERB	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=nahi|LTranslit=asane
@@ -5452,7 +5452,7 @@
 8	आणण्याआधीच	आण	VERB	_	Gender=Neut|Number=Sing|VerbForm=Conv	13	obl	_	Translit=ananyaadhicha|LTranslit=ana
 9	आपल्या	आपला	PRON	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Prs	10	nmod	_	Translit=apalya|LTranslit=apala
 10	जागा	जागा	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	13	obl	_	Translit=jaga|LTranslit=jaga
-11	परस्पर	परस्पर	PRON	_	Case=Nom|Number=Sing	12	amod	_	Translit=paraspara|LTranslit=paraspara
+11	परस्पर	परस्पर	PRON	_	Case=Nom|Number=Sing|PronType=Ind	12	amod	_	Translit=paraspara|LTranslit=paraspara
 12	कशा	कशी	PRON	_	PronType=Int	13	obj	_	Translit=kasha|LTranslit=kashi
 13	विकल्या	विक	VERB	_	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Fin	0	root	_	Translit=vikalya|LTranslit=vika
 14	,	,	PUNCT	_	_	18	punct	_	Translit=,|LTranslit=,
@@ -5468,7 +5468,7 @@
 # translit = giranimalakamni jagemadhye anakhi anekamna hakka dile ani malamatta vikanyata alya .
 1	गिरणीमालकांनी	गिरणीमालक	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	6	nsubj	_	Translit=giranimalakamni|LTranslit=giranimalaka
 2	जागेमध्ये	जागा	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	Translit=jagemadhye|LTranslit=jaga
-3	आणखी	आणखी	DET	_	_	4	amod	_	Translit=anakhi|LTranslit=anakhi
+3	आणखी	आणखी	DET	_	PronType=Ind	4	amod	_	Translit=anakhi|LTranslit=anakhi
 4	अनेकांना	अनेक	NOUN	_	_	6	iobj	_	Translit=anekamna|LTranslit=aneka
 5	हक्क	हक्क	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	6	compound	_	Translit=hakka|LTranslit=hakka
 6	दिले	देणे	VERB	_	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=dile|LTranslit=dene
@@ -5632,7 +5632,7 @@
 # sent_id = 8927
 # text = दर वर्षी एप्रिलच्या दुसऱ्या आठवड्यात आंब्याची आवक मोठ्या प्रमाणावर होत असते .
 # translit = dara varshi eprilachya dusarya athavadyata ambyachi avaka mothya pramanavara hota asate .
-1	दर	दर	DET	_	Case=Nom|Gender=Masc|Number=Sing	2	det	_	Translit=dara|LTranslit=dara
+1	दर	दर	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	2	det	_	Translit=dara|LTranslit=dara
 2	वर्षी	वर्ष	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	10	obl	_	Translit=varshi|LTranslit=varsha
 3	एप्रिलच्या	एप्रिल	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nmod	_	Translit=eprilachya|LTranslit=eprila
 4	दुसऱ्या	दुसरा	ADJ	_	NumType=Ord	5	amod	_	Translit=dusarya|LTranslit=dusara
@@ -5651,7 +5651,7 @@
 1	यंदा	यंदा	NOUN	_	_	2	nsubj	_	Translit=yamda|LTranslit=yamda
 2	तुलनेने	तुलना	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	advcl	_	Translit=tulanene|LTranslit=tulana
 3	आवक	आवक	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	Translit=avaka|LTranslit=avaka
-4	कमी	कमी	DET	_	_	5	compound	_	Translit=kami|LTranslit=kami
+4	कमी	कमी	DET	_	PronType=Ind	5	compound	_	Translit=kami|LTranslit=kami
 5	होत	होणे	VERB	_	VerbForm=Fin	0	root	_	Translit=hota|LTranslit=hone
 6	आहे	असणे	AUX	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	Translit=ahe|LTranslit=asane
 7	.	.	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
@@ -5664,7 +5664,7 @@
 3	गेल्या	जाणे	VERB	_	_	4	amod	_	Translit=gelya|LTranslit=jane
 4	वर्षीच्या	वर्ष	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	nmod	_	Translit=varshichya|LTranslit=varsha
 5	तुलनेने	तुलना	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	Translit=tulanene|LTranslit=tulana
-6	अधिक	अधिक	DET	_	_	0	root	_	Translit=adhika|LTranslit=adhika
+6	अधिक	अधिक	DET	_	PronType=Ind	0	root	_	Translit=adhika|LTranslit=adhika
 7	आहेत	असणे	AUX	_	Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	Translit=aheta|LTranslit=asane
 8	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
 
@@ -5701,7 +5701,7 @@
 3	तुलनेत	तुलना	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obl	_	Translit=tulaneta|LTranslit=tulana
 4	आज	आज	NOUN	_	_	7	obl	_	Translit=aja|LTranslit=aja
 5	भाव	भाव	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Translit=bhava|LTranslit=bhava
-6	कमी	कमी	DET	_	_	7	compound	_	Translit=kami|LTranslit=kami
+6	कमी	कमी	DET	_	PronType=Ind	7	compound	_	Translit=kami|LTranslit=kami
 7	झाले	होणे	VERB	_	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past	0	root	_	Translit=jhale|LTranslit=hone
 8	असून	असणे	AUX	_	_	16	aux	_	Translit=asuna|LTranslit=asane
 9	,	,	PUNCT	_	_	16	punct	_	Translit=,|LTranslit=,
@@ -5709,8 +5709,8 @@
 11	वाढल्यानंतर	वाढ	VERB	_	VerbForm=Conv	16	obl	_	Translit=vadhalyanamtara|LTranslit=vadha
 12	,	,	PUNCT	_	_	11	punct	_	Translit=,|LTranslit=,
 13	भाव	भाव	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	16	nsubj	_	Translit=bhava|LTranslit=bhava
-14	आणखी	आणखी	DET	_	_	15	det	_	Translit=anakhi|LTranslit=anakhi
-15	कमी	कमी	DET	_	_	16	compound	_	Translit=kami|LTranslit=kami
+14	आणखी	आणखी	DET	_	PronType=Ind	15	det	_	Translit=anakhi|LTranslit=anakhi
+15	कमी	कमी	DET	_	PronType=Ind	16	compound	_	Translit=kami|LTranslit=kami
 16	होतील	होणे	VERB	_	Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	7	conj	_	Translit=hotila|LTranslit=hone
 17	.	.	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
 
@@ -6367,7 +6367,7 @@
 5	लढाईत	लढाई	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	Translit=ladhaita|LTranslit=ladhai
 6	अडकलेल्या	अडक	VERB	_	_	7	acl	_	Translit=adakalelya|LTranslit=adaka
 7	राज्यातील	राज्य	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	10	nmod	_	Translit=rajyatila|LTranslit=rajya
-8	काही	काही	DET	_	_	10	det	_	Translit=kahi|LTranslit=kahi
+8	काही	काही	DET	_	PronType=Ind	10	det	_	Translit=kahi|LTranslit=kahi
 9	अध्यापक	अध्यापक	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	compound	_	Translit=adhyapaka|LTranslit=adhyapaka
 10	विद्यालयातील	विद्यालय	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	14	nmod	_	Translit=vidyalayatila|LTranslit=vidyalaya
 11	डी.	डी.	PROPN	_	_	14	compound	_	Translit=di.|LTranslit=di.
@@ -6504,7 +6504,7 @@
 3	न्यायालयीन	न्यायालयीन	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	4	amod	_	Translit=nyayalayina|LTranslit=nyayalayina
 4	प्रक्रियेत	प्रक्रिया	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	Translit=prakriyeta|LTranslit=prakriya
 5	अडकलेल्या	अडक	VERB	_	Case=Nom|Gender=Fem|Number=Plur	9	acl	_	Translit=adakalelya|LTranslit=adaka
-6	काही	काही	DET	_	_	8	det	_	Translit=kahi|LTranslit=kahi
+6	काही	काही	DET	_	PronType=Ind	8	det	_	Translit=kahi|LTranslit=kahi
 7	अध्यापक	अध्यापक	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	compound	_	Translit=adhyapaka|LTranslit=adhyapaka
 8	विद्यालयातील	विद्यालय	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	nmod	_	Translit=vidyalayatila|LTranslit=vidyalaya
 9	विद्यार्थ्यांचाही	विद्यार्थी	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	11	nmod	_	Translit=vidyarthyamchahi|LTranslit=vidyarthi
@@ -6518,7 +6518,7 @@
 # translit = asha vidyarthyamchi ekuna samkhya 310 ahe .
 1	अशा	असा	PRON	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Dem	2	det	_	Translit=asha|LTranslit=asa
 2	विद्यार्थ्यांची	विद्यार्थी	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	4	nmod	_	Translit=vidyarthyamchi|LTranslit=vidyarthi
-3	एकूण	एकूण	DET	_	_	4	amod	_	Translit=ekuna|LTranslit=ekuna
+3	एकूण	एकूण	DET	_	PronType=Ind	4	amod	_	Translit=ekuna|LTranslit=ekuna
 4	संख्या	संख्या	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	Translit=samkhya|LTranslit=samkhya
 5	३१०	३१०	NUM	_	NumType=Card	0	root	_	Translit=310|LTranslit=310
 6	आहे	असणे	AUX	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	Translit=ahe|LTranslit=asane
@@ -6732,8 +6732,8 @@
 # sent_id = 8986
 # text = एवढ्या कमी वयात केलेला हा विक्रम आजवर अबाधित आहे .
 # translit = evadhya kami vayata kelela ha vikrama ajavara abadhita ahe .
-1	एवढ्या	एवढे	DET	_	Gender=Neut|Number=Sing	3	det	_	Translit=evadhya|LTranslit=evadhe
-2	कमी	कमी	DET	_	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	Translit=kami|LTranslit=kami
+1	एवढ्या	एवढे	DET	_	Gender=Neut|Number=Sing|PronType=Ind	3	det	_	Translit=evadhya|LTranslit=evadhe
+2	कमी	कमी	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	3	amod	_	Translit=kami|LTranslit=kami
 3	वयात	वय	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	Translit=vayata|LTranslit=vaya
 4	केलेला	करणे	VERB	_	Case=Nom|Gender=Masc|Number=Sing	6	acl	_	Translit=kelela|LTranslit=karane
 5	हा	हा	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	Translit=ha|LTranslit=ha
@@ -6834,7 +6834,7 @@
 # text = प्रामाणिकतेने प्रत्येक काम करण्याचे शिक्षण आई किशोरीने दिले .
 # translit = pramanikatene pratyeka kama karanyache shikshana ai kishorine dile .
 1	प्रामाणिकतेने	प्रामाणिकता	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	nsubj	_	Translit=pramanikatene|LTranslit=pramanikata
-2	प्रत्येक	प्रत्येक	DET	_	Case=Nom|Gender=Neut|Number=Sing	3	det	_	Translit=pratyeka|LTranslit=pratyeka
+2	प्रत्येक	प्रत्येक	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	3	det	_	Translit=pratyeka|LTranslit=pratyeka
 3	काम	काम	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	obj	_	Translit=kama|LTranslit=kama
 4	करण्याचे	करणे	VERB	_	Gender=Neut|Number=Sing|VerbForm=Conv	5	nmod	_	Translit=karanyache|LTranslit=karane
 5	शिक्षण	शिक्षण	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	obj	_	Translit=shikshana|LTranslit=shikshana
@@ -6846,7 +6846,7 @@
 # sent_id = 8993
 # text = इतर युवतींनी देशाच्या संरक्षणासाठी पुढाकार घ्यावा , यासाठी मी सतत प्रयत्नशील राहीन .
 # translit = itara yuvatimni deshachya samrakshanasathi pudhakara ghyava , yasathi mi satata prayatnashila rahina .
-1	इतर	इतर	DET	_	Case=Nom|Gender=Masc|Number=Plur	2	amod	_	Translit=itara|LTranslit=itara
+1	इतर	इतर	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	2	amod	_	Translit=itara|LTranslit=itara
 2	युवतींनी	युवती	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	6	nsubj	_	Translit=yuvatimni|LTranslit=yuvati
 3	देशाच्या	देश	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	nmod	_	Translit=deshachya|LTranslit=desha
 4	संरक्षणासाठी	संरक्षण	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	Translit=samrakshanasathi|LTranslit=samrakshana
@@ -6871,7 +6871,7 @@
 6	महाविद्यालयीन	महाविद्यालयीन	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	7	amod	_	Translit=mahavidyalayina|LTranslit=mahavidyalayina
 7	प्रतिनिधी	प्रतिनिधी	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	obl	_	Translit=pratinidhi|LTranslit=pratinidhi
 8	म्हणून	म्हणून	SCONJ	_	_	7	case	_	Translit=mhanuna|LTranslit=mhanuna
-9	बरेच	बरेच	DET	_	Case=Nom|Gender=Masc|Number=Plur	10	amod	_	Translit=barecha|LTranslit=barecha
+9	बरेच	बरेच	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	10	amod	_	Translit=barecha|LTranslit=barecha
 10	लेख	लेख	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	12	nsubj	_	Translit=lekha|LTranslit=lekha
 11	प्रकाशित	प्रकाशित	ADJ	_	_	12	compound	_	Translit=prakashita|LTranslit=prakashita
 12	झालेले	होणे	VERB	_	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Fin	0	root	_	Translit=jhalele|LTranslit=hone
@@ -6891,7 +6891,7 @@
 8	,	,	PUNCT	_	_	7	punct	_	Translit=,|LTranslit=,
 9	याचा	हा	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	10	nmod	_	Translit=yacha|LTranslit=ha
 10	निर्णय	निर्णय	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	13	obj	_	Translit=nirnaya|LTranslit=nirnaya
-11	अनेकदा	अनेकदा	DET	_	_	12	det	_	Translit=anekada|LTranslit=anekada
+11	अनेकदा	अनेकदा	DET	_	PronType=Ind	12	det	_	Translit=anekada|LTranslit=anekada
 12	पालकच	पालक	NOUN	_	Case=Acc|Number=Plur	13	nsubj	_	Translit=palakacha|LTranslit=palaka
 13	घेतात	घेणे	VERB	_	Aspect=Hab|Gender=Masc|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=ghetata|LTranslit=ghene
 14	;	;	PUNCT	_	_	23	punct	_	Translit=;|LTranslit=;
@@ -7145,7 +7145,7 @@
 # translit = mi te sare manapasuna kele .
 1	मी	मी	PRON	_	Case=Nom|Number=Sing|PronType=Prs	5	nsubj	_	Translit=mi|LTranslit=mi
 2	ते	ते	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	5	obj	_	Translit=te|LTranslit=te
-3	सारे	सार	DET	_	Case=Nom|Gender=Neut|Number=Plur	4	det	_	Translit=sare|LTranslit=sara
+3	सारे	सार	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Ind	4	det	_	Translit=sare|LTranslit=sara
 4	मनापासून	मन	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obl	_	Translit=manapasuna|LTranslit=mana
 5	केले	करणे	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=kele|LTranslit=karane
 6	.	.	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
@@ -7259,7 +7259,7 @@
 2	पाच	पाच	NUM	_	NumType=Card	3	nsubj	_	Translit=pacha|LTranslit=pacha
 3	वाजता	वाजता	ADP	_	_	9	advcl	_	Translit=vajata|LTranslit=vajata
 4	तेथे	तेथे	ADV	_	_	9	obl	_	Translit=tethe|LTranslit=tethe
-5	काही	काही	DET	_	Case=Nom|Gender=Masc|Number=Plur	8	det	_	Translit=kahi|LTranslit=kahi
+5	काही	काही	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	8	det	_	Translit=kahi|LTranslit=kahi
 6	युवक	युवक	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	8	compound	_	Translit=yuvaka|LTranslit=yuvaka
 7	-	-	PUNCT	_	_	8	punct	_	Translit=-|LTranslit=-
 8	युवती	युवती	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	9	nsubj	_	Translit=yuvati|LTranslit=yuvati
@@ -7670,7 +7670,7 @@
 # text = त्यासाठी प्रत्येक विभागातील तीन रस्त्यांच्या दर्जाची माहिती पेव्हटॅक या कंपनीकडून मागविण्यात आली आहे .
 # translit = tyasathi pratyeka vibhagatila tina rastyamchya darjachi mahiti pevhata.cka ya kampanikaduna magavinyata ali ahe .
 1	त्यासाठी	ते	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	11	obl	_	Translit=tyasathi|LTranslit=te
-2	प्रत्येक	प्रत्येक	DET	_	Case=Nom|Gender=Masc|Number=Sing	3	det	_	Translit=pratyeka|LTranslit=pratyeka
+2	प्रत्येक	प्रत्येक	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	3	det	_	Translit=pratyeka|LTranslit=pratyeka
 3	विभागातील	विभाग	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	nmod	_	Translit=vibhagatila|LTranslit=vibhaga
 4	तीन	तीन	NUM	_	NumType=Card	5	nummod	_	Translit=tina|LTranslit=tina
 5	रस्त्यांच्या	रस्ता	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	6	nmod	_	Translit=rastyamchya|LTranslit=rasta
@@ -7687,7 +7687,7 @@
 # sent_id = 9037
 # text = प्रत्येक मोटारसायकलवर एक सशस्त्र कर्मचारी असेल .
 # translit = pratyeka motarasayakalavara eka sashastra karmachari asela .
-1	प्रत्येक	प्रत्येक	DET	_	_	2	det	_	Translit=pratyeka|LTranslit=pratyeka
+1	प्रत्येक	प्रत्येक	DET	_	PronType=Ind	2	det	_	Translit=pratyeka|LTranslit=pratyeka
 2	मोटारसायकलवर	मोटारसायकल	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	Translit=motarasayakalavara|LTranslit=motarasayakala
 3	एक	एक	NUM	_	NumType=Card	5	nummod	_	Translit=eka|LTranslit=eka
 4	सशस्त्र	सशस्त्र	ADJ	_	_	5	amod	_	Translit=sashastra|LTranslit=sashastra
@@ -7727,7 +7727,7 @@
 # sent_id = 9039
 # text = प्रत्येक पोलिस ठाण्याच्या हद्दीत एक जीप असेल .
 # translit = pratyeka polisa thanyachya haddita eka jipa asela .
-1	प्रत्येक	प्रत्येक	DET	_	_	3	det	_	Translit=pratyeka|LTranslit=pratyeka
+1	प्रत्येक	प्रत्येक	DET	_	PronType=Ind	3	det	_	Translit=pratyeka|LTranslit=pratyeka
 2	पोलिस	पोलिस	NOUN	_	_	3	compound	_	Translit=polisa|LTranslit=polisa
 3	ठाण्याच्या	ठाणे	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	nmod	_	Translit=thanyachya|LTranslit=thane
 4	हद्दीत	हद्द	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obl	_	Translit=haddita|LTranslit=hadda
@@ -7775,7 +7775,7 @@
 # text = - प्रत्येक मोटारसायकलवर एक सशस्त्र कर्मचारी असेल
 # translit = - pratyeka motarasayakalavara eka sashastra karmachari asela
 1	-	-	PUNCT	_	_	7	punct	_	Translit=-|LTranslit=-
-2	प्रत्येक	प्रत्येक	DET	_	_	3	det	_	Translit=pratyeka|LTranslit=pratyeka
+2	प्रत्येक	प्रत्येक	DET	_	PronType=Ind	3	det	_	Translit=pratyeka|LTranslit=pratyeka
 3	मोटारसायकलवर	मोटारसायकल	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obl	_	Translit=motarasayakalavara|LTranslit=motarasayakala
 4	एक	एक	NUM	_	NumType=Card	6	nummod	_	Translit=eka|LTranslit=eka
 5	सशस्त्र	सशस्त्र	ADJ	_	_	6	amod	_	Translit=sashastra|LTranslit=sashastra
@@ -7809,7 +7809,7 @@
 # text = - प्रत्येक पोलिस ठाण्याच्या हद्दीत एक जीप
 # translit = - pratyeka polisa thanyachya haddita eka jipa
 1	-	-	PUNCT	_	_	7	punct	_	Translit=-|LTranslit=-
-2	प्रत्येक	प्रत्येक	DET	_	_	4	det	_	Translit=pratyeka|LTranslit=pratyeka
+2	प्रत्येक	प्रत्येक	DET	_	PronType=Ind	4	det	_	Translit=pratyeka|LTranslit=pratyeka
 3	पोलिस	पोलिस	NOUN	_	_	4	compound	_	Translit=polisa|LTranslit=polisa
 4	ठाण्याच्या	ठाणे	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	nmod	_	Translit=thanyachya|LTranslit=thane
 5	हद्दीत	हद्द	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	nmod	_	Translit=haddita|LTranslit=hadda
@@ -7960,7 +7960,7 @@
 # text = " अनेक क्षेत्रांत आघाडीवर असलेल्या पुण्याला वाहतुकीची समस्या मात्र सोडविता आलेली नाही .
 # translit = " aneka kshetramta aghadivara asalelya punyala vahatukichi samasya matra sodavita aleli nahi .
 1	"	&#34;	PUNCT	_	_	3	punct	_	Translit="|LTranslit=&#34;
-2	अनेक	अनेक	DET	_	_	3	det	_	Translit=aneka|LTranslit=aneka
+2	अनेक	अनेक	DET	_	PronType=Ind	3	det	_	Translit=aneka|LTranslit=aneka
 3	क्षेत्रांत	क्षेत्र	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	5	obl	_	Translit=kshetramta|LTranslit=kshetra
 4	आघाडीवर	आघाडी	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	Translit=aghadivara|LTranslit=aghadi
 5	असलेल्या	असणे	VERB	_	VerbForm=Part	6	amod	_	Translit=asalelya|LTranslit=asane
@@ -8022,7 +8022,7 @@
 5	आली	येणे	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=ali|LTranslit=yene
 6	,	,	PUNCT	_	_	5	punct	_	Translit=,|LTranslit=,
 7	तेव्हा	तेव्हा	SCONJ	_	_	19	obl	_	Translit=tevha|LTranslit=tevha
-8	सर्व	सर्व	DET	_	Case=Nom|Number=Plur	9	det	_	Translit=sarva|LTranslit=sarva
+8	सर्व	सर्व	DET	_	Case=Nom|Number=Plur|PronType=Ind	9	det	_	Translit=sarva|LTranslit=sarva
 9	रुग्णांनी	रुग्ण	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	19	nsubj	_	Translit=rugnamni|LTranslit=rugna
 10	आपल्या	आपण	PRON	_	Case=Nom|Number=Plur|PronType=Prs	11	nmod	_	Translit=apalya|LTranslit=apana
 11	वेदना	वेदना	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	12	obj	_	Translit=vedana|LTranslit=vedana
@@ -8109,7 +8109,7 @@
 3	शिधापत्रिका	शिधापत्रिका	PROPN	_	_	4	compound	_	Translit=shidhapatrika|LTranslit=shidhapatrika
 4	कार्यालयात	कार्यालय	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obl	_	Translit=karyalayata|LTranslit=karyalaya
 5	गेल्या	जाणे	VERB	_	Aspect=Perf|Gender=Fem|Number=Plur|Person=3|Tense=Past|VerbForm=Part	7	amod	_	Translit=gelya|LTranslit=jane
-6	काही	काही	DET	_	_	7	det	_	Translit=kahi|LTranslit=kahi
+6	काही	काही	DET	_	PronType=Ind	7	det	_	Translit=kahi|LTranslit=kahi
 7	महिन्यांपासून	महिना	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	10	obl	_	Translit=mahinyampasuna|LTranslit=mahina
 8	दलालांचा	दलाल	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	9	nmod	_	Translit=dalalamcha|LTranslit=dalala
 9	सुळसुळाट	सुळसुळाट	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	Translit=sulasulata|LTranslit=sulasulata
@@ -8124,7 +8124,7 @@
 2	येथील	येथील	ADV	_	_	3	nmod	_	Translit=yethila|LTranslit=yethila
 3	कार्यालय	कार्यालय	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	11	obj	_	Translit=karyalaya|LTranslit=karyalaya
 4	गेल्या	जाणे	VERB	_	VerbForm=Part	6	amod	_	Translit=gelya|LTranslit=jane
-5	काही	काही	DET	_	_	6	det	_	Translit=kahi|LTranslit=kahi
+5	काही	काही	DET	_	PronType=Ind	6	det	_	Translit=kahi|LTranslit=kahi
 6	महिन्यांपूर्वी	महिना	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	11	obl	_	Translit=mahinyampurvi|LTranslit=mahina
 7	शिवाजीनगर	शिवाजीनगर	PROPN	_	_	8	obl	_	Translit=shivajinagara|LTranslit=shivajinagara
 8	येथील	येथील	ADV	_	_	9	amod	_	Translit=yethila|LTranslit=yethila
@@ -8179,10 +8179,10 @@
 25	पिंपळेसौदागर	पिंपळेसौदागर	PROPN	_	_	3	conj	_	Translit=pimpalesaudagara|LTranslit=pimpalesaudagara
 26	या	हा	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	27	det	_	Translit=ya|LTranslit=ha
 27	भागातील	भाग	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	33	nmod	_	Translit=bhagatila|LTranslit=bhaga
-28	सुमारे	सुमारे	DET	_	_	30	dep	_	Translit=sumare|LTranslit=sumare
+28	सुमारे	सुमारे	DET	_	PronType=Ind	30	dep	_	Translit=sumare|LTranslit=sumare
 29	दोन	दोन	NUM	_	NumType=Card	30	dep	_	Translit=dona|LTranslit=dona
 30	लाखांहून	लाख	ADV	_	_	31	advmod	_	Translit=lakhamhuna|LTranslit=lakha
-31	अधिक	अधिक	DET	_	_	32	amod	_	Translit=adhika|LTranslit=adhika
+31	अधिक	अधिक	DET	_	PronType=Ind	32	amod	_	Translit=adhika|LTranslit=adhika
 32	शिधापत्रिकाधारकांची	शिधापत्रिकाधारक	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	33	nmod	_	Translit=shidhapatrikadharakamchi|LTranslit=shidhapatrikadharaka
 33	सोय	सोय	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	34	compound	_	Translit=soya|LTranslit=soya
 34	होते	असणे	VERB	_	Aspect=Hab|Gender=Fem|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=hote|LTranslit=asane
@@ -8329,7 +8329,7 @@
 22	त्या	ती	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	24	det	_	Translit=tya|LTranslit=ti
 23	वितरण	वितरण	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	24	compound	_	Translit=vitarana|LTranslit=vitarana
 24	पद्धतीत	पद्धत	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	27	obl	_	Translit=paddhatita|LTranslit=paddhata
-25	काही	काही	DET	_	_	26	det	_	Translit=kahi|LTranslit=kahi
+25	काही	काही	DET	_	PronType=Ind	26	det	_	Translit=kahi|LTranslit=kahi
 26	त्रुटीही	त्रुट	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	27	nsubj	_	Translit=trutihi|LTranslit=truta
 27	असल्याने	असणे	VERB	_	_	36	advcl	_	Translit=asalyane|LTranslit=asane
 28	शहर	शहर	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	35	obl	_	Translit=shahara|LTranslit=shahara
@@ -8349,7 +8349,7 @@
 1	त्यात	ते	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	6	obl	_	Translit=tyata|LTranslit=te
 2	सिडको	सिडको	PROPN	_	_	3	compound	_	Translit=sidako|LTranslit=sidako
 3	भागात	भाग	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	Translit=bhagata|LTranslit=bhaga
-4	सर्वाधिक	सर्वाधिक	DET	_	_	5	amod	_	Translit=sarvadhika|LTranslit=sarvadhika
+4	सर्वाधिक	सर्वाधिक	DET	_	PronType=Ind	5	amod	_	Translit=sarvadhika|LTranslit=sarvadhika
 5	अपव्यय	अपव्यय	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	compound	_	Translit=apavyaya|LTranslit=apavyaya
 6	होतो	होणे	VERB	_	Aspect=Hab|Gender=Masc|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=hoto|LTranslit=hone
 7	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
@@ -8375,7 +8375,7 @@
 4	२४	२४	NUM	_	NumType=Card	5	nummod	_	Translit=24|LTranslit=24
 5	हजार	हजार	NUM	_	NumType=Card	6	nummod	_	Translit=hajara|LTranslit=hajara
 6	विनामीटरधारक	विनामीटरधारक	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	8	nmod	_	Translit=vinamitaradharaka|LTranslit=vinamitaradharaka
-7	हे	हा	DET	_	Case=Nom|Gender=Masc|Number=Plur	6	det	_	Translit=he|LTranslit=ha
+7	हे	हा	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	6	det	_	Translit=he|LTranslit=ha
 8	सिडकोत	सिडको	PROPN	_	_	0	root	_	Translit=sidakota|LTranslit=sidako
 9	आहे	असणे	AUX	_	Gender=Masc|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	Translit=ahe|LTranslit=asane
 10	.	.	PUNCT	_	_	8	punct	_	Translit=.|LTranslit=.
@@ -8396,10 +8396,10 @@
 # translit = yacha bhagatila kahi panyacha paipalainachi purna durusti na jhalyane tethe kayama galati ahe .
 1	याच	हा	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	Translit=yacha|LTranslit=ha
 2	भागातील	भाग	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	12	obl	_	Translit=bhagatila|LTranslit=bhaga
-3	काही	काही	DET	_	_	4	det	_	Translit=kahi|LTranslit=kahi
+3	काही	काही	DET	_	PronType=Ind	4	det	_	Translit=kahi|LTranslit=kahi
 4	पाण्याचा	पाणी	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	nmod	_	Translit=panyacha|LTranslit=pani
 5	पाइपलाइनची	पाइपलाइन	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	nmod	_	Translit=paipalainachi|LTranslit=paipalaina
-6	पूर्ण	पूर्ण	DET	_	_	7	amod	_	Translit=purna|LTranslit=purna
+6	पूर्ण	पूर्ण	DET	_	PronType=Ind	7	amod	_	Translit=purna|LTranslit=purna
 7	दुरुस्ती	दुरुस्ती	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	Translit=durusti|LTranslit=durusti
 8	न	न	PART	_	_	9	advmod	_	Translit=na|LTranslit=na
 9	झाल्याने	होणे	VERB	_	_	12	advcl	_	Translit=jhalyane|LTranslit=hone
@@ -8451,7 +8451,7 @@
 1	त्याचे	ते	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	2	nmod	_	Translit=tyache|LTranslit=te
 2	काम	काम	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	Translit=kama|LTranslit=kama
 3	येत्या	ये	ADV	_	_	7	advmod	_	Translit=yetya|LTranslit=ye
-4	काही	काही	DET	_	_	5	det	_	Translit=kahi|LTranslit=kahi
+4	काही	काही	DET	_	PronType=Ind	5	det	_	Translit=kahi|LTranslit=kahi
 5	दिवसांत	दिवस	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	7	obl	_	Translit=divasamta|LTranslit=divasa
 6	पूर्ण	पूर्ण	ADJ	_	_	7	compound	_	Translit=purna|LTranslit=purna
 7	होईल	होणे	VERB	_	Gender=Neut|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	Translit=hoila|LTranslit=hone
@@ -8501,7 +8501,7 @@
 # text = घटनास्थळावरील सर्व माहिती त्यांनी संकलित केली .
 # translit = ghatanasthalavarila sarva mahiti tyamni samkalita keli .
 1	घटनास्थळावरील	घटनास्थळ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	nmod	_	Translit=ghatanasthalavarila|LTranslit=ghatanasthala
-2	सर्व	सर्व	DET	_	Case=Nom|Gender=Fem|Number=Sing	3	det	_	Translit=sarva|LTranslit=sarva
+2	सर्व	सर्व	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	3	det	_	Translit=sarva|LTranslit=sarva
 3	माहिती	माहिती	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	obj	_	Translit=mahiti|LTranslit=mahiti
 4	त्यांनी	तो	PRON	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Prs	6	nsubj	_	Translit=tyamni|LTranslit=to
 5	संकलित	संकलित	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	6	compound	_	Translit=samkalita|LTranslit=samkalita
@@ -8516,7 +8516,7 @@
 3	तेव्हा	तेव्हा	SCONJ	_	_	9	obl	_	Translit=tevha|LTranslit=tevha
 4	कामावर	काम	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obl	_	Translit=kamavara|LTranslit=kama
 5	असलेल्या	असणे	VERB	_	_	7	amod	_	Translit=asalelya|LTranslit=asane
-6	सर्व	सर्व	DET	_	Case=Nom|Number=Plur	7	det	_	Translit=sarva|LTranslit=sarva
+6	सर्व	सर्व	DET	_	Case=Nom|Number=Plur|PronType=Ind	7	det	_	Translit=sarva|LTranslit=sarva
 7	कर्मचाऱ्यांचा	कर्मचारी	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	8	nmod	_	Translit=karmacharyamcha|LTranslit=karmachari
 8	मृत्यू	मृत्यू	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	compound	_	Translit=mrrityu|LTranslit=mrrityu
 9	झाला	होणे	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=jhala|LTranslit=hone
@@ -8531,7 +8531,7 @@
 3	अहवाल	अहवाल	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	compound	_	Translit=ahavala|LTranslit=ahavala
 4	न	न	PART	_	_	5	advmod	_	Translit=na|LTranslit=na
 5	देता	देणे	VERB	_	_	10	advcl	_	Translit=deta|LTranslit=dene
-6	आणखी	आणखी	DET	_	_	8	det	_	Translit=anakhi|LTranslit=anakhi
+6	आणखी	आणखी	DET	_	PronType=Ind	8	det	_	Translit=anakhi|LTranslit=anakhi
 7	परिस्थितीजन्य	परिस्थितीजन्य	ADJ	_	_	8	amod	_	Translit=paristhitijanya|LTranslit=paristhitijanya
 8	पुराव्यांचे	पुरावा	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	9	nmod	_	Translit=puravyamche|LTranslit=purava
 9	संकलन	संकलन	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	10	compound	_	Translit=samkalana|LTranslit=samkalana
@@ -8784,7 +8784,7 @@
 1	त्यातही	ते	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	6	nmod	_	Translit=tyatahi|LTranslit=te
 2	एक	एक	NUM	_	NumType=Card	3	nummod	_	Translit=eka|LTranslit=eka
 3	हजारापेक्षा	हजार	ADV	_	_	4	advmod	_	Translit=hajarapeksha|LTranslit=hajara
-4	जास्त	जास्त	DET	_	_	6	amod	_	Translit=jasta|LTranslit=jasta
+4	जास्त	जास्त	DET	_	PronType=Ind	6	amod	_	Translit=jasta|LTranslit=jasta
 5	मौल्यवान	मौल्यवान	ADJ	_	_	6	amod	_	Translit=maulyavana|LTranslit=maulyavana
 6	वस्तू	वस्तू	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Translit=vastu|LTranslit=vastu
 7	आहेत	असणे	AUX	_	Gender=Fem|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	Translit=aheta|LTranslit=asane
@@ -8821,7 +8821,7 @@
 2	संग्रहालयाला	संग्रहालय	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	iobj	_	Translit=samgrahalayala|LTranslit=samgrahalaya
 3	भेट	भेट	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	compound	_	Translit=bheta|LTranslit=bheta
 4	देण्यासाठी	देणे	VERB	_	VerbForm=Inf	8	advcl	_	Translit=denyasathi|LTranslit=dene
-5	अनेक	अनेक	DET	_	_	6	det	_	Translit=aneka|LTranslit=aneka
+5	अनेक	अनेक	DET	_	PronType=Ind	6	det	_	Translit=aneka|LTranslit=aneka
 6	पर्यटक	पर्यटक	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	Translit=paryataka|LTranslit=paryataka
 7	हजेरी	हजेरी	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	compound	_	Translit=hajeri|LTranslit=hajeri
 8	लावतात	लाव	VERB	_	Aspect=Hab|Gender=Masc|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=lavatata|LTranslit=lava
@@ -8948,7 +8948,7 @@
 5	होऊ	होणे	VERB	_	VerbForm=Fin	11	acl	_	Translit=hou|LTranslit=hone
 6	नयेत	असणे	AUX	_	Gender=Masc|Number=Plur|Person=3|VerbForm=Fin	5	aux	_	Translit=nayeta|LTranslit=asane
 7	व	व	SCONJ	_	_	9	cc	_	Translit=va|LTranslit=va
-8	कमी	कमी	DET	_	_	9	amod	_	Translit=kami|LTranslit=kami
+8	कमी	कमी	DET	_	PronType=Ind	9	amod	_	Translit=kami|LTranslit=kami
 9	मनुष्यबळ	मनुष्यबळ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	1	conj	_	Translit=manushyabala|LTranslit=manushyabala
 10	आदी	आदी	ADJ	_	_	9	amod	_	Translit=adi|LTranslit=adi
 11	कारणांवरून	कारण	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	15	obl	_	Translit=karanamvaruna|LTranslit=karana
@@ -8964,7 +8964,7 @@
 # text = त्यासाठी सुमारे दीड कोटी रुपयांचा खर्च अपेक्षित आहे .
 # translit = tyasathi sumare dida koti rupayamcha kharcha apekshita ahe .
 1	त्यासाठी	ते	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	8	obl	_	Translit=tyasathi|LTranslit=te
-2	सुमारे	सुमारे	DET	_	_	4	dep	_	Translit=sumare|LTranslit=sumare
+2	सुमारे	सुमारे	DET	_	PronType=Ind	4	dep	_	Translit=sumare|LTranslit=sumare
 3	दीड	दीड	NUM	_	NumType=Card	4	dep	_	Translit=dida|LTranslit=dida
 4	कोटी	कोटी	NUM	_	_	5	nummod	_	Translit=koti|LTranslit=koti
 5	रुपयांचा	रुपया	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	6	nmod	_	Translit=rupayamcha|LTranslit=rupaya
@@ -9142,7 +9142,7 @@
 14	करण्यापेक्षा	करणे	VERB	_	Gender=Neut|Number=Sing	19	advcl	_	Translit=karanyapeksha|LTranslit=karane
 15	आज	आज	NOUN	_	_	19	obl	_	Translit=aja|LTranslit=aja
 16	आपण	आपण	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Prs	19	nsubj	_	Translit=apana|LTranslit=apana
-17	सर्व	सर्व	DET	_	Case=Nom|Gender=Masc|Number=Plur	18	det	_	Translit=sarva|LTranslit=sarva
+17	सर्व	सर्व	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	18	det	_	Translit=sarva|LTranslit=sarva
 18	शपथ	शपथ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	19	obj	_	Translit=shapatha|LTranslit=shapatha
 19	घेऊ	घेणे	VERB	_	VerbForm=Fin	8	obj	_	Translit=gheu|LTranslit=ghene
 20	,	,	PUNCT	_	_	19	punct	_	Translit=,|LTranslit=,
@@ -9252,7 +9252,7 @@
 # text = भारताच्या सर्व भागांतून या ठिकाणी छपाईची कामे येत असत .
 # translit = bharatachya sarva bhagamtuna ya thikani chapaichi kame yeta asata .
 1	भारताच्या	भारत	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	3	nmod	_	Translit=bharatachya|LTranslit=bharata
-2	सर्व	सर्व	DET	_	Case=Nom|Gender=Masc|Number=Plur	3	det	_	Translit=sarva|LTranslit=sarva
+2	सर्व	सर्व	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	3	det	_	Translit=sarva|LTranslit=sarva
 3	भागांतून	भाग	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	8	obl	_	Translit=bhagamtuna|LTranslit=bhaga
 4	या	हे	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	5	det	_	Translit=ya|LTranslit=he
 5	ठिकाणी	ठिकाण	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obl	_	Translit=thikani|LTranslit=thikana
@@ -9300,7 +9300,7 @@
 4	पीटरबाबा	पीटरबाबा	PROPN	_	_	2	conj	_	Translit=pitarababa|LTranslit=pitarababa
 5	संधू	संधू	PROPN	_	_	2	conj	_	Translit=samdhu|LTranslit=samdhu
 6	गेल्या	जाणे	VERB	_	_	8	amod	_	Translit=gelya|LTranslit=jane
-7	काही	काही	DET	_	Case=Nom|Gender=Neut|Number=Plur	8	det	_	Translit=kahi|LTranslit=kahi
+7	काही	काही	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Ind	8	det	_	Translit=kahi|LTranslit=kahi
 8	वर्षांपर्यंत	वर्ष	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	13	obl	_	Translit=varshamparyamta|LTranslit=varsha
 9	प्रेस	प्रेस	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	nmod	_	Translit=presa|LTranslit=presa
 10	आणि	आणि	SCONJ	_	_	11	cc	_	Translit=ani|LTranslit=ani
@@ -9465,7 +9465,7 @@
 # sent_id = 9142
 # text = अनेक घाऊक विक्रेत्यांनी साखर संपल्याचे फलक दुकानासमोर लावले आहेत .
 # translit = aneka ghauka vikretyamni sakhara sampalyache phalaka dukanasamora lavale aheta .
-1	अनेक	अनेक	DET	_	Case=Nom|Gender=Masc|Number=Plur	3	det	_	Translit=aneka|LTranslit=aneka
+1	अनेक	अनेक	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	3	det	_	Translit=aneka|LTranslit=aneka
 2	घाऊक	घाऊक	ADJ	_	_	3	compound	_	Translit=ghauka|LTranslit=ghauka
 3	विक्रेत्यांनी	विक्रेता	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	8	nsubj	_	Translit=vikretyamni|LTranslit=vikreta
 4	साखर	साखर	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	compound	_	Translit=sakhara|LTranslit=sakhara
@@ -9520,7 +9520,7 @@
 3	,	,	PUNCT	_	_	2	punct	_	Translit=,|LTranslit=,
 4	ग्राहकांना	ग्राहक	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	2	conj	_	Translit=grahakamna|LTranslit=grahaka
 5	हवी	हवे	VERB	_	Gender=Fem|Number=Sing|Person=3	2	conj	_	Translit=havi|LTranslit=have
-6	तेवढी	तेवढी	DET	_	Case=Nom|Gender=Fem|Number=Sing	2	conj	_	Translit=tevadhi|LTranslit=tevadhi
+6	तेवढी	तेवढी	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	2	conj	_	Translit=tevadhi|LTranslit=tevadhi
 7	साखर	साखर	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	conj	_	Translit=sakhara|LTranslit=sakhara
 8	आम्ही	मी	PRON	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Prs	11	nsubj	_	Translit=amhi|LTranslit=mi
 9	रास्त	रास्त	ADJ	_	_	10	compound	_	Translit=rasta|LTranslit=rasta
@@ -9670,13 +9670,13 @@
 # sent_id = 9153
 # text = प्रत्येक वर्षात २४० दिवस किंवा त्यापेक्षा अधिक काम केल्याचा पुरावा जवळ ठेवावा .
 # translit = pratyeka varshata 240 divasa kimva tyapeksha adhika kama kelyacha purava javala thevava .
-1	प्रत्येक	प्रत्येक	DET	_	_	2	det	_	Translit=pratyeka|LTranslit=pratyeka
+1	प्रत्येक	प्रत्येक	DET	_	PronType=Ind	2	det	_	Translit=pratyeka|LTranslit=pratyeka
 2	वर्षात	वर्ष	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	12	obl	_	Translit=varshata|LTranslit=varsha
 3	२४०	२४०	NUM	_	NumType=Card	4	nummod	_	Translit=240|LTranslit=240
 4	दिवस	दिवस	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	obl	_	Translit=divasa|LTranslit=divasa
 5	किंवा	किंवा	SCONJ	_	_	7	cc	_	Translit=kimva|LTranslit=kimva
 6	त्यापेक्षा	ते	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	4	conj	_	Translit=tyapeksha|LTranslit=te
-7	अधिक	अधिक	DET	_	_	8	det	_	Translit=adhika|LTranslit=adhika
+7	अधिक	अधिक	DET	_	PronType=Ind	8	det	_	Translit=adhika|LTranslit=adhika
 8	काम	काम	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	9	obj	_	Translit=kama|LTranslit=kama
 9	केल्याचा	करणे	VERB	_	VerbForm=Conv	10	nmod	_	Translit=kelyacha|LTranslit=karane
 10	पुरावा	पुरावा	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	obj	_	Translit=purava|LTranslit=purava
@@ -9880,8 +9880,8 @@
 1	या	हा	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	Translit=ya|LTranslit=ha
 2	सप्ताहभरापासून	सप्ताहभर	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	obl	_	Translit=saptahabharapasuna|LTranslit=saptahabhara
 3	दररोज	दररोज	ADV	_	_	9	advmod	_	Translit=dararoja|LTranslit=dararoja
-4	कमी	कमी	DET	_	_	5	advmod	_	Translit=kami|LTranslit=kami
-5	अधिक	अधिक	DET	_	_	6	det	_	Translit=adhika|LTranslit=adhika
+4	कमी	कमी	DET	_	PronType=Ind	5	advmod	_	Translit=kami|LTranslit=kami
+5	अधिक	अधिक	DET	_	PronType=Ind	6	det	_	Translit=adhika|LTranslit=adhika
 6	प्रमाणात	प्रमाण	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	obl	_	Translit=pramanata|LTranslit=pramana
 7	जिल्ह्यात	जिल्हा	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	obl	_	Translit=jilhyata|LTranslit=jilha
 8	पाऊस	पाऊस	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	compound	_	Translit=pausa|LTranslit=pausa
@@ -9894,9 +9894,9 @@
 # translit = tyamule ukada kahi pramanata kami jhala hota .
 1	त्यामुळे	ते	SCONJ	_	_	6	obl	_	Translit=tyamule|LTranslit=te
 2	उकाडा	उकाडा	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Translit=ukada|LTranslit=ukada
-3	काही	काही	DET	_	_	4	det	_	Translit=kahi|LTranslit=kahi
+3	काही	काही	DET	_	PronType=Ind	4	det	_	Translit=kahi|LTranslit=kahi
 4	प्रमाणात	प्रमाण	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	Translit=pramanata|LTranslit=pramana
-5	कमी	कमी	DET	_	_	6	compound	_	Translit=kami|LTranslit=kami
+5	कमी	कमी	DET	_	PronType=Ind	6	compound	_	Translit=kami|LTranslit=kami
 6	झाला	होणे	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=jhala|LTranslit=hone
 7	होता	असणे	AUX	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	Translit=hota|LTranslit=asane
 8	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
@@ -10079,7 +10079,7 @@
 # text = त्यामुळे काही काळ वाहतुकीस अडथळा निर्माण झाला होता .
 # translit = tyamule kahi kala vahatukisa adathala nirmana jhala hota .
 1	त्यामुळे	ते	SCONJ	_	_	7	obl	_	Translit=tyamule|LTranslit=te
-2	काही	काही	DET	_	_	3	det	_	Translit=kahi|LTranslit=kahi
+2	काही	काही	DET	_	PronType=Ind	3	det	_	Translit=kahi|LTranslit=kahi
 3	काळ	काळ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	obl	_	Translit=kala|LTranslit=kala
 4	वाहतुकीस	वाहतूक	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	amod	_	Translit=vahatukisa|LTranslit=vahatuka
 5	अडथळा	अडथळा	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Translit=adathala|LTranslit=adathala
@@ -10100,7 +10100,7 @@
 7	येथे	येथे	ADV	_	_	1	dislocated	_	Translit=yethe|LTranslit=yethe
 8	वादळी	वादळी	ADJ	_	_	9	amod	_	Translit=vadali|LTranslit=vadali
 9	वाऱ्यामुळे	वारा	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	14	obl	_	Translit=varyamule|LTranslit=vara
-10	काही	काही	DET	_	_	11	det	_	Translit=kahi|LTranslit=kahi
+10	काही	काही	DET	_	PronType=Ind	11	det	_	Translit=kahi|LTranslit=kahi
 11	घरांच्या	घर	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	12	nmod	_	Translit=gharamchya|LTranslit=ghara
 12	छतावरील	छत	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	13	nmod	_	Translit=chatavarila|LTranslit=chata
 13	पत्रे	पत्र	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	14	nsubj	_	Translit=patre|LTranslit=patra
@@ -10167,7 +10167,7 @@
 13	या	हे	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	14	det	_	Translit=ya|LTranslit=he
 14	पिकांचे	पिक	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	17	nmod	_	Translit=pikamche|LTranslit=pika
 15	अतिशय	अतिशय	ADJ	_	_	16	advmod	_	Translit=atishaya|LTranslit=atishaya
-16	कमी	कमी	DET	_	_	17	amod	_	Translit=kami|LTranslit=kami
+16	कमी	कमी	DET	_	PronType=Ind	17	amod	_	Translit=kami|LTranslit=kami
 17	नुकसान	नुकसान	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	18	compound	_	Translit=nukasana|LTranslit=nukasana
 18	झाले	होणे	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=jhale|LTranslit=hone
 19	.	.	PUNCT	_	_	18	punct	_	Translit=.|LTranslit=.
@@ -10177,7 +10177,7 @@
 # translit = daramyana , kahi thikani joradara varyamule kelichi pane phatali aheta .
 1	दरम्यान	दरम्यान	ADP	_	_	9	obl	_	Translit=daramyana|LTranslit=daramyana
 2	,	,	PUNCT	_	_	1	punct	_	Translit=,|LTranslit=,
-3	काही	काही	DET	_	_	4	det	_	Translit=kahi|LTranslit=kahi
+3	काही	काही	DET	_	PronType=Ind	4	det	_	Translit=kahi|LTranslit=kahi
 4	ठिकाणी	ठिकाण	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	obl	_	Translit=thikani|LTranslit=thikana
 5	जोरदार	जोरदार	ADJ	_	_	6	amod	_	Translit=joradara|LTranslit=joradara
 6	वाऱ्यामुळे	वारा	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	obl	_	Translit=varyamule|LTranslit=vara
@@ -10195,7 +10195,7 @@
 3	मका	मका	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	Translit=maka|LTranslit=maka
 4	या	हे	PRON	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Dem	5	det	_	Translit=ya|LTranslit=he
 5	पिकांचे	पिक	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	9	nmod	_	Translit=pikamche|LTranslit=pika
-6	सुमारे	सुमारे	DET	_	_	8	amod	_	Translit=sumare|LTranslit=sumare
+6	सुमारे	सुमारे	DET	_	PronType=Ind	8	amod	_	Translit=sumare|LTranslit=sumare
 7	पस्तीस	पस्तीस	NUM	_	NumType=Card	8	nummod	_	Translit=pastisa|LTranslit=pastisa
 8	हजारांचे	हजार	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	9	nmod	_	Translit=hajaramche|LTranslit=hajara
 9	नुकसान	नुकसान	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	10	compound	_	Translit=nukasana|LTranslit=nukasana
@@ -10394,7 +10394,7 @@
 # text = तो खूप आनंदाने म्हणाला .
 # translit = to khupa anamdane mhanala .
 1	तो	तो	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	4	nsubj	_	Translit=to|LTranslit=to
-2	खूप	खूप	DET	_	_	3	obj	_	Translit=khupa|LTranslit=khupa
+2	खूप	खूप	DET	_	PronType=Ind	3	obj	_	Translit=khupa|LTranslit=khupa
 3	आनंदाने	आनंद	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	Translit=anamdane|LTranslit=anamda
 4	म्हणाला	म्हण	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=mhanala|LTranslit=mhana
 5	.	.	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
@@ -10406,7 +10406,7 @@
 2	लवकर	लवकर	ADV	_	_	4	advmod	_	Translit=lavakara|LTranslit=lavakara
 3	लवकर	लवकर	ADV	_	_	4	advmod	_	Translit=lavakara|LTranslit=lavakara
 4	परत	परत	ADV	_	_	0	root	_	Translit=parata|LTranslit=parata
-5	ये	येणे	VERB	_	Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	4	xcomp	_	Translit=ye|LTranslit=yene
+5	ये	येणे	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	4	xcomp	_	Translit=ye|LTranslit=yene
 6	.	.	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 9199
@@ -10486,7 +10486,7 @@
 # sent_id = 9207
 # text = कोणी / एक मुलगा .
 # translit = koni / eka mulaga .
-1	कोणी	कोण	PRON	_	_	0	root	_	Translit=koni|LTranslit=kona
+1	कोणी	कोण	PRON	_	PronType=Ind	0	root	_	Translit=koni|LTranslit=kona
 2	/	/	PUNCT	_	_	1	punct	_	Translit=/|LTranslit=/
 3	एक	एक	NUM	_	NumType=Card	4	nummod	_	Translit=eka|LTranslit=eka
 4	मुलगा	मुलगा	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nmod	_	Translit=mulaga|LTranslit=mulaga
@@ -10521,7 +10521,7 @@
 # translit = ti pahili ardha kilo dala .
 1	ती	ती	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	3	nmod	_	Translit=ti|LTranslit=ti
 2	पहिली	पहिला	ADJ	_	NumType=Ord	3	amod	_	Translit=pahili|LTranslit=pahila
-3	अर्धा	अर्धा	DET	_	_	5	nsubj	_	Translit=ardha|LTranslit=ardha
+3	अर्धा	अर्धा	DET	_	PronType=Ind	5	nsubj	_	Translit=ardha|LTranslit=ardha
 4	किलो	किलो	NOUN	_	_	5	compound	_	Translit=kilo|LTranslit=kilo
 5	डाळ	डाळ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Translit=dala|LTranslit=dala
 6	.	.	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
@@ -10530,7 +10530,7 @@
 # text = लोक सगळे आले होते .
 # translit = loka sagale ale hote .
 1	लोक	लोक	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	Translit=loka|LTranslit=loka
-2	सगळे	सगळा	DET	_	Case=Nom|Gender=Masc|Number=Plur	3	obl	_	Translit=sagale|LTranslit=sagala
+2	सगळे	सगळा	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	3	obl	_	Translit=sagale|LTranslit=sagala
 3	आले	येणे	VERB	_	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Fin	0	root	_	Translit=ale|LTranslit=yene
 4	होते	असणे	AUX	_	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	aux	_	Translit=hote|LTranslit=asane
 5	.	.	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
@@ -10539,7 +10539,7 @@
 # text = आम्ही सगळे काल आलो .
 # translit = amhi sagale kala alo .
 1	आम्ही	मी	PRON	_	Case=Nom|Number=Plur|PronType=Prs	4	nsubj	_	Translit=amhi|LTranslit=mi
-2	सगळे	सगळा	DET	_	Case=Nom|Gender=Masc|Number=Plur	3	amod	_	Translit=sagale|LTranslit=sagala
+2	सगळे	सगळा	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	3	amod	_	Translit=sagale|LTranslit=sagala
 3	काल	काल	NOUN	_	_	4	obl	_	Translit=kala|LTranslit=kala
 4	आलो	येणे	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Translit=alo|LTranslit=yene
 5	.	.	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
@@ -10547,7 +10547,7 @@
 # sent_id = 9214
 # text = फार छोटी खोली .
 # translit = phara choti kholi .
-1	फार	फार	DET	_	_	3	advmod	_	Translit=phara|LTranslit=phara
+1	फार	फार	DET	_	PronType=Ind	3	advmod	_	Translit=phara|LTranslit=phara
 2	छोटी	छोटा	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	Translit=choti|LTranslit=chota
 3	खोली	खोली	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Translit=kholi|LTranslit=kholi
 4	.	.	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
@@ -10662,14 +10662,14 @@
 2	दोन	दोन	NUM	_	NumType=Card	3	nummod	_	Translit=dona|LTranslit=dona
 3	आंबे	आंबा	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	5	obj	_	Translit=ambe|LTranslit=amba
 4	मुलांना	मूल	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	5	iobj	_	Translit=mulamna|LTranslit=mula
-5	दे	देणे	VERB	_	Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	0	root	_	Translit=de|LTranslit=dene
+5	दे	देणे	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	Translit=de|LTranslit=dene
 6	.	.	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 9228
 # text = अगदी खूप सुंदर चित्र
 # translit = agadi khupa sumdara chitra
 1	अगदी	अगदी	ADV	_	_	2	amod	_	Translit=agadi|LTranslit=agadi
-2	खूप	खूप	DET	_	_	4	nmod	_	Translit=khupa|LTranslit=khupa
+2	खूप	खूप	DET	_	PronType=Ind	4	nmod	_	Translit=khupa|LTranslit=khupa
 3	सुंदर	सुंदर	ADJ	_	_	4	amod	_	Translit=sumdara|LTranslit=sumdara
 4	चित्र	चित्र	NOUN	_	_	0	root	_	Translit=chitra|LTranslit=chitra
 
@@ -10814,7 +10814,7 @@
 # text = केरळात खूप पाऊस पडतो .
 # translit = keralata khupa pausa padato .
 1	केरळात	केरळ	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	Translit=keralata|LTranslit=kerala
-2	खूप	खूप	DET	_	_	3	compound	_	Translit=khupa|LTranslit=khupa
+2	खूप	खूप	DET	_	PronType=Ind	3	compound	_	Translit=khupa|LTranslit=khupa
 3	पाऊस	पाऊस	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Translit=pausa|LTranslit=pausa
 4	पडतो	h	VERB	_	Tense=Pres|VerbForm=Fin	0	root	_	Translit=padato|LTranslit=h
 5	.	.	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
@@ -10824,7 +10824,7 @@
 # translit = tyachi prakrriti itaki bighadali ahe ki ata to marato .
 1	त्याची	तो	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	2	nmod	_	Translit=tyachi|LTranslit=to
 2	प्रकृती	प्रकृती	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	Translit=prakrriti|LTranslit=prakrriti
-3	इतकी	इतकी	DET	_	Case=Nom|Gender=Fem|Number=Sing	4	advmod	_	Translit=itaki|LTranslit=itaki
+3	इतकी	इतकी	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	4	advmod	_	Translit=itaki|LTranslit=itaki
 4	बिघडली	p	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=bighadali|LTranslit=p
 5	आहे	असणे	AUX	_	Tense=Pres|VerbForm=Fin	4	aux	_	Translit=ahe|LTranslit=asane
 6	की	की	SCONJ	_	_	9	mark	_	Translit=ki|LTranslit=ki
@@ -10836,7 +10836,7 @@
 # sent_id = 9246
 # text = चला , मी तुम्हास एक मौज दाखवतो .
 # translit = chala , mi tumhasa eka mauja dakhavato .
-1	चला	ak	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	Translit=chala|LTranslit=ak
+1	चला	ak	VERB	_	Mood=Imp|VerbForm=Fin	0	root	_	Translit=chala|LTranslit=ak
 2	,	,	PUNCT	_	_	1	punct	_	Translit=,|LTranslit=,
 3	मी	मी	PRON	_	Case=Nom|Number=Sing|PronType=Prs	7	nsubj	_	Translit=mi|LTranslit=mi
 4	तुम्हास	तुम्हास	PRON	_	PronType=Prs	7	obl	_	Translit=tumhasa|LTranslit=tumhasa
@@ -11113,7 +11113,7 @@
 # translit = tu pustaka de .
 1	तू	तू	PRON	_	Case=Nom|Number=Sing|PronType=Prs	3	nsubj	_	Translit=tu|LTranslit=tu
 2	पुस्तक	पुस्तक	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	obj	_	Translit=pustaka|LTranslit=pustaka
-3	दे	i	VERB	_	VerbForm=Fin	0	root	_	Translit=de|LTranslit=i
+3	दे	i	VERB	_	Mood=Imp|VerbForm=Fin	0	root	_	Translit=de|LTranslit=i
 4	.	.	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 9276
@@ -11145,7 +11145,7 @@
 # translit = tumhi pustaka dya .
 1	तुम्ही	तू	PRON	_	Case=Nom|Number=Plur|PronType=Prs	3	nsubj	_	Translit=tumhi|LTranslit=tu
 2	पुस्तक	पुस्तक	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	obj	_	Translit=pustaka|LTranslit=pustaka
-3	द्या	ak	VERB	_	VerbForm=Fin	0	root	_	Translit=dya|LTranslit=ak
+3	द्या	ak	VERB	_	Mood=Imp|VerbForm=Fin	0	root	_	Translit=dya|LTranslit=ak
 4	.	.	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 9280
@@ -11161,7 +11161,7 @@
 # translit = tumhi goshta samga .
 1	तुम्ही	तू	PRON	_	Case=Nom|Number=Plur|PronType=Prs	3	nsubj	_	Translit=tumhi|LTranslit=tu
 2	गोष्ट	गोष्ट	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	compound	_	Translit=goshta|LTranslit=goshta
-3	सांगा	ak	VERB	_	VerbForm=Fin	0	root	_	Translit=samga|LTranslit=ak
+3	सांगा	ak	VERB	_	Mood=Imp|VerbForm=Fin	0	root	_	Translit=samga|LTranslit=ak
 4	.	.	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 9282
@@ -11292,7 +11292,7 @@
 # translit = ya pravasata aneka phulapakhare ani chimanya drrishtisa padatata .
 1	या	या	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	Translit=ya|LTranslit=ya
 2	प्रवासात	प्रवास	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	Translit=pravasata|LTranslit=pravasa
-3	अनेक	अनेक	DET	_	_	4	det	_	Translit=aneka|LTranslit=aneka
+3	अनेक	अनेक	DET	_	PronType=Ind	4	det	_	Translit=aneka|LTranslit=aneka
 4	फुलपाखरे	फूलपाखरु	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	8	nsubj	_	Translit=phulapakhare|LTranslit=phulapakharu
 5	आणि	आणि	SCONJ	_	_	6	cc	_	Translit=ani|LTranslit=ani
 6	चिमण्या	चिमणी	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	4	conj	_	Translit=chimanya|LTranslit=chimani
@@ -11380,7 +11380,7 @@
 3	जवळचे	जवळ	ADJ	_	_	4	amod	_	Translit=javalache|LTranslit=javala
 4	रेल्वेस्थानक	रेल्वेस्थानक	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	nmod	_	Translit=relvesthanaka|LTranslit=relvesthanaka
 5	तिरुवनंतपुरम	तिरुवनंतपुरम	PROPN	_	Case=Nom|Number=Sing	0	root	_	Translit=tiruvanamtapurama|LTranslit=tiruvanamtapurama
-6	हे	हे	DET	_	Case=Nom|Gender=Neut|Number=Sing	5	det	_	Translit=he|LTranslit=he
+6	हे	हे	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	5	det	_	Translit=he|LTranslit=he
 7	असून	असणे	AUX	_	_	10	cop	_	Translit=asuna|LTranslit=asane
 8	ते	ते	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	10	nsubj	_	Translit=te|LTranslit=te
 9	६१	६१	NUM	_	NumType=Card	10	nummod	_	Translit=61|LTranslit=61
@@ -11669,7 +11669,7 @@
 1	राजा	राजा	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	compound	_	Translit=raja|LTranslit=raja
 2	रवि	रवि	PROPN	_	_	3	compound	_	Translit=ravi|LTranslit=ravi
 3	वर्मा	वर्मा	PROPN	_	_	9	nsubj	_	Translit=varma|LTranslit=varma
-4	बरीच	वर्म	DET	_	Gender=Neut|Number=Sing	5	det	_	Translit=baricha|LTranslit=varma
+4	बरीच	वर्म	DET	_	Gender=Neut|Number=Sing|PronType=Ind	5	det	_	Translit=baricha|LTranslit=varma
 5	वर्ष	बरीच	NOUN	_	_	9	obl	_	Translit=varsha|LTranslit=baricha
 6	मुंबई	वर्ष	PROPN	_	Case=Nom|Number=Sing	9	obl	_	Translit=mumbai|LTranslit=varsha
 7	आणि	मुंबई	SCONJ	_	_	8	cc	_	Translit=ani|LTranslit=mumbai
@@ -11806,7 +11806,7 @@
 # text = मंदिर पूर्ण होईपर्यंत धारावर्षा आणि सोमेश्वरदेव स्वर्गवासी झाले होते .
 # translit = mamdira purna hoiparyamta dharavarsha ani someshvaradeva svargavasi jhale hote .
 1	मंदिर	मंदिर	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	Translit=mamdira|LTranslit=mamdira
-2	पूर्ण	पूर्ण	DET	_	_	3	compound	_	Translit=purna|LTranslit=purna
+2	पूर्ण	पूर्ण	DET	_	PronType=Ind	3	compound	_	Translit=purna|LTranslit=purna
 3	होईपर्यंत	होणे	VERB	_	VerbForm=Conv	8	obl	_	Translit=hoiparyamta|LTranslit=hone
 4	धारावर्षा	धारावर्षा	PROPN	_	_	8	nsubj	_	Translit=dharavarsha|LTranslit=dharavarsha
 5	आणि	आणि	SCONJ	_	_	6	cc	_	Translit=ani|LTranslit=ani
@@ -12062,7 +12062,7 @@
 1	ताडीची	ताडी	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	Translit=tadichi|LTranslit=tadi
 2	रसदार	रसदार	ADJ	_	_	3	nmod	_	Translit=rasadara|LTranslit=rasadara
 3	फळविक्रेते	फळविक्रेता	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	6	nsubj	_	Translit=phalavikrete|LTranslit=phalavikreta
-4	पूर्ण	पूर्ण	DET	_	_	5	amod	_	Translit=purna|LTranslit=purna
+4	पूर्ण	पूर्ण	DET	_	PronType=Ind	5	amod	_	Translit=purna|LTranslit=purna
 5	रस्त्यात	रस्ता	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	Translit=rastyata|LTranslit=rasta
 6	भेटतात	भेट	VERB	_	Aspect=Hab|Gender=Masc|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=bhetatata|LTranslit=bheta
 7	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
@@ -12412,7 +12412,7 @@
 6	प्रशस्तिमधील	प्रशस्तिमधील	NOUN	_	_	8	nmod	_	Translit=prashastimadhila|LTranslit=prashastimadhila
 7	कुंभस्वामिन	कुंभस्वामिन	PROPN	_	Case=Nom|Number=Sing	8	compound	_	Translit=kumbhasvamina|LTranslit=kumbhasvamina
 8	आलम	आलम	PROPN	_	_	13	nsubj	_	Translit=alama|LTranslit=alama
-9	हे	हे	DET	_	Case=Nom|Gender=Neut|Number=Sing	8	det	_	Translit=he|LTranslit=he
+9	हे	हे	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	8	det	_	Translit=he|LTranslit=he
 10	प्राचीन	प्राचीन	ADJ	_	_	11	amod	_	Translit=prachina|LTranslit=prachina
 11	त्रिपुरविजय	त्रिपुरविजय	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	13	xcomp	_	Translit=tripuravijaya|LTranslit=tripuravijaya
 12	हेच	हे	ADP	_	_	11	case	_	Translit=hecha|LTranslit=he
@@ -12492,7 +12492,7 @@
 # text = गर्भगृहाचे प्रत्येक अंग एका सलिलांतराला जोडले आहे .
 # translit = garbhagrrihache pratyeka amga eka salilamtarala jodale ahe .
 1	गर्भगृहाचे	गर्भगृह	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	nmod	_	Translit=garbhagrrihache|LTranslit=garbhagrriha
-2	प्रत्येक	प्रत्येक	DET	_	_	3	det	_	Translit=pratyeka|LTranslit=pratyeka
+2	प्रत्येक	प्रत्येक	DET	_	PronType=Ind	3	det	_	Translit=pratyeka|LTranslit=pratyeka
 3	अंग	अंग	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	Translit=amga|LTranslit=amga
 4	एका	एका	NUM	_	NumType=Card	5	nummod	_	Translit=eka|LTranslit=eka
 5	सलिलांतराला	सलिलांतराला	NOUN	_	_	6	obj	_	Translit=salilamtarala|LTranslit=salilamtarala
@@ -12503,7 +12503,7 @@
 # sent_id = 9375
 # text = प्रत्येक कोपर्‍यात दिग्पालांच्या मूर्ती त्रिभंग अवस्थेत उभ्या असलेल्या अत्यंत नाजूक दिसतात .
 # translit = pratyeka kopar{}yata digpalamchya murti tribhamga avastheta ubhya asalelya atyamta najuka disatata .
-1	प्रत्येक	प्रत्येक	DET	_	_	2	det	_	Translit=pratyeka|LTranslit=pratyeka
+1	प्रत्येक	प्रत्येक	DET	_	PronType=Ind	2	det	_	Translit=pratyeka|LTranslit=pratyeka
 2	कोपर्‍यात	कोपरा	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	nmod	_	Translit=kopar{}yata|LTranslit=kopara
 3	दिग्पालांच्या	दिग्पाल	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	4	nmod	_	Translit=digpalamchya|LTranslit=digpala
 4	मूर्ती	मूर्ती	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	Translit=murti|LTranslit=murti
@@ -12629,7 +12629,7 @@
 8	जैन	जैन	NOUN	_	_	12	nmod	_	Translit=jaina|LTranslit=jaina
 9	आणि	आणि	SCONJ	_	_	10	cc	_	Translit=ani|LTranslit=ani
 10	हिंदू	हिंदू	NOUN	_	_	8	conj	_	Translit=himdu|LTranslit=himdu
-11	सर्वच	सर्व	DET	_	_	8	conj	_	Translit=sarvacha|LTranslit=sarva
+11	सर्वच	सर्व	DET	_	PronType=Ind	8	conj	_	Translit=sarvacha|LTranslit=sarva
 12	मंदिरात	मंदिर	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	13	obl	_	Translit=mamdirata|LTranslit=mamdira
 13	आढळतात	आढळ	VERB	_	Aspect=Hab|Gender=Masc|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=adhalatata|LTranslit=adhala
 14	.	.	PUNCT	_	_	13	punct	_	Translit=.|LTranslit=.
@@ -12766,7 +12766,7 @@
 # translit = mamdiratila murti thodya hiravata kalya pareva dagadapasuna banalelya aheta .
 1	मंदिरातील	मंदिर	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	nmod	_	Translit=mamdiratila|LTranslit=mamdira
 2	मूर्ती	मूर्ती	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	Translit=murti|LTranslit=murti
-3	थोड्या	थोडा	DET	_	_	4	amod	_	Translit=thodya|LTranslit=thoda
+3	थोड्या	थोडा	DET	_	PronType=Ind	4	amod	_	Translit=thodya|LTranslit=thoda
 4	हिरवट	हिरवट	ADJ	_	_	8	obl	_	Translit=hiravata|LTranslit=hiravata
 5	काळ्या	काळा	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	7	amod	_	Translit=kalya|LTranslit=kala
 6	परेवा	परेवा	ADJ	_	_	7	amod	_	Translit=pareva|LTranslit=pareva
@@ -12799,7 +12799,7 @@
 # text = आहड हे मेवाड प्रदेशातील मूर्तीकलेच्या दृष्टीने एक महत्त्वपूर्ण स्थळ आहे .
 # translit = ahada he mevada pradeshatila murtikalechya drrishtine eka mahattvapurna sthala ahe .
 1	आहड	आहड	PROPN	_	Case=Nom|Number=Sing	9	nsubj	_	Translit=ahada|LTranslit=ahada
-2	हे	हे	DET	_	Case=Nom|Gender=Neut|Number=Sing	1	det	_	Translit=he|LTranslit=he
+2	हे	हे	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	1	det	_	Translit=he|LTranslit=he
 3	मेवाड	मेवाड	PROPN	_	Case=Nom|Number=Sing	4	nmod	_	Translit=mevada|LTranslit=mevada
 4	प्रदेशातील	प्रदेश	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	nmod	_	Translit=pradeshatila|LTranslit=pradesha
 5	मूर्तीकलेच्या	मूर्तीकला	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	nmod	_	Translit=murtikalechya|LTranslit=murtikala
@@ -12949,7 +12949,7 @@
 # sent_id = 9406
 # text = प्रत्येक खांबावर वेगळ्या वेगळ्या कलाकृती दर्शविणारे नक्षीकाम आहे .
 # translit = pratyeka khambavara vegalya vegalya kalakrriti darshavinare nakshikama ahe .
-1	प्रत्येक	प्रत्येक	DET	_	_	2	det	_	Translit=pratyeka|LTranslit=pratyeka
+1	प्रत्येक	प्रत्येक	DET	_	PronType=Ind	2	det	_	Translit=pratyeka|LTranslit=pratyeka
 2	खांबावर	खांब	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	Translit=khambavara|LTranslit=khamba
 3	वेगळ्या	वेगळा	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	5	amod	_	Translit=vegalya|LTranslit=vegala
 4	वेगळ्या	वेगळा	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	5	amod	_	Translit=vegalya|LTranslit=vegala
@@ -13014,7 +13014,7 @@
 3	बांधलेल्या	बांध	VERB	_	VerbForm=Conv	4	acl	_	Translit=bamdhalelya|LTranslit=bamdha
 4	दर्ग्यावर	दर्गा	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	Translit=dargyavara|LTranslit=darga
 5	आजही	आज	NOUN	_	_	11	obl	_	Translit=ajahi|LTranslit=aja
-6	सर्व	सर्व	DET	_	_	7	det	_	Translit=sarva|LTranslit=sarva
+6	सर्व	सर्व	DET	_	PronType=Ind	7	det	_	Translit=sarva|LTranslit=sarva
 7	धर्मांचे	धर्म	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	8	nmod	_	Translit=dharmamche|LTranslit=dharma
 8	लोक	लोक	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	Translit=loka|LTranslit=loka
 9	दुरुन	दुरुन	ADV	_	_	11	advmod	_	Translit=duruna|LTranslit=duruna
@@ -13110,7 +13110,7 @@
 # translit = navabamni banavalelya aneka imarati ajahi lakhanaumadhye aheta .
 1	नवाबांनी	नवाब	NOUN	_	Gender=Masc|Number=Plur	2	nsubj:pass	_	Translit=navabamni|LTranslit=navaba
 2	बनवलेल्या	बनव	VERB	_	_	4	acl	_	Translit=banavalelya|LTranslit=banava
-3	अनेक	अनेक	DET	_	_	4	det	_	Translit=aneka|LTranslit=aneka
+3	अनेक	अनेक	DET	_	PronType=Ind	4	det	_	Translit=aneka|LTranslit=aneka
 4	इमारती	इमारत	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	6	nsubj	_	Translit=imarati|LTranslit=imarata
 5	आजही	आज	NOUN	_	_	6	nmod	_	Translit=ajahi|LTranslit=aja
 6	लखनौमध्ये	लखनौ	PROPN	_	_	0	root	_	Translit=lakhanaumadhye|LTranslit=lakhanau
@@ -13486,7 +13486,7 @@
 # text = पटनीटापमध्ये संपूर्ण वर्षभर पर्यटकांची गर्दी असते .
 # translit = patanitapamadhye sampurna varshabhara paryatakamchi gardi asate .
 1	पटनीटापमध्ये	पटनीटाप	PROPN	_	_	6	obl	_	Translit=patanitapamadhye|LTranslit=patanitapa
-2	संपूर्ण	संपूर्ण	DET	_	_	3	amod	_	Translit=sampurna|LTranslit=sampurna
+2	संपूर्ण	संपूर्ण	DET	_	PronType=Ind	3	amod	_	Translit=sampurna|LTranslit=sampurna
 3	वर्षभर	वर्षभर	NOUN	_	_	6	obl	_	Translit=varshabhara|LTranslit=varshabhara
 4	पर्यटकांची	पर्यटक	NOUN	_	Case=Acc|Number=Plur	5	nmod	_	Translit=paryatakamchi|LTranslit=paryataka
 5	गर्दी	गर्दी	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	Translit=gardi|LTranslit=gardi
@@ -13773,14 +13773,14 @@
 # translit = mortilo taॉvaramadhye ekuna 56 khidakya aheta jyachyatuna golya maralya jau shakatata .
 1	मोर्टिलो	मोर्टिलो	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	compound	_	Translit=mortilo|LTranslit=mortilo
 2	टॉवरमध्ये	टॉवर	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nmod	_	Translit=taॉvaramadhye|LTranslit=taॉvara
-3	एकूण	एकूण	DET	_	_	5	amod	_	Translit=ekuna|LTranslit=ekuna
+3	एकूण	एकूण	DET	_	PronType=Ind	5	amod	_	Translit=ekuna|LTranslit=ekuna
 4	५६	५६	NUM	_	NumType=Card	5	nummod	_	Translit=56|LTranslit=56
 5	खिडक्या	खिडकी	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	0	root	_	Translit=khidakya|LTranslit=khidaki
 6	आहेत	असणे	AUX	_	Gender=Fem|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	Translit=aheta|LTranslit=asane
 7	ज्याच्यातून	जे	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	9	obl	_	Translit=jyachyatuna|LTranslit=je
 8	गोळ्या	गोळी	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	9	obj	_	Translit=golya|LTranslit=goli
 9	मारल्या	मार	VERB	_	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Fin	5	acl:relcl	_	Translit=maralya|LTranslit=mara
-10	जाऊ	जाणे	AUX	_	VerbForm=Fin	9	aux:pass	_	Translit=jau|LTranslit=jane
+10	जाऊ	जाणे	AUX	_	Mood=Imp|VerbForm=Fin	9	aux:pass	_	Translit=jau|LTranslit=jane
 11	शकतात	शकणे	AUX	_	Aspect=Hab|Gender=Masc|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux:pass	_	Translit=shakatata|LTranslit=shakane
 12	.	.	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 
@@ -13815,7 +13815,7 @@
 9	पर्वतांचे	पर्वत	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	6	conj	_	Translit=parvatamche|LTranslit=parvata
 10	दृश्यावलोकन	दृश्यावलोकन	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	11	obj	_	Translit=drrishyavalokana|LTranslit=drrishyavalokana
 11	केले	करणे	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Fin	0	root	_	Translit=kele|LTranslit=karane
-12	जाऊ	जाणे	AUX	_	VerbForm=Fin	11	aux:pass	_	Translit=jau|LTranslit=jane
+12	जाऊ	जाणे	AUX	_	Mood=Imp|VerbForm=Fin	11	aux:pass	_	Translit=jau|LTranslit=jane
 13	शकते	शकणे	AUX	_	Aspect=Hab|Gender=Neut|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	Translit=shakate|LTranslit=shakane
 14	.	.	PUNCT	_	_	11	punct	_	Translit=.|LTranslit=.
 
@@ -14168,11 +14168,11 @@
 7	३६०	३६०	NUM	_	NumType=Card	8	nummod	_	Translit=360|LTranslit=360
 8	शिवलिंग	शिवलिंग	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	16	nsubj	_	Translit=shivalimga|LTranslit=shivalimga
 9	आणि	आणि	SCONJ	_	_	11	cc	_	Translit=ani|LTranslit=ani
-10	तितकेच	तितके	DET	_	_	11	det	_	Translit=titakecha|LTranslit=titake
+10	तितकेच	तितके	DET	_	PronType=Ind	11	det	_	Translit=titakecha|LTranslit=titake
 11	तलावसुद्धा	तलाव	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	8	conj	_	Translit=talavasuddha|LTranslit=talava
 12	आहेत	असणे	AUX	_	Gender=Masc|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	Translit=aheta|LTranslit=asane
 13	भले	भला	PART	_	_	15	amod	_	Translit=bhale|LTranslit=bhala
-14	सर्व	सर्व	DET	_	Case=Nom|Gender=Masc|Number=Plur	15	det	_	Translit=sarva|LTranslit=sarva
+14	सर्व	सर्व	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	15	det	_	Translit=sarva|LTranslit=sarva
 15	दृष्टीस	दृष्टी	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	16	obl	_	Translit=drrishtisa|LTranslit=drrishti
 16	पडत	पड	VERB	_	VerbForm=Fin	1	acl	_	Translit=padata|LTranslit=pada
 17	नाहीत	असणे	AUX	_	Gender=Masc|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	Translit=nahita|LTranslit=asane
@@ -14333,7 +14333,7 @@
 # translit = jagannathapura mamdirapasuna ardhya kimi.chya amtaravara mausivadichi rachana keli geli ahe .
 1	जगन्नाथपूर	जगन्नाथपूर	PROPN	_	Case=Nom|Number=Sing	2	nmod	_	Translit=jagannathapura|LTranslit=jagannathapura
 2	मंदिरापासून	मंदिर	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obl	_	Translit=mamdirapasuna|LTranslit=mamdira
-3	अर्ध्या	अर्धा	DET	_	Gender=Masc	4	amod	_	Translit=ardhya|LTranslit=ardha
+3	अर्ध्या	अर्धा	DET	_	Gender=Masc|PronType=Ind	4	amod	_	Translit=ardhya|LTranslit=ardha
 4	किमी.च्या	किमी.च्या	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	nmod	_	Translit=kimi.chya|LTranslit=kimi.chya
 5	अंतरावर	अंतर	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obl	_	Translit=amtaravara|LTranslit=amtara
 6	मौसीवाडीची	मौसीवाडी	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	7	nmod	_	Translit=mausivadichi|LTranslit=mausivadi
@@ -14587,7 +14587,7 @@
 # sent_id = 9514
 # text = बहुतेक लोक नक्षत्र - वनात लावलेल्या औषधी रोपट्यांना पाहताना व त्यांच्याबद्दल माहिती देणारे फलक वाचताना आढळतात .
 # translit = bahuteka loka nakshatra - vanata lavalelya aushadhi ropatyamna pahatana va tyamchyabaddala mahiti denare phalaka vachatana adhalatata .
-1	बहुतेक	बहुतेक	DET	_	_	2	det	_	Translit=bahuteka|LTranslit=bahuteka
+1	बहुतेक	बहुतेक	DET	_	PronType=Ind	2	det	_	Translit=bahuteka|LTranslit=bahuteka
 2	लोक	लोक	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	16	nsubj	_	Translit=loka|LTranslit=loka
 3	नक्षत्र	नक्षत्र	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	compound	_	Translit=nakshatra|LTranslit=nakshatra
 4	-	-	PUNCT	_	_	5	punct	_	Translit=-|LTranslit=-
@@ -14634,7 +14634,7 @@
 # translit = nakshatra vanata aneka durlabha aushadhi - vanaspatimchi rope aheta .
 1	नक्षत्र	नक्षत्र	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	Translit=nakshatra|LTranslit=nakshatra
 2	वनात	वन	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	nmod	_	Translit=vanata|LTranslit=vana
-3	अनेक	अनेक	DET	_	Case=Nom|Number=Plur	7	det	_	Translit=aneka|LTranslit=aneka
+3	अनेक	अनेक	DET	_	Case=Nom|Number=Plur|PronType=Ind	7	det	_	Translit=aneka|LTranslit=aneka
 4	दुर्लभ	दुर्लभ	ADJ	_	_	7	amod	_	Translit=durlabha|LTranslit=durlabha
 5	औषधी	औषधी	ADJ	_	_	7	compound	_	Translit=aushadhi|LTranslit=aushadhi
 6	-	-	PUNCT	_	_	7	punct	_	Translit=-|LTranslit=-
@@ -14816,7 +14816,7 @@
 # text = जमशेदपूरमध्ये अनेक मनमोहक पर्यटनस्थळे आहेत .
 # translit = jamashedapuramadhye aneka manamohaka paryatanasthale aheta .
 1	जमशेदपूरमध्ये	जमशेदपूर	PROPN	_	Case=Acc|Number=Sing	4	nmod	_	Translit=jamashedapuramadhye|LTranslit=jamashedapura
-2	अनेक	अनेक	DET	_	_	4	det	_	Translit=aneka|LTranslit=aneka
+2	अनेक	अनेक	DET	_	PronType=Ind	4	det	_	Translit=aneka|LTranslit=aneka
 3	मनमोहक	मनमोहक	ADJ	_	_	4	amod	_	Translit=manamohaka|LTranslit=manamohaka
 4	पर्यटनस्थळे	पर्यटनस्थळ	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	0	root	_	Translit=paryatanasthale|LTranslit=paryatanasthala
 5	आहेत	असणे	AUX	_	VerbForm=Fin	4	cop	_	Translit=aheta|LTranslit=asane
@@ -15120,7 +15120,7 @@
 # text = ह्या सर्व सुविधांच्या संचालनासाठी ४०० कर्मचारी नियुक्‍त आहेत .
 # translit = hya sarva suvidhamchya samchalanasathi 400 karmachari niyuk{}ta aheta .
 1	ह्या	ही	PRON	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	3	det	_	Translit=hya|LTranslit=hi
-2	सर्व	सर्व	DET	_	Case=Nom|Number=Sing	3	det	_	Translit=sarva|LTranslit=sarva
+2	सर्व	सर्व	DET	_	Case=Nom|Number=Sing|PronType=Ind	3	det	_	Translit=sarva|LTranslit=sarva
 3	सुविधांच्या	सुविधा	NOUN	_	Case=Acc|Number=Sing	4	nmod	_	Translit=suvidhamchya|LTranslit=suvidha
 4	संचालनासाठी	संचालन	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obl	_	Translit=samchalanasathi|LTranslit=samchalana
 5	४००	४००	NUM	_	NumType=Card	6	nummod	_	Translit=400|LTranslit=400
@@ -15225,7 +15225,7 @@
 # sent_id = 9550
 # text = प्रत्येक स्थानावर मूल्य सूची प्रमुख स्वरूपात प्रदर्शित केली जाते .
 # translit = pratyeka sthanavara mulya suchi pramukha svarupata pradarshita keli jate .
-1	प्रत्येक	प्रत्येक	DET	_	_	2	det	_	Translit=pratyeka|LTranslit=pratyeka
+1	प्रत्येक	प्रत्येक	DET	_	PronType=Ind	2	det	_	Translit=pratyeka|LTranslit=pratyeka
 2	स्थानावर	स्थान	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obl	_	Translit=sthanavara|LTranslit=sthana
 3	मूल्य	मूल्य	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	compound	_	Translit=mulya|LTranslit=mulya
 4	सूची	सूची	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	obj	_	Translit=suchi|LTranslit=suchi
@@ -15400,7 +15400,7 @@
 7	सो	सो	NOUN	_	Case=Nom|Number=Sing	9	compound	_	Translit=so|LTranslit=so
 8	मोरीरी	मोरीरी	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	9	compound	_	Translit=moriri|LTranslit=moriri
 9	सरोवर	सरोवर	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	Translit=sarovara|LTranslit=sarovara
-10	अनेक	अनेक	DET	_	_	11	det	_	Translit=aneka|LTranslit=aneka
+10	अनेक	अनेक	DET	_	PronType=Ind	11	det	_	Translit=aneka|LTranslit=aneka
 11	प्रकारच्या	प्रकार	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	12	nmod	_	Translit=prakarachya|LTranslit=prakara
 12	पक्ष्यांचे	पक्षी	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	14	nmod	_	Translit=pakshyamche|LTranslit=pakshi
 13	प्रजनन	प्रजनन	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	14	compound	_	Translit=prajanana|LTranslit=prajanana
@@ -15446,7 +15446,7 @@
 3	सरोवराचे	सरोवर	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	nmod	_	Translit=sarovarache|LTranslit=sarovara
 4	गोड	गोड	ADJ	_	_	5	amod	_	Translit=goda|LTranslit=goda
 5	पाणी	पाणी	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	Translit=pani|LTranslit=pani
-6	अनेक	अनेक	DET	_	_	8	det	_	Translit=aneka|LTranslit=aneka
+6	अनेक	अनेक	DET	_	PronType=Ind	8	det	_	Translit=aneka|LTranslit=aneka
 7	प्रवासी	प्रवासी	NOUN	_	_	8	amod	_	Translit=pravasi|LTranslit=pravasi
 8	पक्ष्यांचा	पक्षी	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	10	nmod	_	Translit=pakshyamcha|LTranslit=pakshi
 9	अमूल्य	अमूल्य	ADJ	_	_	10	amod	_	Translit=amulya|LTranslit=amulya
@@ -15525,7 +15525,7 @@
 1	जोरात	जोरात	ADV	_	_	13	obl	_	Translit=jorata|LTranslit=jorata
 2	बर्फाच्या	बर्फ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	nmod	_	Translit=barphachya|LTranslit=barpha
 3	हवेत	हवा	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	Translit=haveta|LTranslit=hava
-4	जास्त	जास्त	DET	_	_	5	det	_	Translit=jasta|LTranslit=jasta
+4	जास्त	जास्त	DET	_	PronType=Ind	5	det	_	Translit=jasta|LTranslit=jasta
 5	वेळ	वेळ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	obj	_	Translit=vela|LTranslit=vela
 6	उभे	उभा	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	13	advcl	_	Translit=ubhe|LTranslit=ubha
 7	राहून	राह	VERB	_	_	13	advcl	_	Translit=rahuna|LTranslit=raha
