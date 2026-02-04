@@ -99,7 +99,7 @@ Data available since: UD v2.18
 License: CC BY-SA 4.0
 Includes text: yes
 Parallel: no
-Genre: academic grammar news government
+Genre: academic grammar-examples news government
 Lemmas: automatic with corrections
 UPOS: automatic with corrections
 XPOS: automatic with corrections
