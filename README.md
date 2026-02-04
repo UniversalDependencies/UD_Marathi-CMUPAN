@@ -1,6 +1,6 @@
 # Summary
 
-This treebank is a modified version of a semi-automatically treebank authord by Aditi Chaudhary, which in turn is based on the treebanks released by KCIS, IIIT-Hyderabad. It addresses several validation errors present in the original treebank through semi-automatic correction to ensure compliance with Universal Dependencies standards.
+This treebank is a modified version of a semi-automatically treebank originally authored by Aditi Chaudhary, which in turn is based on the treebanks released by KCIS, IIIT-Hyderabad. It addresses several validation errors present in the original treebank through semi-automatic correction to ensure compliance with Universal Dependencies standards.
 
 
 # Introduction
@@ -99,7 +99,7 @@ Data available since: UD v2.18
 License: CC BY-SA 4.0
 Includes text: yes
 Parallel: no
-Genre: agriculture, grammar, general, tourism
+Genre: academic grammar news government
 Lemmas: automatic with corrections
 UPOS: automatic with corrections
 XPOS: automatic with corrections
