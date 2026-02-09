@@ -1,8 +1,6 @@
 # Summary
 
-This treebank is a modified version of a semi-automatically treebank authord by Aditi Chaudhary, which in turn is based on the treebanks released by KCIS, IIIT-Hyderabad. It addresses several validation errors present in the original treebank through semi-automatic correction to ensure compliance with Universal Dependencies standards.
-
-Additionally, the treebank also contains Marathi-Discourse: A manually annotated 35-sentence corpus covering political discourse. The Marathi-Discourse sentences have been integrated directly into the training set of the CMUPAN treebank
+This treebank is a modified version of a semi-automatically treebank authord by Aditi Chaudhary, which in turn is based on the treebanks released by KCIS, IIIT-Hyderabad. It addresses several validation errors present in the original treebank through semi-automatic correction to ensure compliance with Universal Dependencies standards. Additionally, the treebank also contains Marathi-Discourse: A manually annotated 35-sentence corpus covering political discourse. The Marathi-Discourse sentences have been integrated directly into the training set of the CMUPAN treebank.
 
 
 # Introduction
@@ -139,7 +137,7 @@ Data available since: UD v2.18
 License: CC BY-SA 4.0
 Includes text: yes
 Parallel: no
-Genre: agriculture, grammar, general, tourism
+Genre: grammar general government non-fiction
 Lemmas: automatic with corrections
 UPOS: automatic with corrections
 XPOS: automatic with corrections
