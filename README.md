@@ -1,11 +1,21 @@
 # Summary
 
-This treebank is a modified version of a semi-automatically treebank originally authored by Aditi Chaudhary, which in turn is based on the treebanks released by KCIS, IIIT-Hyderabad. It addresses several validation errors present in the original treebank through semi-automatic correction to ensure compliance with Universal Dependencies standards.
+This treebank is a modified version of a semi-automatically treebank authord by Aditi Chaudhary, which in turn is based on the treebanks released by KCIS, IIIT-Hyderabad. It addresses several validation errors present in the original treebank through semi-automatic correction to ensure compliance with Universal Dependencies standards.
+
+Additionally, the treebank also contains Marathi-Discourse: A manually annotated 35-sentence corpus covering political discourse. The Marathi-Discourse sentences have been integrated directly into the training set of the CMUPAN treebank
 
 
 # Introduction
 
 The sentences are based on treebanks released by KCIS, IIIT-Hyderabad . The primary goal of this version is to provide a clean, validated treebank by fixing structural inconsistencies, morphological feature errors, and dependency relation violations in the original treebank. The corrections were performed using python script-based semi-automatic logics. (For eg. Identifying and fixing invalid upos-deeprel, correcting lemmas, correcting/removing invalid morphological feature, etc). For transliteration Indic Transliteration python library was used.
+
+Marathi-Discourse: The corpus also contains 35 Discourse sentences. Data for this is sourced from the official Marathi translation of Prime Minister (of India) Narendra Modi’s address to the nation regarding the COVID-19 pandemic, delivered on May 12, 2020.
+
+To maintain traceability, each sentence ID in the carries a specific prefix:
+
+*cmupan_*: Sentences from the CMU/IIIT-Hyderabad treebank.
+
+*DISC_*: Discourse sentences.
 
 
 # Acknowledgments
@@ -51,6 +61,16 @@ Please cite the following references:
   year={2009}
 }
 ```
+```
+@misc{modi_speech_2020,
+  author = {{Prime Minister's Office, India}},
+  title = {पंतप्रधानांचे देशाला संबोधन (Address to the Nation on COVID-19 and Atmanirbhar Bharat)},
+  year = {2020},
+  month = {May 12},
+  howpublished = {\url{https://www.pmindia.gov.in/mr/news_updates/पंतप्रधानांचे-देशाला-उद्/}}
+}
+```
+
 Additional relevant references are [here](http://verbs.colorado.edu/hindiurdu/publications.html)
 
 ### Converting Paninian annotation to UD annotation
@@ -86,6 +106,26 @@ UDIFY Model:
     pages = {2779--2795}
 }
 ```
+```
+@misc{googletrans,
+  author = {Suhun Han},
+  title = {Googletrans: Free and Unlimited Google translate API for Python},
+  year = {2020},
+  publisher = {PyPI},
+  howpublished = {\url{https://pypi.org/project/googletrans/}},
+}
+```
+```
+@misc{indic_transliteration,
+  author = {{Vishvas Vasuki}},
+  title = {indic-transliteration: Python package for Indic script transliteration},
+  year = {2025},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/indic-transliteration/indic_transliteration_py}},
+  note = {Version 2.3.75}
+}
+```
 
 # Changelog
 
@@ -99,7 +139,7 @@ Data available since: UD v2.18
 License: CC BY-SA 4.0
 Includes text: yes
 Parallel: no
-Genre: academic grammar-examples news government
+Genre: agriculture, grammar, general, tourism
 Lemmas: automatic with corrections
 UPOS: automatic with corrections
 XPOS: automatic with corrections
