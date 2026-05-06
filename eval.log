@@ -1,0 +1,79 @@
+Running the following version of UD tools:
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue May 5 17:01:41 2026 +0200
+Evaluating the following revision of UD_Marathi-CMUPAN:
+commit c5c691c525393892b95dadfaa498c34b10c1ddff
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Wed May 6 09:40:27 2026 +0200
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'mr_cmupan'
+Language code (from CoNLL-U file name) = 'mr'
+Found the following data files: mr_cmupan-ud-dev.conllu, mr_cmupan-ud-test.conllu, mr_cmupan-ud-train.conllu
+Size: counted 118198 of 118198 words (nodes).
+Size: min(0, log((N/1000)**2)) = 9.54472236871014.
+Size: maximum value 13.815511 is for 1000000 words or more.
+Split: Found more than 10000 training words.
+Split: Found at least 10000 development words.
+Split: Found at least 10000 test words.
+Lemmas: source of annotation (from README) factor is 0.5.
+Universal POS tags: 14 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 0.1.
+Features: 77074 out of 118198 total words have one or more features.
+Features: source of annotation (from README) factor is 0.5.
+Universal relations: 27 out of 37 found in the corpus.
+Universal relations: source of annotation (from README) factor is 0.1.
+Genres: found 4 out of 18 known.
+/net/work/people/zeman/unidep/tools/validate.py --lang mr --max-err=10 UD_Marathi-CMUPAN/mr_cmupan-ud-dev.conllu
+[Line 19 Sent Cmupan_8584]: [L3 WARNING verbform-fin-without-mood] Finite verb 'देते dete' lacks the 'Mood' feature
+[Line 32 Sent Cmupan_8585]: [L3 WARNING verbform-fin-without-mood] Finite verb 'केला kela' lacks the 'Mood' feature
+[Line 33 Sent Cmupan_8585]: [L3 WARNING verbform-fin-without-mood] Finite verb 'आहे ahe' lacks the 'Mood' feature
+[Line 44 Sent Cmupan_8586]: [L3 WARNING verbform-fin-without-mood] Finite verb 'केला kela' lacks the 'Mood' feature
+[Line 60 Sent Cmupan_8586]: [L3 WARNING verbform-fin-without-mood] Finite verb 'आहे ahe' lacks the 'Mood' feature
+[Line 73 Sent Cmupan_8587]: [L3 WARNING verbform-fin-without-mood] Finite verb 'आले ale' lacks the 'Mood' feature
+[Line 74 Sent Cmupan_8587]: [L3 WARNING verbform-fin-without-mood] Finite verb 'आहे ahe' lacks the 'Mood' feature
+[Line 79 Sent Cmupan_8587]: [L3 WARNING verbform-fin-without-mood] Finite verb 'दिसून disuna' lacks the 'Mood' feature
+[Line 80 Sent Cmupan_8587]: [L3 WARNING verbform-fin-without-mood] Finite verb 'येतो yeto' lacks the 'Mood' feature
+[Line 94 Sent Cmupan_8588]: [L3 WARNING verbform-fin-without-mood] Finite verb 'होऊ hou' lacks the 'Mood' feature
+...suppressing further messages regarding WARNING/MORPHO
+Warnings: 1521
+*** PASSED ***
+/net/work/people/zeman/unidep/tools/validate.py --lang mr --max-err=10 UD_Marathi-CMUPAN/mr_cmupan-ud-test.conllu
+[Line 19 Sent Cmupan_7581]: [L3 WARNING verbform-fin-without-mood] Finite verb 'ओळखले olakhale' lacks the 'Mood' feature
+[Line 20 Sent Cmupan_7581]: [L3 WARNING verbform-fin-without-mood] Finite verb 'जाते jate' lacks the 'Mood' feature
+[Line 46 Sent Cmupan_7582]: [L3 WARNING verbform-fin-without-mood] Finite verb 'शिकले shikale' lacks the 'Mood' feature
+[Line 47 Sent Cmupan_7582]: [L3 WARNING verbform-fin-without-mood] Finite verb 'होते hote' lacks the 'Mood' feature
+[Line 58 Sent Cmupan_7582]: [L3 WARNING verbform-fin-without-mood] Finite verb 'मिळाले milale' lacks the 'Mood' feature
+[Line 77 Sent Cmupan_7583]: [L3 WARNING verbform-fin-without-mood] Finite verb 'आली ali' lacks the 'Mood' feature
+[Line 94 Sent Cmupan_7584]: [L3 WARNING verbform-fin-without-mood] Finite verb 'होत hota' lacks the 'Mood' feature
+[Line 95 Sent Cmupan_7584]: [L3 WARNING verbform-fin-without-mood] Finite verb 'होते hote' lacks the 'Mood' feature
+[Line 102 Sent Cmupan_7584]: [L3 WARNING verbform-fin-without-mood] Finite verb 'झाला jhala' lacks the 'Mood' feature
+[Line 105 Sent Cmupan_7584]: [L3 WARNING verbform-fin-without-mood] Finite verb 'कमतरता kamatarata' lacks the 'Mood' feature
+...suppressing further messages regarding WARNING/MORPHO
+Warnings: 1627
+*** PASSED ***
+/net/work/people/zeman/unidep/tools/validate.py --lang mr --max-err=10 UD_Marathi-CMUPAN/mr_cmupan-ud-train.conllu
+[Line 65 Sent DISC_5]: [L3 WARNING verbform-fin-without-mood] Finite verb 'आहे ahe' lacks the 'Mood' feature
+[Line 89 Sent DISC_7]: [L3 WARNING verbform-fin-without-mood] Finite verb 'आहे ahe' lacks the 'Mood' feature
+[Line 101 Sent DISC_8]: [L3 WARNING verbform-fin-without-mood] Finite verb 'आहेत aheta' lacks the 'Mood' feature
+[Line 111 Sent DISC_9]: [L3 WARNING verbform-fin-without-mood] Finite verb 'नाही nahi' lacks the 'Mood' feature
+[Line 114 Sent DISC_9]: [L3 WARNING verbform-fin-without-mood] Finite verb 'नाही nahi' lacks the 'Mood' feature
+[Line 128 Sent DISC_10]: [L3 WARNING verbform-fin-without-mood] Finite verb 'आहे ahe' lacks the 'Mood' feature
+[Line 137 Sent DISC_11]: [L3 WARNING verbform-fin-without-mood] Finite verb 'आहे ahe' lacks the 'Mood' feature
+[Line 158 Sent DISC_12]: [L3 WARNING verbform-fin-without-mood] Finite verb 'नाही nahi' lacks the 'Mood' feature
+[Line 182 Sent DISC_13]: [L3 WARNING verbform-fin-without-mood] Finite verb 'आहे ahe' lacks the 'Mood' feature
+[Line 227 Sent DISC_16]: [L3 WARNING verbform-fin-without-mood] Finite verb 'आहोत ahota' lacks the 'Mood' feature
+...suppressing further messages regarding WARNING/MORPHO
+Warnings: 12247
+*** PASSED ***
+Validity: 1
+(weight=0.111111111111111) * (score{features}=0.5) = 0.0555555555555556
+(weight=0.111111111111111) * (score{genres}=0.222222222222222) = 0.0246913580246914
+(weight=0.111111111111111) * (score{lemmas}=0.5) = 0.0555555555555556
+(weight=0.37037037037037) * (score{size}=0.690870042671558) = 0.255877793582059
+(weight=0.0740740740740741) * (score{split}=1) = 0.0740740740740741
+(weight=0.111111111111111) * (score{tags}=0.0823529411764706) = 0.00915032679738562
+(weight=0.111111111111111) * (score{udeprels}=0.072972972972973) = 0.00810810810810811
+(TOTAL score=0.483012771697429) * (availability=1) * (validity=1) = 0.483012771697429
+STARS = 2.5
+UD_Marathi-CMUPAN	0.483012771697429	2.5
