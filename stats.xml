@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>9606</sentences><tokens>118198</tokens><words>118198</words><fused>0</fused></total>
+    <train><sentences>7616</sentences><tokens>94144</tokens><words>94144</words><fused>0</fused></train>
+    <dev><sentences>987</sentences><tokens>11648</tokens><words>11648</words><fused>0</fused></dev>
+    <test><sentences>1003</sentences><tokens>12406</tokens><words>12406</words><fused>0</fused></test>
+  </size>
+  <lemmas unique="15179" /><!-- ., असणे, ,, करणे, हा, आणि, जाणे, होणे, तो, येणे, ते, हे, &#34;, व, एक -->
+  <forms unique="28045" /><!-- ., ,, आहे, आणि, ", या, आहेत, होते, व, -, एक, हे, ते, ', ( -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="14">
+    <tag name="ADJ">9074</tag><!-- सुरू, मोठा, प्रसिद्ध, चांगला, सुंदर, तयार, विविध, प्रमुख, पूर्ण, उपलब्ध -->
+    <tag name="ADP">1447</tag><!-- हा, या, ही, दरम्यान, सुमारे, जवळ, हे, आधी, खाली, बाहेर -->
+    <tag name="ADV">2849</tag><!-- आता, येथ, येथे, येथील, असे, दूर, सध्या, पुन्हा, जेथे, नंतर -->
+    <tag name="AUX">6604</tag><!-- असणे, जाणे, येणे, शकणे, पाहिजे, नको -->
+    <tag name="CCONJ">6</tag><!-- आणि, मात्र -->
+    <tag name="DET">1964</tag><!-- काही, अनेक, सर्व, कमी, अधिक, हे, जास्त, प्रत्येक, इतर, फक्त -->
+    <tag name="NOUN">36980</tag><!-- मंदिर, वर्ष, आज, काम, भाग, वेळ, पाणी, शहर, किलोमीटर, घर -->
+    <tag name="NUM">3619</tag><!-- एक, दोन, एका, तीन, चार, हजार, पाच, २२, दोन्ही, लाख -->
+    <tag name="PART">593</tag><!-- न, सर्व, खूप, मात्र, अत्यंत, अतिशय, तर, नाही, तरी, ना -->
+    <tag name="PRON">7007</tag><!-- तो, हा, हे, ते, मी, ही, या, ती, आपला, जे -->
+    <tag name="PROPN">13323</tag><!-- मुंबई, भारत, डॉक्टर, कॉंग्रेस, पुणे, श्री, डॉ., पाटील, जम्मू, अनू -->
+    <tag name="PUNCT">15894</tag><!-- ., ,, &#34;, -, &#39;, ``, ", (, &#41;, ) -->
+    <tag name="SCONJ">4036</tag><!-- आणि, व, ते, की, म्हणून, तर, किंवा, तसेच, मात्र, पण -->
+    <tag name="VERB">14802</tag><!-- करणे, असणे, होणे, देणे, येणे, घेणे, जाणे, kr, मिळ, p -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="37">
+    <feat name="Aspect" value="Hab" upos="AUX,VERB">2739</feat><!-- होते, जाते, केला, असते, करतात, जातात, जातो, येते, केली, केले -->
+    <feat name="Aspect" value="Imp" upos="VERB">2</feat><!-- ऐकत, पाहत -->
+    <feat name="Aspect" value="Perf" upos="AUX,VERB">4306</feat><!-- होते, होती, केली, केले, झाले, आले, होता, झाली, झाला, आला -->
+    <feat name="Case" value="Acc" upos="NOUN,PRON,PROPN">21117</feat><!-- या, ह्या, त्यांनी, वेळी, आपल्या, अंतरावर, त्या, त्यांच्या, मला, ठिकाणी -->
+    <feat name="Case" value="Dat" upos="NOUN,PRON">11</feat><!-- आपल्याला, लोकांना, जगाला, देशवासीयांना, मला, मानवाला, याला, सर्वांप्रती -->
+    <feat name="Case" value="Erg" upos="PROPN">1</feat><!-- भारताने -->
+    <feat name="Case" value="Ins" upos="NOUN">7</feat><!-- अभिमानाने, आत्मनिर्भरतेबाबत, उदाहरणामधून, कुटुंबांनी, प्रादुर्भावाशी, मनाशी, संकटानंतर -->
+    <feat name="Case" value="Loc" upos="NOUN">6</feat><!-- काळात, जगभरात, प्रगतीत, भारतातसुद्धा, संधीत, स्तरावर -->
+    <feat name="Case" value="Nom" upos="ADJ,ADP,DET,NOUN,NUM,PRON,PROPN,VERB">30295</feat><!-- या, हे, ही, ते, हा, मी, तो, काम, मंदिर, ती -->
+    <feat name="Gender" value="Fem" upos="ADJ,ADP,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">15234</feat><!-- केली, ही, होती, या, झाली, आहे, होते, वेळी, आली, ती -->
+    <feat name="Gender" value="Masc" upos="ADJ,ADP,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">23269</feat><!-- या, हा, केला, होता, होते, यांनी, तो, झाला, आहे, त्यांनी -->
+    <feat name="Gender" value="Neut" upos="ADJ,ADP,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">16446</feat><!-- हे, होते, आहे, केले, या, आले, अंतरावर, झाले, काम, मंदिर -->
+    <feat name="Mood" value="Imp" upos="AUX,VERB">122</feat><!-- जाऊ, करा, जा, नका, घ्या, ठेवा, ये, दे, चला, नकोस -->
+    <feat name="Mood" value="Ind" upos="VERB">107</feat><!-- घाला, म्हटले, पोहोचाल, वाचवा, जाणाऱ्या, पाहाण्यासाठी, आण, कर, करू, बघ -->
+    <feat name="Mood" value="Sub" upos="AUX,VERB">9</feat><!-- आहे, करायचा, करू, आहेत, गमवावे, लागले -->
+    <feat name="Number" value="Plur" upos="ADJ,ADP,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">12221</feat><!-- आहेत, यांनी, होते, त्यांनी, ते, त्यांच्या, यांच्या, हे, त्यांना, या -->
+    <feat name="Number" value="Sing" upos="ADJ,ADP,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">53221</feat><!-- आहे, या, होते, हे, केली, केले, नाही, होती, ही, हा -->
+    <feat name="NumType" value="Card" upos="NUM">3468</feat><!-- एक, दोन, एका, तीन, हजार, चार, पाच, २२, दोन्ही, सहा -->
+    <feat name="NumType" value="Ord" upos="ADJ,NUM">337</feat><!-- दुसऱ्या, पहिल्या, पहिले, दुसर्‍या, पहिली, प्रथम, तिसऱ्या, आठव्या, दुसरे, बाराव्या -->
+    <feat name="Person" value="1" upos="AUX,PRON,VERB">1121</feat><!-- आहे, होते, केली, जाते, केले, केला, येते, शकतो, जाऊ, आहोत -->
+    <feat name="Person" value="2" upos="AUX,PRON,VERB">262</feat><!-- होता, शकता, करा, जा, नका, घाला, जाणाऱ्या, पाहिजेत, असा, जाता -->
+    <feat name="Person" value="3" upos="AUX,PRON,VERB">9884</feat><!-- आहे, आहेत, होते, होती, नाही, केली, केले, झाले, होता, आले -->
+    <feat name="Polarity" value="Neg" upos="AUX">5</feat><!-- नाही -->
+    <feat name="Polarity" value="Pos" upos="AUX">13</feat><!-- आहे, आहेत, आहोत, होते -->
+    <feat name="PronType" value="Dem" upos="DET,PRON">2151</feat><!-- या, हे, ही, हा, ह्या, त्या, असे, अशी, असा, अशा -->
+    <feat name="PronType" value="Ind" upos="DET,PRON">1948</feat><!-- काही, अनेक, कमी, सर्व, अधिक, हे, जास्त, प्रत्येक, इतर, फक्त -->
+    <feat name="PronType" value="Int" upos="PRON">264</feat><!-- काय, कुठे, कोण, कसे, कोणाला, केव्हा, कोणत्याही, का, कोणी, कसा -->
+    <feat name="PronType" value="Prs" upos="PRON">3820</feat><!-- मी, ते, आपल्या, त्यांनी, तो, त्यांच्या, मला, ती, त्यांना, त्याने -->
+    <feat name="PronType" value="Rel" upos="PRON">785</feat><!-- हे, ही, ते, जे, तो, हा, जो, ह्या, जी, ती -->
+    <feat name="PronType" value="Tot" upos="PRON">3</feat><!-- सर्व -->
+    <feat name="Tense" value="Fut" upos="AUX,VERB">380</feat><!-- होईल, येईल, असेल, जाईल, जाऊ, येतील, करतील, होतील, मिळेल, जातील -->
+    <feat name="Tense" value="Past" upos="AUX,VERB">5176</feat><!-- होते, केली, केले, होती, झाले, आले, होता, केला, झाली, झाला -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">5726</feat><!-- आहे, आहेत, होते, नाही, जाते, असते, करतात, जातात, जातो, येते -->
+    <feat name="VerbForm" value="Conv" upos="VERB">1598</feat><!-- करण्यासाठी, करून, घेऊन, असल्याने, करण्याची, जाण्यासाठी, जाऊन, राहण्यासाठी, होण्यासाठी, असल्याचे -->
+    <feat name="VerbForm" value="Fin" upos="AUX,VERB">15618</feat><!-- आहे, आहेत, होते, केली, नाही, केले, जाते, होती, केला, आले -->
+    <feat name="VerbForm" value="Inf" upos="VERB">129</feat><!-- करण्यासाठी, मिळविण्यासाठी, यायला, घेण्यासाठी, जाण्यासाठी, देण्यासाठी, पाहायला, वाचविण्यासाठी, उभारण्यासाठी, करायला -->
+    <feat name="VerbForm" value="Part" upos="VERB">56</feat><!-- गेल्या, असलेल्या, करण्याची, झाल्यास, असला, असलेली, असल्याने, आणल्याचे, आले, आल्या -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="35">
+    <dep name="acl">1038</dep>
+    <dep name="acl:relcl">355</dep>
+    <dep name="advcl">2447</dep>
+    <dep name="advmod">1366</dep>
+    <dep name="amod">7531</dep>
+    <dep name="aux">2286</dep>
+    <dep name="aux:pass">2144</dep>
+    <dep name="case">2009</dep>
+    <dep name="cc">3054</dep>
+    <dep name="ccomp">3</dep>
+    <dep name="compound">13969</dep>
+    <dep name="compound:lvc">5</dep>
+    <dep name="compound:redup">1</dep>
+    <dep name="compound:svc">3</dep>
+    <dep name="conj">4970</dep>
+    <dep name="cop">1888</dep>
+    <dep name="dep">744</dep>
+    <dep name="det">2912</dep>
+    <dep name="det:poss">2</dep>
+    <dep name="discourse">14</dep>
+    <dep name="dislocated">56</dep>
+    <dep name="iobj">504</dep>
+    <dep name="mark">296</dep>
+    <dep name="nmod">15234</dep>
+    <dep name="nmod:poss">17</dep>
+    <dep name="nsubj">8663</dep>
+    <dep name="nsubj:pass">125</dep>
+    <dep name="nummod">2849</dep>
+    <dep name="obj">4788</dep>
+    <dep name="obl">12915</dep>
+    <dep name="parataxis">1</dep>
+    <dep name="punct">15894</dep>
+    <dep name="root">9606</dep>
+    <dep name="vocative">2</dep>
+    <dep name="xcomp">507</dep>
+  </deps>
+</treebank>
